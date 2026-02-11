@@ -7,8 +7,8 @@ export default function ErrorPage() {
   let note = 'This page is not finished yet.'
   if (isRouteErrorResponse(error)) {
     note = `This page returned ${error.status} ${error.statusText}. It may not be finished yet.`
-  } else if (error && typeof (error as any).message === 'string') {
-    note = (error as any).message
+  } else if (error && typeof (error as Error).message === 'string') {
+    note = (error as Error).message
   }
 
   return (
