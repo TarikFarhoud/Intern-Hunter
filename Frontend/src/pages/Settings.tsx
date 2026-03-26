@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 import AppLayout from '../components/AppLayout'
 import './Dashboard.css'
-import './Settings.css'
 
 type Theme = 'light' | 'dark'
 
@@ -13,73 +12,154 @@ function getSavedTheme(): Theme {
 }
 
 export default function Settings() {
-  const [theme, setTheme] = useState<Theme>(() => {
-    return getSavedTheme()
-  })
+  const [theme, setTheme] = useState<Theme>(() => getSavedTheme())
+
+  // Change‑password form (UI only)
+  const [currentPw, setCurrentPw] = useState('')
+  const [newPw, setNewPw] = useState('')
+  const [confirmPw, setConfirmPw] = useState('')
+  const [pwMsg, setPwMsg] = useState<string | null>(null)
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
     window.localStorage.setItem(THEME_STORAGE_KEY, theme)
   }, [theme])
 
-  const toggleTheme = () => {
-    setTheme((previousTheme) => (previousTheme === 'light' ? 'dark' : 'light'))
+  const toggleTheme = () =>
+    setTheme((prev) => (prev === 'light' ? 'dark' : 'light'))
+
+  function handlePasswordSubmit() {
+    if (!currentPw || !newPw || !confirmPw) {
+      setPwMsg('Please fill in all fields.')
+      return
+    }
+    if (newPw !== confirmPw) {
+      setPwMsg('New passwords do not match.')
+      return
+    }
+    setPwMsg('Password change is not connected to the backend yet.')
+    setCurrentPw('')
+    setNewPw('')
+    setConfirmPw('')
   }
 
   return (
     <AppLayout pageLabel="Settings" activeNav="settings">
-      <div className="ih-grid settings-grid">
-        <section className="ih-card settings-card">
+      <div className="ih-grid">
+        {/* ── Appearance ── */}
+        <section className="ih-card">
           <div className="ih-cardHeader">
-            <div className="ih-cardTitle">Display</div>
-            <div className="ih-muted">Choose how the dashboard should look across every page.</div>
+            <div className="ih-cardTitle">Appearance</div>
+            <p className="ih-muted" style={{ marginTop: 4 }}>Switch between light and dark mode.</p>
           </div>
 
-          <div className="ih-cardBody settings-cardBody">
-            <div className="settings-row">
+          <div className="ih-cardBody">
+            <div style={{ display: 'flex', alignItems: 'center', gap: 20, flexWrap: 'wrap' }}>
+              {/* Toggle switch */}
+              <button
+                type="button"
+                role="switch"
+                aria-checked={theme === 'dark'}
+                onClick={toggleTheme}
+                style={{
+                  position: 'relative',
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  height: 32,
+                  width: 56,
+                  flexShrink: 0,
+                  cursor: 'pointer',
+                  borderRadius: 9999,
+                  border: 'none',
+                  padding: 0,
+                  background: theme === 'dark' ? 'var(--primary)' : 'var(--border-strong)',
+                  transition: 'background 0.2s',
+                }}
+              >
+                <span
+                  style={{
+                    display: 'inline-block',
+                    height: 24,
+                    width: 24,
+                    borderRadius: 9999,
+                    background: theme === 'dark' ? 'var(--primary-contrast)' : '#fff',
+                    boxShadow: '0 1px 3px rgba(0,0,0,0.2)',
+                    transform: theme === 'dark' ? 'translateX(27px)' : 'translateX(3px)',
+                    transition: 'transform 0.2s',
+                    pointerEvents: 'none',
+                  }}
+                />
+              </button>
+
               <div>
-                <div className="settings-label">Theme mode</div>
-                <p className="ih-muted settings-copy">
-                  Switch between light and dark mode. Your choice is saved and applied when the app loads.
+                <div style={{ fontSize: 20, fontWeight: 600, color: 'var(--text)' }}>Dark mode</div>
+                <p className="ih-muted" style={{ marginTop: 6 }}>
+                  {theme === 'dark' ? 'Dark theme is active' : 'Light theme is active'}
                 </p>
               </div>
-
-              <button className="ih-btnPrimary settings-toggle" type="button" onClick={toggleTheme}>
-                {theme === 'light' ? 'Enable Dark Mode' : 'Enable Light Mode'}
-              </button>
             </div>
+          </div>
+        </section>
 
-            <div className="settings-themeStatus">
-              <span className="ih-pill">{theme === 'dark' ? 'Dark mode active' : 'Light mode active'}</span>
-              <span className="ih-muted">Current theme: {theme}</span>
-            </div>
+        {/* ── Change Password (UI only) ── */}
+        <section className="ih-card">
+          <div className="ih-cardHeader">
+            <div className="ih-cardTitle">Change Password</div>
+            <p className="ih-muted" style={{ marginTop: 4 }}>Update your account password.</p>
+          </div>
 
-            <div className="settings-preview">
-              <div className="settings-previewHeader">
-                <div>
-                  <div className="settings-previewTitle">Preview</div>
-                  <div className="ih-muted">This sample uses the same shared colors and card sizing as the rest of the dashboard.</div>
-                </div>
-                <div className="settings-previewActions">
-                  <span className="settings-chip settings-chipPrimary">Primary</span>
-                  <span className="settings-chip">Surface</span>
-                </div>
-              </div>
+          <div className="ih-cardBody">
+            <div style={{ display: 'grid', gap: 18, maxWidth: 540 }}>
+              <label style={{ display: 'grid', gap: 8 }}>
+                <span style={{ fontSize: 18, fontWeight: 600, color: 'var(--text)' }}>Current Password</span>
+                <input
+                  className="ih-input"
+                  type="password"
+                  placeholder="Enter current password"
+                  value={currentPw}
+                  onChange={(e) => setCurrentPw(e.target.value)}
+                />
+              </label>
 
-              <div className="settings-previewGrid">
-                <div className="settings-previewPanel">
-                  <div className="settings-previewMetric">Readable contrast</div>
-                  <div className="settings-previewValue">AA-ready</div>
-                </div>
-                <div className="settings-previewPanel">
-                  <div className="settings-previewMetric">Saved preference</div>
-                  <div className="settings-previewValue">Persistent</div>
-                </div>
+              <label style={{ display: 'grid', gap: 8 }}>
+                <span style={{ fontSize: 18, fontWeight: 600, color: 'var(--text)' }}>New Password</span>
+                <input
+                  className="ih-input"
+                  type="password"
+                  placeholder="Enter new password"
+                  value={newPw}
+                  onChange={(e) => setNewPw(e.target.value)}
+                />
+              </label>
+
+              <label style={{ display: 'grid', gap: 8 }}>
+                <span style={{ fontSize: 18, fontWeight: 600, color: 'var(--text)' }}>Confirm New Password</span>
+                <input
+                  className="ih-input"
+                  type="password"
+                  placeholder="Confirm new password"
+                  value={confirmPw}
+                  onChange={(e) => setConfirmPw(e.target.value)}
+                />
+              </label>
+
+              {pwMsg ? (
+                <p className="ih-muted">{pwMsg}</p>
+              ) : null}
+
+              <div style={{ paddingTop: 4 }}>
+                <button
+                  className="ih-btnPrimary"
+                  type="button"
+                  onClick={handlePasswordSubmit}
+                >
+                  Update Password
+                </button>
               </div>
             </div>
           </div>
         </section>
       </div>
-      </AppLayout>
+    </AppLayout>
   )
 }
