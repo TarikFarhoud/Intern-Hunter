@@ -1,5 +1,8 @@
 import { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import AppLayout from '../components/AppLayout'
+import { deleteAccount } from '../lib/api'
+import { useAuthStore } from '../stores/authStore'
 import './Dashboard.css'
 
 type Theme = 'light' | 'dark'
@@ -13,12 +16,19 @@ function getSavedTheme(): Theme {
 
 export default function Settings() {
   const [theme, setTheme] = useState<Theme>(() => getSavedTheme())
+  const navigate = useNavigate()
+  const logout = useAuthStore((s) => s.logout)
 
   // Change‑password form (UI only)
   const [currentPw, setCurrentPw] = useState('')
   const [newPw, setNewPw] = useState('')
   const [confirmPw, setConfirmPw] = useState('')
   const [pwMsg, setPwMsg] = useState<string | null>(null)
+
+  // Delete account
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(false)
+  const [deleting, setDeleting] = useState(false)
+  const [deleteError, setDeleteError] = useState<string | null>(null)
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
@@ -41,6 +51,20 @@ export default function Settings() {
     setCurrentPw('')
     setNewPw('')
     setConfirmPw('')
+  }
+
+  async function handleDeleteAccount() {
+    setDeleting(true)
+    setDeleteError(null)
+    try {
+      await deleteAccount()
+      logout()
+      navigate('/login', { replace: true })
+    } catch (e) {
+      setDeleteError(e instanceof Error ? e.message : 'Failed to delete account.')
+    } finally {
+      setDeleting(false)
+    }
   }
 
   return (
@@ -157,6 +181,76 @@ export default function Settings() {
                 </button>
               </div>
             </div>
+          </div>
+        </section>
+
+        {/* ── Delete Account ── */}
+        <section className="ih-card" style={{ borderColor: '#ef4444' }}>
+          <div className="ih-cardHeader">
+            <div className="ih-cardTitle" style={{ color: '#ef4444' }}>Delete Account</div>
+            <p className="ih-muted" style={{ marginTop: 4 }}>
+              Permanently delete your account and all associated data. This action cannot be undone.
+            </p>
+          </div>
+
+          <div className="ih-cardBody">
+            {!showDeleteConfirm ? (
+              <button
+                type="button"
+                onClick={() => setShowDeleteConfirm(true)}
+                style={{
+                  border: '1px solid #ef4444',
+                  background: 'transparent',
+                  color: '#ef4444',
+                  padding: '12px 16px',
+                  fontSize: 20,
+                  borderRadius: 12,
+                  cursor: 'pointer',
+                  fontWeight: 600,
+                }}
+              >
+                Delete My Account
+              </button>
+            ) : (
+              <div style={{ display: 'grid', gap: 14, maxWidth: 540 }}>
+                <p style={{ fontSize: 18, color: 'var(--text)' }}>
+                  Are you sure? All your data (profile, resumes, feedback) will be permanently removed.
+                </p>
+
+                {deleteError ? (
+                  <p style={{ color: '#ef4444', fontSize: 18 }}>{deleteError}</p>
+                ) : null}
+
+                <div style={{ display: 'flex', gap: 12 }}>
+                  <button
+                    type="button"
+                    disabled={deleting}
+                    onClick={() => void handleDeleteAccount()}
+                    style={{
+                      border: 'none',
+                      background: '#ef4444',
+                      color: '#fff',
+                      padding: '12px 16px',
+                      fontSize: 20,
+                      borderRadius: 12,
+                      cursor: deleting ? 'not-allowed' : 'pointer',
+                      fontWeight: 600,
+                      opacity: deleting ? 0.7 : 1,
+                    }}
+                  >
+                    {deleting ? 'Deleting…' : 'Yes, Delete My Account'}
+                  </button>
+                  <button
+                    className="ih-btnGhost"
+                    type="button"
+                    disabled={deleting}
+                    onClick={() => { setShowDeleteConfirm(false); setDeleteError(null) }}
+                  >
+                    Cancel
+                  </button>
+                </div>
+              </div>
+            )}
           </div>
         </section>
       </div>
