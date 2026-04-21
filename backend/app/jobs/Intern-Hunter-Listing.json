@@ -50415,7 +50415,7 @@
     "company_name": "Shure",
     "id": "81103dc7-d211-4b42-8958-367fb8362d68",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -66808,7 +66808,7 @@
     "company_name": "Base Power",
     "id": "e2e3917f-309a-4c40-9db2-2b8beedf29be",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -210373,7 +210373,7 @@
     "company_name": "Shield AI",
     "id": "6cc5b067-1198-48d2-811b-353b580c6ce2",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -225148,7 +225148,7 @@
     "company_name": "Takeda",
     "id": "d25d0efc-8d5b-498c-bfe7-86c96122ffe1",
     "title": "2026 Summer Internship Program: Machine Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -237687,7 +237687,7 @@
     "company_name": "Tencent",
     "id": "67b29de5-f1d6-4d5c-aafe-081ab1a45d9a",
     "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -238199,7 +238199,7 @@
     "company_name": "Intrinsic",
     "id": "4318333a-a90a-49a6-bde3-c75a899cd8cf",
     "title": "Deep Learning Intern - Model Optimization",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -244164,7 +244164,7 @@
     "company_name": "Broadridge",
     "id": "e9ec0e7e-08cb-43b5-a0cd-ec925c1814b2",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -262382,7 +262382,7 @@
     "company_name": "Salient Motion",
     "id": "847efb51-f5ec-4972-8821-902cf74e5e29",
     "title": "Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -278438,7 +278438,7 @@
     "company_name": "Tencent",
     "id": "1e1a965e-238d-4281-abe5-a5d64b3feb37",
     "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -333042,7 +333042,7 @@
     "company_name": "Okta",
     "id": "fcf94456-dba6-4465-a121-aba1448c32b4",
     "title": "Digital Solutions Intern - Summer 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -367776,7 +367776,7 @@
     "company_name": "Alamar Biosciences",
     "id": "99db6323-8006-488b-9e17-fbe31b29b6e0",
     "title": "Internship - System Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -408272,7 +408272,7 @@
     "company_name": "Age of Learning",
     "id": "0414b73d-0034-4260-9ca7-622c3e0cabf2",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -416234,7 +416234,7 @@
     "company_name": "Moog ",
     "id": "79020f6b-ecd9-4b7b-856d-f9af4fec97e7",
     "title": "Intern – Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -423335,7 +423335,7 @@
     "company_name": "Shield AI",
     "id": "b12c652c-3fc2-41f0-91b6-705ef68dcf82",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -433141,7 +433141,7 @@
     "company_name": "Alamar Biosciences",
     "id": "23026e24-5c0d-4dba-bc1b-04daeb90f98a",
     "title": "Intern - Bioinformatics Data Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -437155,7 +437155,7 @@
     "company_name": "Intapp",
     "id": "3c959951-e2bc-48b7-8bee-d9f71e821969",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -438423,7 +438423,7 @@
     "company_name": "American Century Investments",
     "id": "40fe218f-0e2d-49d6-84e9-6a80d629ca27",
     "title": "Quantitative Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -439867,7 +439867,7 @@
     "company_name": "Johnson & Johnson",
     "id": "d47324b7-d641-49cc-a2ec-d45062c0f7d8",
     "title": "Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -444574,7 +444574,7 @@
     "company_name": "Qualitest",
     "id": "d0f73619-189e-406c-8d5f-62aff3221820",
     "title": "Digital Engineering CoE Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -447607,7 +447607,7 @@
     "company_name": "Ameriprise Financial",
     "id": "92677f78-dc51-47a2-b32b-85a836c01c02",
     "title": "RiverSource Technology Leadership Development Program Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -458971,7 +458971,7 @@
     "company_name": "Regions Bank",
     "id": "fbc21d15-8706-426f-b11b-d45e618a1393",
     "title": "ETP Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -459922,7 +459922,7 @@
     "company_name": "Northwell Health",
     "id": "266d3802-12f4-40cd-9229-4ef33cb341d8",
     "title": "Data Analytics / Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -459945,7 +459945,7 @@
     "company_name": "Northwell Health",
     "id": "72d3b388-1e9e-4816-a7d0-31b146330597",
     "title": "Data Analytics / Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -459984,5 +459984,172 @@
     "degrees": [
       "Master's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Togetherwork",
+    "id": "625e369f-4225-466f-9c5e-13e522f4c7ef",
+    "title": "AI Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776733937,
+    "date_posted": 1776733833,
+    "url": "https://togetherwork.com/application/?gh_jid=8515267002",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Togetherwork",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Western Alliance",
+    "id": "71ec3c51-197b-4bb4-a055-ddd746c432e7",
+    "title": "Intern - Computer Science Majors",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776733968,
+    "date_posted": 1776733659,
+    "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2026-Internship---Computer-Science-Majors_R12241",
+    "locations": [
+      "Dallas, TX",
+      "Phoenix, AZ",
+      "Irving, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Western-Alliance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "13994ae1-e484-4b8d-857a-36fdc5cddde3",
+    "title": "Research Scientist Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1776733928,
+    "date_posted": 1776733679,
+    "url": "https://jobs.bytedance.com/en/position/7629483617265289525/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "be4ea7de-eb75-4670-951c-a997825e29b7",
+    "title": "Post Doc Scientist Data Science AI/ML Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1776751971,
+    "date_posted": 1776751690,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Post-Doc-Scientist-Data-Science-AI-ML_R-071095-1",
+    "locations": [
+      "Cambridge, MA",
+      "New Hope, PA",
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "674ef367-e33f-4289-b2c5-cbaf0ed7f53a",
+    "title": "Software Engineering Intern - Robot Learning Platform",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1776752027,
+    "date_posted": 1776751661,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Robot-Learning-Platform---Fall-2026_JR2015575",
+    "locations": [
+      "California",
+      "Santa Clara, CA",
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Zoox",
+    "id": "65d2f7c5-bd84-43d5-ac0d-207793327798",
+    "title": "PhD Research Intern - Multi-Modal Foundation Encoder for Perception",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1776751741,
+    "date_posted": 1776751615,
+    "url": "https://jobs.lever.co/zoox/44721ec7-87ce-4b24-95a1-b949c6d9b17c/apply",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Zoox",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "S&P Global ",
+    "id": "16d8aa4f-5c2d-48e3-9ea2-4c8cba0e7881",
+    "title": "ETF Analyst Intern - Business & Product Analysis",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776751741,
+    "date_posted": 1776751607,
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/ETF-Analyst-Intern---Business---Product-Analysis_321942-1",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/SP-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
