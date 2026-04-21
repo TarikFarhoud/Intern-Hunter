@@ -95758,7 +95758,7 @@
     "company_name": "Hermeus",
     "id": "7ccc6049-59be-4b77-9e0f-f940686a4996",
     "title": "Software Engineering Intern - Datalinks/C2",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026"
@@ -114627,7 +114627,7 @@
     "company_name": "Electronic Arts",
     "id": "2027e67f-b3e2-459c-8047-7cea7f82140e",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2025"
     ],
@@ -239277,7 +239277,7 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Nutanix",
-    "id": "4517181b-c420-4514-a0df-1059ec52b260",
+    "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
     "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
     "active": true,
     "terms": [
@@ -285995,7 +285995,7 @@
     "company_name": "Rheem",
     "id": "f54c35bf-53b8-4133-b075-c39d25e00a77",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -307349,7 +307349,7 @@
     "company_name": "Avathon",
     "id": "2164a5af-267c-4dbf-94fd-aa9a78ffcc06",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -379928,7 +379928,7 @@
     "company_name": "Precisely",
     "id": "d765c8a9-1451-4823-b5fd-ba4537fa3eb2",
     "title": "AI Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -392801,7 +392801,7 @@
     "company_name": "Johnson Controls",
     "id": "ec4acaac-8a67-4f45-acaf-0abec809bab8",
     "title": "Engineering Intern - Innovation",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -419053,7 +419053,7 @@
     "company_name": "Magna",
     "id": "7da42a95-8d34-4cb1-bec4-28f3d6e65f60",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -419709,7 +419709,7 @@
     "company_name": "DiDi Global",
     "id": "e400839e-d530-4c41-871b-5834d0418863",
     "title": "Software Engineer – Intern - Simulation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -423335,7 +423335,7 @@
     "company_name": "Shield AI",
     "id": "b12c652c-3fc2-41f0-91b6-705ef68dcf82",
     "title": "Embedded Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -426527,7 +426527,7 @@
     "company_name": "Nucor",
     "id": "69a47302-cc5b-4a80-83a2-fc093cf7b778",
     "title": "UX / UI Designer – Full Stack Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -427433,7 +427433,7 @@
     "company_name": "Trane Technologies",
     "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
     "title": "Technical Applications and HW Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -433968,7 +433968,7 @@
     "company_name": "Rogers Behavioral Health",
     "id": "67284dc7-b91d-4c8e-a900-c4146a2c65ae",
     "title": "Therapist – PHP/Iop",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -453173,7 +453173,7 @@
     "company_name": "Leidos",
     "id": "dc774ae5-09fb-49c9-a4e7-3114989146c5",
     "title": "Intern Model-Based Systems Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -453421,7 +453421,7 @@
     "company_name": "Wash U",
     "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -455921,7 +455921,7 @@
     "company_name": "Leidos",
     "id": "dc7fbb19-7aa9-4961-aa14-8b7c84dcb959",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -460151,5 +460151,99 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "029427e5-d571-423d-84ca-6f3bcf7502ac",
+    "title": "Product Operations Project Intern - Advertising - Creative",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776762722,
+    "date_posted": 1776762694,
+    "url": "https://lifeattiktok.com/search/7630838458010241333",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "DiDi Global",
+    "id": "e8769219-2e33-415f-a4e4-eaee86c1c533",
+    "title": "Software Engineer – Intern - Simulation",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776762254,
+    "date_posted": 1776762122,
+    "url": "https://job-boards.greenhouse.io/didi/jobs/7835330",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/DiDi-Global",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Invisible Technologies AI",
+    "id": "b84e0329-1f91-422f-ae8f-44df7db7fd47",
+    "title": "AI Generalist Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1776765093,
+    "date_posted": 1768876017,
+    "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cooper Companies",
+    "id": "b784e7aa-1650-4cda-90b1-26d9ded07840",
+    "title": "R&D – Software Development Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776764881,
+    "date_posted": 1774573683,
+    "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10592",
+    "locations": [
+      "Bridgeport, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Cooper-Companies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
   }
 ]
