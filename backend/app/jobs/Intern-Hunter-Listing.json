@@ -1,172 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Other",
-    "company_name": "Verkada",
-    "id": "bc5f682f-392c-4ecb-8e19-9d6b59c2f99c",
-    "title": "Technical Support Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756171119,
-    "date_posted": 1756171119,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4838307007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "BitGo",
-    "id": "21e9f872-e696-433e-93c1-596b1b1ca30a",
-    "title": "Software Engineer Intern - Custody Experience",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1756170795,
-    "date_posted": 1756170795,
-    "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8136918002",
-    "locations": [
-      "Kitchener, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/BitGo",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Skyworks",
-    "id": "98d1d763-9d4f-4916-9058-72747977cde7",
-    "title": "NPI Automation Engineering Co-Op",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026"
-    ],
-    "date_updated": 1756173377,
-    "date_posted": 1756173377,
-    "url": "https://careers.skyworksinc.com/job/Irvine-NPI-Automation-Engineering-Co-Op-(WinterSpring-2026)-CA-92602/1320122800/?ats=successfactors",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Skyworks",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Skyworks",
-    "id": "094efcc4-7550-4775-ae4b-512aafb05ed1",
-    "title": "NPI Automation Engineering Co-Op",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Winter 2026"
-    ],
-    "date_updated": 1756173381,
-    "date_posted": 1756173381,
-    "url": "https://careers.skyworksinc.com/job/Irvine-NPI-Automation-Engineering-Co-Op-(SummerFall-2026)-CA-92602/1320119000/?ats=successfactors",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Skyworks",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Other",
-    "company_name": "Fifth Third Bank",
-    "id": "aed7ea18-bb42-42a5-8bb5-462e3c0e4f4e",
-    "title": "Information Security Co-op - Secdev Services",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1756176265,
-    "date_posted": 1756176265,
-    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---SecDev-Services---Spring-2026_R61458",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TikTok",
-    "id": "29355c80-48bf-4523-a41c-71582bd278bc",
-    "title": "Product Operations Project Intern - SMB Industry Operations",
-    "active": false,
-    "terms": [
-      "Fall 2025"
-    ],
-    "date_updated": 1756177043,
-    "date_posted": 1756177043,
-    "url": "https://lifeattiktok.com/search/7542594441245624584",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Devon Energy",
-    "id": "399b07b6-97da-47ba-a11d-8cf060b2566e",
-    "title": "Energy Marketing Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756188998,
-    "date_posted": 1756188998,
-    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Energy-Marketing-Intern---Summer-2026_R25347",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "company_url": "https://simplify.jobs/c/Devon-Energy",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Dropbox",
     "id": "4b0cdd84-7ff1-4c5e-a12a-804aab8d3526",
@@ -162078,27 +161912,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Legrand",
-    "id": "990ef33c-969a-45f9-b9f3-674f96b7935d",
-    "title": "Intern – Engineering Firmware",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761860321,
-    "date_posted": 1756189421,
-    "url": "https://milestone.wd1.myworkdayjobs.com/en-US/Milestone_External/job/NJ-Fairfield/Intern---Engineering-Firmware_R03567",
-    "locations": [
-      "Wayne, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Legrand",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Qorvo",
     "id": "595a51bc-4c5e-4dd9-ab2c-b54836b8dfc2",
@@ -208420,7 +208233,7 @@
     "company_name": "The Aerospace Corporation",
     "id": "24f7a161-0fd6-4fd0-9a1d-613e0b3d14b2",
     "title": "Machine Learning Engineering Grad Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -260673,7 +260486,7 @@
     "company_name": "Deloitte",
     "id": "fc8a5aad-8e6a-4b05-aef1-66ac26a025f7",
     "title": "Solution Analyst - Government & Public Services - AI & Data Engineering Solutions",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -291904,27 +291717,6 @@
     "degrees": [
       "Bachelor's"
     ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Skyways",
-    "id": "4220ef1e-37ac-40b2-b417-469e758fbd51",
-    "title": "Skyways Intern - 2026 and Beyond",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769594380,
-    "date_posted": 1756171896,
-    "url": "https://jobs.lever.co/skyways/56169800-f7a4-47de-9f72-c865c74a6e45/apply",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Skyways",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
   },
   {
     "source": "Simplify",
@@ -340987,7 +340779,7 @@
     "company_name": "Fiserv",
     "id": "ab2303d9-7665-4a68-bfd1-e2e7657e37fb",
     "title": "Corporate Technology Internship - Application Development / Software Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2028",
       "Spring 2028",
@@ -374132,7 +373924,7 @@
     "company_name": "Meta",
     "id": "ce9307fe-e0b2-40cf-bbd3-4b4cf0ab797c",
     "title": "Research Scientist Intern - Pytorch On-Device",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -378426,7 +378218,7 @@
     "company_name": "Roblox",
     "id": "4889cfd3-60e0-403f-870c-f1effd77d1ff",
     "title": "Software Engineer – Community Apprenticeship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -397415,7 +397207,7 @@
     "company_name": "Coherent ",
     "id": "1dadce1a-a543-47ec-87e0-f871a7f79051",
     "title": "Intern Laser Application Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -446173,7 +445965,7 @@
     "company_name": "Becton Dickinson",
     "id": "8b9af2b7-1757-49ca-9b1e-37e7e3ea3f4b",
     "title": "Product Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -453188,7 +452980,7 @@
     "company_name": "Cincinnati Financial",
     "id": "aadb21b6-722d-47b1-a5f1-6ffd677cb17e",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -459174,7 +458966,7 @@
     "company_name": "skillz",
     "id": "21d7f4b7-9cde-4b03-895f-857047dcfff2",
     "title": "Engineering Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -459929,7 +459721,7 @@
     "company_name": "Trane Technologies",
     "id": "96ea2c9e-1d4f-4fc4-9611-9dfce4eaf145",
     "title": "Product Security Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -460045,7 +459837,7 @@
     "company_name": "Corebridge Financial",
     "id": "edfe2113-ed48-4671-8583-76fd4a82cbaa",
     "title": "Retirement Services Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -461074,6 +460866,239 @@
     "sponsorship": "Other",
     "degrees": [
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "7a9007b5-0d51-454b-8705-556a660e58e2",
+    "title": "Analyst Business Systems and Transformation Intern - Analyst Business Systems & Transformation",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Summer 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1776906688,
+    "date_posted": 1776906467,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-systmes-d-affaires-et-transformation---Internship-Fall-2026---Analyst-Business-Systems---Transformation_01837757",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "TikTok",
+    "id": "1ed2eb99-0aad-44c5-a7ec-2987bd71cfc3",
+    "title": "Data Product Manager Project Intern - Monetization",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776906721,
+    "date_posted": 1776906606,
+    "url": "https://lifeattiktok.com/search/7631277919231625525",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Anduril",
+    "id": "a5a74a79-9e57-4bc6-b89d-a5635316f006",
+    "title": "Software Engineer Intern - Warfighter Systems",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1776906974,
+    "date_posted": 1776906621,
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117558007",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Anduril",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "14d22aac-7a5a-42f8-8940-de8c54d85d29",
+    "title": "Engine Controls & Accessories Technical Services Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1776906834,
+    "date_posted": 1776906468,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Service-Technique-des-Accessoires-Moteurs---Internship-Fall-2026---Engine-Controls---Accessories-Technical-Services_01839788",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "9430a201-fe3c-436a-9cb4-361fb296ee24",
+    "title": "Intern Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776924721,
+    "date_posted": 1776924586,
+    "url": "https://careers-gdms.icims.com/jobs/72207/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "2d1c65d4-0d7c-4c1e-99ac-ab19b5c598da",
+    "title": "Intern Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776924721,
+    "date_posted": 1776924586,
+    "url": "https://careers-gdms.icims.com/jobs/72206/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "fb93c5fe-e189-43a9-a31a-f841ecf9743e",
+    "title": "Intern Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776924721,
+    "date_posted": 1776924586,
+    "url": "https://careers-gdms.icims.com/jobs/72208/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Halliburton",
+    "id": "75d6263f-2c21-46a5-90cc-31fedebf6aba",
+    "title": "Data Scientist Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776924536,
+    "date_posted": 1776924325,
+    "url": "https://jobs.halliburton.com/job/Abingdon-Abingdon_Data-Scientist-Internship-OXF-OX14-4RW/1384809800/?ats=successfactors",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Halliburton",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "b4ef0828-000a-44a9-9143-7dd2b1c62d1b",
+    "title": "Intern Software Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776924721,
+    "date_posted": 1776924586,
+    "url": "https://careers-gdms.icims.com/jobs/72205/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Legrand",
+    "id": "990ef33c-969a-45f9-b9f3-674f96b7935d",
+    "title": "Engineering Firmware Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776524654,
+    "date_posted": 1776522984,
+    "url": "https://milestone.wd1.myworkdayjobs.com/en-US/Milestone_External/job/NJ-Fairfield/Intern---Engineering-Firmware_R03567",
+    "locations": [
+      "Wayne, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Legrand",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
