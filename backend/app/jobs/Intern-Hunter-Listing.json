@@ -1,128 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Dropbox",
-    "id": "4b0cdd84-7ff1-4c5e-a12a-804aab8d3526",
-    "title": "Software Engineer intern",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1761316810,
-    "date_posted": 1756193597,
-    "url": "https://boards.greenhouse.io/embed/job_app?token=7183245",
-    "locations": [
-      "Remote in Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Dropbox",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Dropbox",
-    "id": "134b65fb-072b-4a62-ac5c-8294eac00ffa",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1761337004,
-    "date_posted": 1756193798,
-    "url": "https://boards.greenhouse.io/embed/job_app?token=7183241",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Dropbox",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "ByteDance",
-    "id": "d663945e-b8da-4cc3-8af8-940cda193979",
-    "title": "Frontend Software Engineer Intern - Web and Client - Global Payment",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756194869,
-    "date_posted": 1756194869,
-    "url": "https://jobs.bytedance.com/en/position/7538583899431373063/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "date_updated": 1756205943,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://www.google.com/about/careers/applications/jobs/results/100216277234000582-research-intern-phd-summer-2026",
-    "company_name": "Google",
-    "title": "Research Intern",
-    "locations": [
-      "Mountain View, CA",
-      "Atlanta, GA",
-      "Austin, TX",
-      "Boulder, CO",
-      "Cambridge, MA",
-      "Bellevue, WA",
-      "Chicago, IL",
-      "Irvine, CA",
-      "Kirkland, WA",
-      "Los Angeles, CA",
-      "Madison, WI",
-      "New York, NY",
-      "Palo Alto, CA",
-      "Portland, OR",
-      "Pittsburgh, PA",
-      "Raleigh, NC",
-      "Durham, NC",
-      "Reston, VA",
-      "Redmond, WA",
-      "Redwood City, CA",
-      "San Diego, CA",
-      "Goleta, CA",
-      "San Bruno, CA",
-      "Seattle, WA",
-      "San Francisco, CA",
-      "San Jose, CA",
-      "Santa Cruz, CA",
-      "Sunnyvale, CA",
-      "Washington D.C., DC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Other",
-    "source": "AlmondCroffle",
-    "id": "8e09c31b-7067-4eae-b202-495eb2a8878b",
-    "date_posted": 1756205943,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
     "date_updated": 1758245293,
     "sponsorship": "Does Not Offer Sponsorship",
     "active": true,
@@ -80997,7 +80874,7 @@
     "company_name": "JP Morgan Chase",
     "id": "09167fcd-e620-4ed6-966f-245c7f4420d1",
     "title": "Machine Learning Summer Associate - Machine Learning Center of Excellence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -161892,27 +161769,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "The Brattle Group",
-    "id": "feb8c558-79da-4a4f-a7c7-7a809df7c160",
-    "title": "Energy Analyst Intern - Economics - Summer 2026",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1758620445,
-    "date_posted": 1756191692,
-    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4601382005",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/TheBrattleGroup",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Qorvo",
     "id": "595a51bc-4c5e-4dd9-ab2c-b54836b8dfc2",
     "title": "Business Demand Analyst Intern",
@@ -209163,7 +209019,7 @@
     "company_name": "Wintermute",
     "id": "2319e255-13ec-4b97-a75b-1377d4fe5be7",
     "title": "Defi Algorithmic Trading Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -388078,9 +387934,9 @@
     ]
   },
   {
-    "date_updated": 1773321275,
+    "date_updated": 1776943643,
     "sponsorship": "Offers Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -388340,9 +388196,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1773323147,
+    "date_updated": 1776943643,
     "sponsorship": "Offers Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -397734,9 +397590,9 @@
     "degrees": []
   },
   {
-    "date_updated": 1773746818,
+    "date_updated": 1776943643,
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -400734,9 +400590,9 @@
     ]
   },
   {
-    "date_updated": 1773845355,
+    "date_updated": 1776943643,
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -400831,7 +400687,7 @@
     "company_name": "Thomson Reuters",
     "id": "830cb4ae-23a6-42a2-81d9-3c2124d958ed",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -419337,9 +419193,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1774873990,
+    "date_updated": 1776943643,
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -419383,9 +419239,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1774874928,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -432574,9 +432430,9 @@
     ]
   },
   {
-    "date_updated": 1775472043,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -438273,7 +438129,7 @@
     "company_name": "Electronic Arts",
     "id": "3a0b0dbb-fbd9-49e9-92b1-489a27764605",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -440093,7 +439949,7 @@
     "company_name": "Ford Motor Company",
     "id": "aa6e4ffb-8418-4bbb-9110-0fc81e39f1b9",
     "title": "Student Worker Program - Physical Prototypes Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -443267,7 +443123,7 @@
     "company_name": "W.W. Grainger",
     "id": "1682fbfc-b5b6-4a5d-a5ec-f0138208298d",
     "title": "GTG Intern - Applied Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -444082,9 +443938,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776069858,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -446518,9 +446374,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776157788,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -448351,7 +448207,7 @@
     "company_name": "PG&E",
     "id": "10e05443-775e-460c-858c-b6a0c505ffef",
     "title": "AC Vehicle-to-Grid Product Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -450386,9 +450242,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776348303,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -450478,9 +450334,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776348693,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -450570,9 +450426,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776349211,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Master's"
     ],
@@ -451370,7 +451226,7 @@
     "company_name": "RTX",
     "id": "93aa55ae-d3fa-46a7-82b2-7c288871469b",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -453161,7 +453017,7 @@
     "company_name": "Western Union",
     "id": "34e92c06-587f-4918-af6c-7b442f8023b8",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -454665,7 +454521,7 @@
     "company_name": "Insulet Corporation",
     "id": "a368a6c2-4153-407c-874d-e5e610ffbf7b",
     "title": "Supplier Engineering Co-op - Project Excellence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -454758,7 +454614,7 @@
     "company_name": "Upvest",
     "id": "db8c50e2-fefb-4370-b564-f0449b89ceca",
     "title": "Trainee Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -455334,9 +455190,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776666965,
+    "date_updated": 1776943643,
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -455357,9 +455213,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776667051,
+    "date_updated": 1776943643,
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -455403,9 +455259,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776667339,
+    "date_updated": 1776943643,
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -455427,9 +455283,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776667462,
+    "date_updated": 1776943643,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -456112,7 +455968,7 @@
     "company_name": "Uber",
     "id": "8c8eeaf7-fc70-421c-ba95-ec814cf5570a",
     "title": "PhD Software Engineer Intern - Search",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -457395,7 +457251,7 @@
     "company_name": "NBCUniversal",
     "id": "dddcae61-dcb5-491f-95fe-c6fd1920bbcf",
     "title": "Advertising & Partnerships Ad Products Intern - Academic Year",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -460166,7 +460022,7 @@
     "company_name": "Caterpillar Inc.",
     "id": "e107c65a-daf2-4136-87d4-7f3b19a66ba9",
     "title": "Part Time Intern - Digital and Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -460753,7 +460609,7 @@
     "company_name": "Amazon",
     "id": "e3a9f714-561a-45f3-9c22-6873fe4efadd",
     "title": "Applied Science Internships Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -461099,6 +460955,29 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cotiviti",
+    "id": "435435da-6685-421a-9d26-adb65a49a8cb",
+    "title": "Intern - AI Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776933618,
+    "date_posted": 1776204495,
+    "url": "https://careers-cotiviti.icims.com/jobs/18804/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cotiviti",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
     ]
   }
 ]
