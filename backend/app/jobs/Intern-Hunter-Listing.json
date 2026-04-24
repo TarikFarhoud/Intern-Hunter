@@ -2,461 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Dell Technologies",
-    "id": "fa4d3625-1ec1-49cd-8588-99e81060473d",
-    "title": "Dell Summer Internship - Software Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756257991,
-    "date_posted": 1756257991,
-    "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-Summer-Internship---Software-Engineering_R276698",
-    "locations": [
-      "Round Rock, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Dell-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Marsh",
-    "id": "16748082-d5f2-4230-8fe3-8100e6069c87",
-    "title": "Catastrophe Advisory Spring Co-op - College Program 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1756258117,
-    "date_posted": 1756258117,
-    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Catastrophe-Advisory-Spring-Co-op---College-Program-2026_R_321389",
-    "locations": [
-      "Boston, MA",
-      "Philadelphia, PA",
-      "Hopkins, MN",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Verkada",
-    "id": "6d7e45b5-7156-4576-8353-37c9fcb5b10b",
-    "title": "Embedded Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1756257783,
-    "date_posted": 1756257783,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4840383007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Verkada",
-    "id": "eb2b9961-93ca-4229-b2b3-111ae3fe1e03",
-    "title": "Backend Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1756257778,
-    "date_posted": 1756257778,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4836993007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Verkada",
-    "id": "3d19cb42-7c5d-40d9-8fa1-e3b3c8f1d9a8",
-    "title": "Frontend Software Engineering Intern 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1756257776,
-    "date_posted": 1756257776,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4840368007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Other",
-    "company_name": "Cisco",
-    "id": "733bfe30-fec6-4086-a93f-e45ab4d7045f",
-    "title": "Security Consulting Engineer I – Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756364487,
-    "date_posted": 1756261035,
-    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Cisco",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Cisco",
-    "id": "5cf83578-9118-45a8-8061-f4d78f95b208",
-    "title": "Hardware Engineer I – Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756365236,
-    "date_posted": 1756261055,
-    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1447911",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cisco",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cisco",
-    "id": "1a56347e-6fe7-4947-be8b-f5f4037122de",
-    "title": "Software Consulting Engineer I – Intern",
-    "active": false,
-    "terms": [
-      "Fall 2025"
-    ],
-    "date_updated": 1756261035,
-    "date_posted": 1756261035,
-    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Consulting-Engineer-I-Intern-United-States/1448054",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Cisco",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Certificate"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
-    "title": "Computational Data Scientist Intern - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756366107,
-    "date_posted": 1756260691,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009198524",
-    "locations": [
-      "Waukegan, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Nokia",
-    "id": "5e23376e-08f2-4136-bc26-45acada1f1d0",
-    "title": "Saas Co-Op",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1756260313,
-    "date_posted": 1756260313,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24089",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Nokia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Other",
-    "company_name": "Cisco",
-    "id": "237d2a1a-b20e-41ee-99cd-a39ff8110bfb",
-    "title": "Consulting Engineer I – Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756364373,
-    "date_posted": 1756261476,
-    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Cisco",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "ee7765e2-658f-4be4-a4a8-45e6f41a7c4b",
-    "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
-    "active": true,
-    "terms": [
-      "Fall 2025"
-    ],
-    "date_updated": 1756263615,
-    "date_posted": 1756263615,
-    "url": "https://jobs.bytedance.com/en/position/7535171166420453639/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "bce5201b-036c-4ba1-be53-19395300b664",
-    "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
-    "active": true,
-    "terms": [
-      "Fall 2025"
-    ],
-    "date_updated": 1756263760,
-    "date_posted": 1756263760,
-    "url": "https://jobs.bytedance.com/en/position/7540409121163839751/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "d41a149a-27b3-4377-bc6f-d0d538d03056",
-    "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance - PhD",
-    "active": true,
-    "terms": [
-      "Fall 2025"
-    ],
-    "date_updated": 1756263612,
-    "date_posted": 1756263612,
-    "url": "https://jobs.bytedance.com/en/position/7538942403488188680/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "6bc3983c-65aa-4d29-9a3b-a08c3230a75a",
-    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - CV/Multimodal/NLP - BS/MS",
-    "active": true,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756263760,
-    "date_posted": 1756263760,
-    "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "2c746302-72dc-4ecf-88fe-0c93ec89ce6e",
-    "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - PhD",
-    "active": true,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756263735,
-    "date_posted": 1756263735,
-    "url": "https://jobs.bytedance.com/en/position/7535951608832657682/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "77245ac7-931e-4d69-8030-18400e8793a2",
-    "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms - BS/MS",
-    "active": true,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756263612,
-    "date_posted": 1756263612,
-    "url": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TikTok",
-    "id": "e8fe53d2-e6d7-49e3-b99e-048cc351bc8e",
-    "title": "Software Engineer Intern - AI Applications",
-    "active": true,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1756264099,
-    "date_posted": 1756264099,
-    "url": "https://lifeattiktok.com/search/7540823204350527752",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "SNC-Lavalin",
-    "id": "dfba301b-fe87-44ea-98a7-7b0bf5494173",
-    "title": "Software Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756276263,
-    "date_posted": 1756276263,
-    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2026_R-136763-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "TikTok",
     "id": "177690e4-6703-4698-a2bd-350db211f356",
     "title": "Software Engineer Intern - AI Applications",
@@ -59999,7 +59544,7 @@
     "company_name": "Cencora",
     "id": "ff4e0342-8f11-4860-a804-c5d127c024d4",
     "title": "AI/ML Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -130190,36 +129735,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Marsh",
-    "id": "089448a5-497c-4f82-a05b-18a204113c89",
-    "title": "NERA Summer Internship – Summer 2027 Grads - Multiple Locations",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761254139,
-    "date_posted": 1756275042,
-    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Summer-Internship--Summer-2027-Grads---Multiple-Locations-_R_320669-1",
-    "locations": [
-      "Boston, MA",
-      "Washington, DC",
-      "SF",
-      "Chicago, IL",
-      "NYC",
-      "White Plains, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Meta",
     "id": "f515a0d6-45c4-4576-bdf8-10a062ef7f1a",
     "title": "Research Scientist Intern - Demography & Survey Science - Summer 2026",
@@ -136656,7 +136171,7 @@
     "company_name": "Takeda",
     "id": "eaf878ae-4667-4603-a1df-a640f229c6f4",
     "title": "2026 U.S. Summer Internship Program: Data Engineering & AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -159942,28 +159457,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Skyworks",
-    "id": "3d26b97a-ea94-4881-ad88-6a718ff03c8d",
-    "title": "Digital Design Summer/Fall Co-Op - June - Dec",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1756260496,
-    "date_posted": 1756260496,
-    "url": "https://careers.skyworksinc.com/job/Austin-Digital-Design-SummerFall-Co-Op-(June-'26-Dec-'26)-TX-73301/1320541700/?ats=successfactors",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Skyworks",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Qorvo",
     "id": "595a51bc-4c5e-4dd9-ab2c-b54836b8dfc2",
@@ -169525,27 +169018,6 @@
       "Tullahoma, TN"
     ],
     "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Neuralink",
-    "id": "b7e0770f-1c4e-4053-b935-275f1082e435",
-    "title": "Design Engineer Intern",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761876556,
-    "date_posted": 1756258692,
-    "url": "https://boards.greenhouse.io/neuralink/jobs/6693211003",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Neuralink",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -202008,7 +201480,7 @@
     "company_name": "Cadence Design Systems",
     "id": "e711d59e-ae19-48d5-9148-5e7038a60393",
     "title": "Software Engineering Intern - Circuit Simulation infrastructure",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -334910,7 +334382,7 @@
     "company_name": "X Development",
     "id": "8d53bff4-3cab-4ccb-a1e4-c5d02f65eb77",
     "title": "PhD Residency - Machine Learning for Grid Simulations",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -357698,7 +357170,7 @@
     "company_name": "Pitney Bowes",
     "id": "2ef60845-5f6d-4c6f-8515-113cac5689e4",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -371608,7 +371080,7 @@
     "company_name": "Skydio",
     "id": "8c1e8aa5-c1a2-4af3-8d98-ec5cc4b44b64",
     "title": "Manufacturing Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -408602,7 +408074,7 @@
     "company_name": "Nokia",
     "id": "f43aa72d-d783-422b-b95d-36487993d7eb",
     "title": "Embedded C/C++ Software Developer Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -419627,7 +419099,7 @@
     "company_name": "X Development",
     "id": "b13cef48-3596-4cff-9044-ddb5dfb0853d",
     "title": "PhD Residency - Machine Learning for Waste Characterization",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -426421,9 +425893,9 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Planet",
-    "id": "91988944-30f1-4da0-8377-172ed60ac3f4",
+    "id": "f40c77f7-2e86-4817-8564-b77e83882978",
     "title": "Intern Mission Optimization Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -431124,7 +430596,7 @@
     "company_name": "State Street",
     "id": "79df159a-9a93-4a85-aa72-655840ce307e",
     "title": "Software Engineer Intern - Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -434133,7 +433605,7 @@
     "company_name": "Lowe's ",
     "id": "a2871348-74c5-426e-8a84-937ac0ed4e06",
     "title": "Data Scientist - Launchpad",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -437555,7 +437027,7 @@
     "company_name": "Phillips 66",
     "id": "376d8d7e-b706-43b6-b8a5-a4934525a5d4",
     "title": "Process Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -439134,7 +438606,7 @@
     "company_name": "Dow Chemical Company",
     "id": "0a43443f-23c7-466a-a9ef-0c30690a2e00",
     "title": "Co-op Computer Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -440637,7 +440109,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "08a9e07e-aefd-4a44-b4bd-bae40a824279",
     "title": "Relationship Manager Business Markets Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -443640,7 +443112,7 @@
     "company_name": "American Century Investments",
     "id": "b0b68c9d-5842-4388-98f4-fedb0a8ae9eb",
     "title": "AI/ML Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -448124,7 +447596,7 @@
     "company_name": "Thales",
     "id": "4742d99b-fff1-403b-a8c1-1e186798331a",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -451102,7 +450574,7 @@
     "company_name": "Stryker",
     "id": "b290a7ae-d72d-4aa7-b175-70db8ac7fc78",
     "title": "Systems R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -451839,7 +451311,7 @@
     "company_name": "Johnson & Johnson",
     "id": "fc0a87dd-e039-4453-b4b4-5c2d04b742d8",
     "title": "Hip/Knee R&D Co-Op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -452067,7 +451539,7 @@
     "company_name": "Applied Materials",
     "id": "e74bcafb-a85f-4b74-ae5c-12ea9154923b",
     "title": "Technical Product Marketing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -452273,7 +451745,7 @@
     "company_name": "Draper",
     "id": "b12a4678-179a-4a27-8f26-27c0449849e3",
     "title": "Software Modeling – & Validation Co-op - Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -456118,7 +455590,7 @@
     "company_name": "Nutanix",
     "id": "fff5b4f8-848e-4981-8659-549614a7adfe",
     "title": "Software Engineering Intern - C++/Linux/Distributed Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -458740,7 +458212,7 @@
     "company_name": "Dollar Tree",
     "id": "2af4a559-d590-4fee-903c-2b066f27a5bc",
     "title": "Data Analytics Assortment Planner Intern & Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -460005,7 +459477,7 @@
     "company_name": "T. Rowe Price",
     "id": "9e0c7c74-d962-4dfd-a375-9f08ad8329ae",
     "title": "T. Rowe Price Labs Intern Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -460466,6 +459938,126 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microchip Technology",
+    "id": "cfcb8a5b-9e88-4440-bc4b-a3cad5b85c9b",
+    "title": "Engineering Intern - Data Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1776993039,
+    "date_posted": 1776992804,
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Engineering-_R696-26",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Microchip-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "7569519b-747c-49a6-8e5e-cd86b672624c",
+    "title": "Software Engineering Intern - Circuit Simulation Infrastructure",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1776992761,
+    "date_posted": 1776992739,
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R51758-1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Leidos",
+    "id": "4440559e-416b-4444-9db8-a21b61996743",
+    "title": "Software Developer Intern",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1776993220,
+    "date_posted": 1776993012,
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "company_url": "https://simplify.jobs/c/Leidos",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "e8fe53d2-e6d7-49e3-b99e-048cc351bc8e",
+    "title": "Software Engineer Intern - AI Model Optimization - BS/MS",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1762930677,
+    "date_posted": 1761878425,
+    "url": "https://lifeattiktok.com/search/7540823204350527752",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Nutanix",
+    "id": "a21bc663-d021-4a02-9d89-34b384c25c5d",
+    "title": "Software Engineering Intern - Python - SDN",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777010949,
+    "date_posted": 1777010891,
+    "url": "https://jobs.jobvite.com/nutanix/job/oFskyfwJ?nl=1&nl=1&fr=false",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
