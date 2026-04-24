@@ -1,192 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TikTok",
-    "id": "177690e4-6703-4698-a2bd-350db211f356",
-    "title": "Software Engineer Intern - AI Applications",
-    "active": true,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1761337635,
-    "date_posted": 1756281205,
-    "url": "https://lifeattiktok.com/search/7540823148805032210",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Hewlett Packard Enterprise",
-    "id": "9e1e967c-6993-45fc-96fd-a8e49c5ef4b5",
-    "title": "Electrical Hardware Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756364548,
-    "date_posted": 1756280700,
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineering-Intern_1192939",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Hewlett Packard Enterprise",
-    "id": "3d0c1885-20b3-426b-8753-3abb9d769a2e",
-    "title": "Hardware Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756364601,
-    "date_posted": 1756280699,
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Intern_1193043",
-    "locations": [
-      "Roseville, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Analog Devices",
-    "id": "ea3f3a87-664c-401e-9eef-aad38ce50998",
-    "title": "Embedded Software Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756365123,
-    "date_posted": 1756280138,
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software-Intern_R255237",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Analog Devices",
-    "id": "cc96e6ea-6422-459f-b404-08632e7bbbd2",
-    "title": "Machine Learning Intern - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756365667,
-    "date_posted": 1756280135,
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Analog Devices",
-    "id": "b6b364c9-a0c5-4bbe-9438-54d3ffe18da3",
-    "title": "Algorithm Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756365255,
-    "date_posted": 1756280144,
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043",
-    "locations": [
-      "Boston, MA",
-      "San Diego, CA",
-      "Burlington, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Analog Devices",
-    "id": "660cb5a6-204f-4ccd-ac6a-792504e664ea",
-    "title": "Machine Learning Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756365615,
-    "date_posted": 1756280139,
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Analog Devices",
-    "id": "6e3a0d52-d186-41b7-b8f2-60e7fa6a8bef",
-    "title": "Product Engineer Prod Dev Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756364662,
-    "date_posted": 1756280142,
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer-Prod-Dev-Intern_R255239",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
     "date_updated": 1756303141,
     "sponsorship": "Other",
     "active": true,
@@ -142832,7 +142645,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "97f0e4c1-6281-4a57-a4c1-92bbefb829b8",
     "title": "Relationship Manager – Business Markets Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025"
     ],
@@ -163626,7 +163439,7 @@
     "company_name": "Cloudflare",
     "id": "c7e38f43-f5a5-4382-a5c5-5e74f9f75c72",
     "title": "Data Engineer Intern - Summer 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -164787,7 +164600,7 @@
     "company_name": "Analog Devices",
     "id": "ad46e6b7-802c-482b-9c03-83efde04eea7",
     "title": "Design Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025"
     ],
@@ -206899,7 +206712,7 @@
     "company_name": "Cisco",
     "id": "7462efbc-f039-4632-a600-7230c301607d",
     "title": "Software Engineer Full Stack & Application Development 1 – Intern - United States",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -234274,7 +234087,7 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Nutanix",
-    "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
+    "id": "4517181b-c420-4514-a0df-1059ec52b260",
     "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
     "active": true,
     "terms": [
@@ -424049,7 +423862,7 @@
     "company_name": "Oregon State Government",
     "id": "fc09641e-cac8-4e2a-830d-c509e3eaf75b",
     "title": "Research Intern - Student Professional/Technical Worker",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -424729,7 +424542,7 @@
     "company_name": "Applied Materials",
     "id": "15f6858f-e8d7-4897-9ace-2e9574051dd5",
     "title": "AI Application Engineer for Quantum Development Intern - Masters/PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -438701,7 +438514,7 @@
     "company_name": "NVIDIA",
     "id": "a43abe5d-5216-4e83-aba1-d2afc823a8de",
     "title": "Technical Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -446598,7 +446411,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "44068537-7f22-4dc4-a81b-3927ed77443f",
     "title": "Wealth Management – Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -447294,7 +447107,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "46095ac3-0393-4b73-bc70-48a92493f2e9",
     "title": "Wealth Management Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -450002,7 +449815,7 @@
     "company_name": "Baker Hughes",
     "id": "3edc6776-1c45-4d0a-a025-79a47742bb18",
     "title": "Emerging Talent-Testing Apprentice Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -450439,7 +450252,7 @@
     "company_name": "PG&E",
     "id": "0b80a0c6-3bc2-4797-8451-1a0dd3b2e2f9",
     "title": "Data Visualization Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -451745,7 +451558,7 @@
     "company_name": "Draper",
     "id": "b12a4678-179a-4a27-8f26-27c0449849e3",
     "title": "Software Modeling – & Validation Co-op - Analysis",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -457298,7 +457111,7 @@
     "company_name": "Formlabs",
     "id": "02c91ded-e1c1-4fe2-bbde-f4e04c39e339",
     "title": "Marketing Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -457604,7 +457417,7 @@
     "company_name": "McGill University",
     "id": "8594aa65-77c7-4d39-b249-231567af74e1",
     "title": "Research Assistant Intern - Prof. Dubois",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -460054,6 +459867,74 @@
       "San Jose, CA"
     ],
     "company_url": "https://simplify.jobs/c/Nutanix",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "177690e4-6703-4698-a2bd-350db211f356",
+    "title": "Software Engineer Intern - AI Model Optimization",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1774981081,
+    "date_posted": 1774966426,
+    "url": "https://lifeattiktok.com/search/7540823148805032210",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Mackenzie Investments",
+    "id": "3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
+    "title": "Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1777019081,
+    "date_posted": 1774534245,
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "083a1f26-6eec-4817-8d05-0a60a4b79b83",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777017961,
+    "date_posted": 1776953363,
+    "url": "https://careers-gdms.icims.com/jobs/72226/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
