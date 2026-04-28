@@ -131303,7 +131303,7 @@
     "company_name": "Vertiv",
     "id": "44458bef-e62c-4bad-b661-11aaa6562462",
     "title": "AI/ Gen AI Engineering Internship - Summer 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -288519,7 +288519,7 @@
     "company_name": "Cisco",
     "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
     "title": "Software Engineer 1 - Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -293441,7 +293441,7 @@
     "company_name": "The Boeing Company",
     "id": "8ead4788-51aa-4c79-a643-2d8494a6c5d8",
     "title": "Simulator Technician Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -307006,7 +307006,7 @@
     "company_name": "Waters Corporation",
     "id": "ee9528df-d016-4155-80ce-08ec12ea5079",
     "title": "Business Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -327238,7 +327238,7 @@
     "company_name": "Amazon",
     "id": "2c78d5df-2090-4cba-974c-dbfd42aea222",
     "title": "Data Engineer Internship - UK - Amazon University Talent Acquisition','Auta",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -374147,9 +374147,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1773236309,
+    "date_updated": 1777381408,
     "sponsorship": "Offers Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Master's"
     ],
@@ -374170,9 +374170,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1773236341,
+    "date_updated": 1777381408,
     "sponsorship": "Offers Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Master's"
     ],
@@ -397308,9 +397308,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1774261965,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -409013,9 +409013,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1774875046,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -409696,7 +409696,7 @@
     "company_name": "Palantir",
     "id": "175959c7-7674-4600-b477-a030461cda4c",
     "title": "UK Meritocracy Fellowship",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -422299,9 +422299,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1775479145,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -433735,9 +433735,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776070106,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Master's"
     ],
@@ -436078,9 +436078,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776157579,
+    "date_updated": 1777381408,
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "degrees": [
       "Master's"
     ],
@@ -440039,9 +440039,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776348459,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -440108,9 +440108,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776348743,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -440131,9 +440131,9 @@
     "is_visible": true
   },
   {
-    "date_updated": 1776348770,
+    "date_updated": 1777381408,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Bachelor's"
     ],
@@ -452675,7 +452675,7 @@
     "company_name": "Paccar",
     "id": "306e44eb-4b5e-4e45-9a15-2804c3ffa5bf",
     "title": "PFC IT Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -453982,7 +453982,7 @@
     "company_name": "Superbet",
     "id": "2175e9c1-3d96-4c91-801b-60e12681ea36",
     "title": "Sports Quantitative Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -455187,6 +455187,72 @@
     "degrees": [
       "Master's",
       "MBA"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sieve",
+    "id": "fe2090ae-0404-47d2-89f2-e46316098fcd",
+    "title": "Software Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777367161,
+    "date_posted": 1777367033,
+    "url": "https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sieve",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sieve",
+    "id": "2d7d81b9-60a2-461e-bc8b-a1e8d00a3b0e",
+    "title": "Applied Research Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777367161,
+    "date_posted": 1777367032,
+    "url": "https://jobs.ashbyhq.com/sieve/2298668b-f218-435a-a497-de4fc11c5ac6/application",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Sieve",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Dairyland Power Cooperative",
+    "id": "9c3ddbb3-e0a3-4d34-bd9e-c662e5c4113b",
+    "title": "Regional Transmission Projects Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777368789,
+    "date_posted": 1777068589,
+    "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Regional-Transmission-Projects_JR100960",
+    "locations": [
+      "Winona, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/Dairyland-Power-Cooperative",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
     ]
   }
 ]
