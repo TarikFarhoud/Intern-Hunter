@@ -152072,7 +152072,7 @@
     "company_name": "Safran",
     "id": "c4f24b99-980e-457b-aafa-3ee6777b2b4e",
     "title": "Engineering Internships! Spring/Summer 2026",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026"
@@ -177675,7 +177675,7 @@
     "company_name": "Figure",
     "id": "f9d972b5-311c-4ef2-a323-51364b4b2440",
     "title": "Firmware Intern - Summer 2026",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -195338,7 +195338,7 @@
     "company_name": "Figure",
     "id": "4f0aaffd-abff-4630-885d-6b95b8dbadf4",
     "title": "Embedded Software Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -248938,7 +248938,7 @@
     "company_name": "Anthropic",
     "id": "8a17a8bb-179e-4026-be78-6324749ad898",
     "title": "Anthropic AI Security Fellow",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -252684,7 +252684,7 @@
     "company_name": "Sherwin-Williams",
     "id": "e14b48f3-f417-4e6d-9843-9426d2eaa12e",
     "title": "Leadership Development Program R&D",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -360108,7 +360108,7 @@
     "company_name": "HRL Laboratories",
     "id": "3b9717fe-fbf2-4dc8-b6c2-8a5e5fddb0d5",
     "title": "LLM & Agentic AI Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -387947,7 +387947,7 @@
     "company_name": "Coherent ",
     "id": "4a8ff5a1-9253-4d4e-9947-6c421a6d867f",
     "title": "Firmware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -409516,7 +409516,7 @@
     "company_name": "Booz Allen",
     "id": "6eaee25d-c08c-4688-9b8a-5f02c1c27f81",
     "title": "University Data Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -423205,7 +423205,7 @@
     "company_name": "City of Austin",
     "id": "9a2346a9-6f51-42a7-84ab-df46a4f0edfb",
     "title": "Demographics GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -431069,7 +431069,7 @@
     "company_name": "Anthropic",
     "id": "0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a",
     "title": "Anthropic Fellows Program - AI Safety",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -446555,7 +446555,7 @@
     "company_name": "SoFi",
     "id": "a93a5530-daad-4d1a-b40e-ce564b867f3a",
     "title": "University Recruiting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -448851,7 +448851,7 @@
     "company_name": "Johnson & Johnson",
     "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
     "title": "Technology Co-Op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -449652,7 +449652,7 @@
     "company_name": "Trane Technologies",
     "id": "77101225-cae2-45be-a1f0-2915f58527a0",
     "title": "Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -450895,7 +450895,7 @@
     "company_name": "Moog ",
     "id": "ad676c21-a536-4690-813f-972b0d4d735a",
     "title": "Artificial Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -453325,7 +453325,7 @@
     "company_name": "Chamberlain Group",
     "id": "ca78020b-a0c8-4bb4-9a33-d7f0e6c2ac30",
     "title": "Myq Front End Developer Intern - Android or iOS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -454471,7 +454471,7 @@
     "company_name": "Intel",
     "id": "ee0e2b6e-b85f-4065-a6c4-46f52e9fd83c",
     "title": "Graduate Software Application Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -454949,6 +454949,244 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "SentinelOne",
+    "id": "f4e6b65a-c191-47b6-b02b-f2385f91d990",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777339081,
+    "date_posted": 1777339063,
+    "url": "https://www.sentinelone.com/jobs/7709918003?gh_jid=7709918003",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/SentinelOne",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ASSA ABLOY",
+    "id": "c97b9c17-dda6-4c3f-a83c-9f49bb003f4e",
+    "title": "Pricing and Market Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777338361,
+    "date_posted": 1777338264,
+    "url": "https://assaabloy.jobs2web.com/job/Lake-Forest-Pricing-and-Market-Analytics-Intern-CA-92610/1388105433/?ats=successfactors",
+    "locations": [
+      "Lake Forest, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TransUnion",
+    "id": "53b8737c-fecf-444d-a057-0357b2b23108",
+    "title": "Identity Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777338868,
+    "date_posted": 1777338461,
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Identity-Analytics-Internship---Summer-2026_19038487",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/TransUnion",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "ByteDance",
+    "id": "5a79add5-8179-4a06-85f0-04564ae20715",
+    "title": "AI Product Manager Intern - Applied Machine Learning",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777338721,
+    "date_posted": 1777338567,
+    "url": "https://jobs.bytedance.com/en/position/7629142710014003461/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "76de1d57-7c93-4833-89f9-17604295e2f3",
+    "title": "Software Engineer – Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777356541,
+    "date_posted": 1777356386,
+    "url": "https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "445a828a-9a5b-4684-b60b-26f94095ef39",
+    "title": "Intern Engineer – Co-Op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777356541,
+    "date_posted": 1777356386,
+    "url": "https://careers-gdms.icims.com/jobs/72243/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "23dfd13f-ecf3-41ea-b250-b3321a94cc0d",
+    "title": "Engineer Co-op Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777356645,
+    "date_posted": 1777356386,
+    "url": "https://careers-gdms.icims.com/jobs/72242/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Becton Dickinson",
+    "id": "0718fecc-0b61-46aa-a33c-44fa02cce82a",
+    "title": "Business Data Analytics Intern - Channel Coverage",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777356740,
+    "date_posted": 1777356420,
+    "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
+    "locations": [
+      "New Mexico",
+      "Washington",
+      "Kansas",
+      "Pennsylvania",
+      "North Dakota",
+      "Oregon",
+      "Delaware",
+      "Iowa",
+      "California",
+      "Washington, DC",
+      "Vermont",
+      "Wyoming",
+      "Texas",
+      "Montana",
+      "Jackson Township, NJ",
+      "Sparks, MD",
+      "Florida",
+      "Waterbury, CT",
+      "Nevada",
+      "South Carolina",
+      "South Dakota",
+      "Georgia",
+      "Concord, NH",
+      "Mississippi",
+      "Tennessee",
+      "Virginia",
+      "Arkansas",
+      "Minnesota",
+      "Colorado",
+      "Nebraska",
+      "Rhode Island",
+      "Utah",
+      "Hawaii, United States",
+      "Kentucky",
+      "West Virginia",
+      "NYC",
+      "Maryland",
+      "Wisconsin",
+      "Maine",
+      "Massachusetts",
+      "North Carolina",
+      "Oklahoma",
+      "Missouri",
+      "Ohio",
+      "Indiana",
+      "Louisiana",
+      "Alaska",
+      "Michigan",
+      "Illinois",
+      "Idaho"
+    ],
+    "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "MBA"
     ]
   }
 ]
