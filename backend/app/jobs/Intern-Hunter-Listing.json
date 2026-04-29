@@ -1,123 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "84.51 Degrees",
-    "id": "00c78cdf-03b5-412e-b6e9-6f063c8b9369",
-    "title": "Software Engineer – Internship Program",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761338100,
-    "date_posted": 1756712417,
-    "url": "https://job-boards.greenhouse.io/8451university/jobs/8086857002",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/84-51",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TikTok",
-    "id": "ea411bc7-604f-4026-b91b-33bfa16f7b38",
-    "title": "Product Manager Intern - Tiktok LIVE-Ecosystem Governance - MBA",
-    "active": true,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756713521,
-    "date_posted": 1756713521,
-    "url": "https://lifeattiktok.com/search/7533907343470840072",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "TikTok",
-    "id": "953b0af9-52dc-4bfe-9dce-76fe4258cddd",
-    "title": "Product Manager Intern - Tiktok LIVE-Recommend Product",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756713517,
-    "date_posted": 1756713517,
-    "url": "https://lifeattiktok.com/search/7538067880584153362",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "ByteDance",
-    "id": "3465e9d0-1c45-44ed-b5fd-f89be91364eb",
-    "title": "Global Product Strategist Intern - Mso - MBA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756729431,
-    "date_posted": 1756713452,
-    "url": "https://jobs.bytedance.com/en/position/7534767099475478802/detail",
-    "locations": [
-      "New York, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
-    "title": "New York, NY",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756729590,
-    "date_posted": 1756713214,
-    "url": "https://aexp.eightfold.ai/careers/job/30932038",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Other",
     "company_name": "Edison International",
     "id": "dc17dfae-941a-4e4c-b7e7-86ceac87f6ab",
@@ -150667,48 +150550,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "National Indemnity Company",
-    "id": "79853892-b317-450e-9673-cb90aa4ef8a6",
-    "title": "Insurance Operations Intern - General - 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1756716780,
-    "date_posted": 1756716780,
-    "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Insurance-Operations-Intern---General--2026-_R14329-1",
-    "locations": [
-      "Omaha, NE"
-    ],
-    "company_url": "https://simplify.jobs/c/National-Indemnity-Company",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Altera Corporation",
-    "id": "90314aae-3817-4087-816f-c0b8990c2a7b",
-    "title": "FPGA Design Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1756712113,
-    "date_posted": 1756712113,
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Intern_R00894-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "Red Hat",
     "id": "a0faa8c7-7870-415f-ab24-d68d8eb51253",
     "title": "Software Engineer Intern",
@@ -156530,7 +156371,7 @@
     "company_name": "Solar Turbines",
     "id": "5766a4a6-136e-441e-97c7-1c312095ee12",
     "title": "2026 Internship - Data Steward",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2025",
       "Winter 2025",
@@ -274187,7 +274028,7 @@
     "company_name": "LabCorp",
     "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
     "title": "Intern Data Science and Artificial Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -280588,7 +280429,7 @@
     "company_name": "LMI ",
     "id": "6733555f-9ee9-4e61-98d6-6430f675caff",
     "title": "Data Science-Intern - FIU Students",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -294891,7 +294732,7 @@
     "company_name": "General Dynamics Mission Systems",
     "id": "9fd84741-12bc-4a3b-9db2-f1eff098330c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -322030,7 +321871,7 @@
     "company_name": "ABB",
     "id": "949bf08f-4bbb-49cd-a9c1-48c57235243c",
     "title": "AI Data Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -322078,7 +321919,7 @@
     "company_name": "ABB",
     "id": "58bcc774-c99f-4d7a-91d0-b316f3ee7d87",
     "title": "Agentic AI Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -345142,7 +344983,7 @@
     "company_name": "Waters Corporation",
     "id": "44676578-7c2d-4206-b25e-59d7a1cda67d",
     "title": "Intern – Field Service",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026"
@@ -357272,7 +357113,7 @@
     "company_name": "ABB",
     "id": "761d0bdf-c012-445b-885d-db095708d75f",
     "title": "R&D Testing Lab Contractor",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -384493,7 +384334,7 @@
     "company_name": "Starz",
     "id": "f1f4963b-bdbe-4d7d-8189-3ea0014cd978",
     "title": "Starz Intern - Content Insights",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -422257,7 +422098,7 @@
     "company_name": "Denver",
     "id": "254b2b4b-6f44-4a65-947a-191d16e39dd9",
     "title": "Audit Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -432069,7 +431910,7 @@
     "company_name": "ABB",
     "id": "9669f3e4-8a9e-4c04-887e-e1287a09a58f",
     "title": "Discovery Program - Product Management Specialist",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -435321,7 +435162,7 @@
     "company_name": "Superbet",
     "id": "6f605e37-42f0-46bc-86a0-75836f976cc3",
     "title": "Super Erasmus Traineeship",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -448079,7 +447920,7 @@
     "company_name": "RTX",
     "id": "df3e5115-f1d2-477f-b7e8-20a275bf2d04",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -454700,7 +454541,7 @@
     "company_name": "Centific",
     "id": "569ed6bf-2af9-475a-a7db-65d129476547",
     "title": "Technical Intern - Masters or PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -455216,7 +455057,7 @@
     "company_name": "WPP Media",
     "id": "a0b04aca-5ebb-46ae-8eb6-9fe922233437",
     "title": "Workstudent Intern - IT Development",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -455731,6 +455572,98 @@
       "State College, PA"
     ],
     "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "08be030e-0d92-434c-a26a-9d06868b19d8",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777450811,
+    "date_posted": 1776232944,
+    "url": "https://careers-gdms.icims.com/jobs/71987/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "31a0fcc5-e7c5-4c48-bc07-ded7578ff437",
+    "title": "Engineer Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777451448,
+    "date_posted": 1776290570,
+    "url": "https://careers-gdms.icims.com/jobs/72071/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "9df9a152-f5af-43c0-91a2-cbf761d3e4a9",
+    "title": "Intern Engineer",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777454462,
+    "date_posted": 1776981976,
+    "url": "https://careers-gdms.icims.com/jobs/72228/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "General Dynamics Mission Systems",
+    "id": "aad7fb4e-54a6-453f-9c0d-af4db1c1854e",
+    "title": "Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777454876,
+    "date_posted": 1776895797,
+    "url": "https://careers-gdms.icims.com/jobs/72186/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Reston, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
