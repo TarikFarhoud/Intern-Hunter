@@ -1,33 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "JP Morgan Chase",
-    "id": "60fd7344-a312-4f0d-be89-dcaf6f6b8dfe",
-    "title": "Consumer & Community Banking Risk Modeling Associate Program – Summer Internship",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1757215307,
-    "date_posted": 1757215307,
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210659548",
-    "locations": [
-      "Palo Alto, CA",
-      "Plano, TX",
-      "Columbus, OH",
-      "Wilmington, DE"
-    ],
-    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Aptiv",
     "id": "9fa91d10-192c-4cce-92cd-7d408a1f324b",
@@ -154147,7 +154120,7 @@
     "company_name": "Figure",
     "id": "f9d972b5-311c-4ef2-a323-51364b4b2440",
     "title": "Firmware Intern - Summer 2026",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -195232,7 +195205,7 @@
     "company_name": "Geotab",
     "id": "955f583a-3b56-45e8-a4c5-ae6a879243e8",
     "title": "Product Coordinator Intern - Summer/May 2026 - 8 Months",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -273151,7 +273124,7 @@
     "company_name": "Emerson Electric",
     "id": "2ae28a37-5ce4-408e-ac71-53b9d0f21082",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -283170,7 +283143,7 @@
     "company_name": "Emerson Electric",
     "id": "ec635dac-310e-4d77-b271-f690107d4ded",
     "title": "Software Engineering Intern - Applied AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -349974,7 +349947,7 @@
     "company_name": "Diligent Corporation",
     "id": "29d49157-a95a-432e-9f52-fda1f017e447",
     "title": "Product Builder Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -372495,7 +372468,7 @@
     "company_name": "Impiricus",
     "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
     "title": "Intern Data Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -389128,7 +389101,7 @@
     "company_name": "Equip Health",
     "id": "049e336c-28fd-46ed-9e81-a25323e6f810",
     "title": "Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -396055,7 +396028,7 @@
     "company_name": "Energy Vault",
     "id": "6f7cceed-6053-4e90-96bf-7e9f1ba432ec",
     "title": "Intern – Electricity Market Optimization & Price Forecasting",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -400189,7 +400162,7 @@
     "company_name": "onsemi",
     "id": "966ae80c-6a79-4ca4-9dbf-fb6f90e5819f",
     "title": "Applications Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -401379,7 +401352,7 @@
     "company_name": "Fortive",
     "id": "a72e4fb0-33a8-4f35-8367-799aeaf51b50",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Summer 2026",
@@ -422307,7 +422280,7 @@
     "company_name": "Blue Cross and Blue Shield of Kansas",
     "id": "c481be11-c3eb-4093-b529-b187d5b0f47e",
     "title": "Application Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -432978,7 +432951,7 @@
     "company_name": "RTX",
     "id": "d94c2b42-76f8-4265-879f-d90ca8557a75",
     "title": "Raytheon Part Time Co-op-Java Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -440786,5 +440759,117 @@
     "degrees": [
       "Associate's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Legrand North America",
+    "id": "7297d45c-0ce8-42bb-a449-3300620a5f9b",
+    "title": "Engineering Lab Technician Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2026"
+    ],
+    "date_updated": 1777943445,
+    "date_posted": 1777943150,
+    "url": "https://jobs-legrand.icims.com/jobs/10058/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Syracuse, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Legrand-North-America",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Xebia",
+    "id": "3443ba84-151d-4603-9bac-28bf93227ed5",
+    "title": "Internship Program - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777944128,
+    "date_posted": 1777944023,
+    "url": "https://job-boards.greenhouse.io/xebiausa/jobs/5988141004",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Xebia",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Geotab",
+    "id": "bd3d7583-e8aa-4a2e-b00f-42725db1f17e",
+    "title": "Product Marketing Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1777944241,
+    "date_posted": 1777944064,
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Geotab",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "XPENG Motors",
+    "id": "b1e7848c-2bcb-4141-8a17-fde660e87b84",
+    "title": "VLA Deployment AI Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777961656,
+    "date_posted": 1777961452,
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/XPengMotors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "XPENG Motors",
+    "id": "7953d24e-a1d8-4013-acce-67a2f4a991b0",
+    "title": "AI Scenario Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1777961632,
+    "date_posted": 1777961452,
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535406002",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/XPengMotors",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
