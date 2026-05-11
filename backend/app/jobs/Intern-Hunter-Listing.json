@@ -285,30 +285,6 @@
     ]
   },
   {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cox",
-    "id": "4938d485-b300-4505-99da-a967d803c246",
-    "title": "Intelligent Automation Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1757754505,
-    "date_posted": 1757754505,
-    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Intelligent-Automation-Engineering-Intern---Summer-2026_R202566707",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
     "date_updated": 1762297136,
     "sponsorship": "Offers Sponsorship",
     "active": true,
@@ -29333,7 +29309,7 @@
     "company_name": "Adobe",
     "id": "bf67b3a9-1eda-46fd-9af5-4647b6c4e788",
     "title": "Intern - Applied Science - Machine Learning Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -132415,7 +132391,7 @@
     "company_name": "Point72",
     "id": "3cb07455-ed02-4d0b-85ca-4f7dcd86fc6b",
     "title": "Point72 Academy Investment Analyst Intern Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -148034,7 +148010,7 @@
     "company_name": "Cisco",
     "id": "7462efbc-f039-4632-a600-7230c301607d",
     "title": "Software Engineer Full Stack & Application Development 1 – Intern - United States",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -163279,7 +163255,7 @@
     "company_name": "Microsoft",
     "id": "cb32b03e-266a-49cb-88f5-a914bf0c7348",
     "title": "Research Intern - Post-Training",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -214717,7 +214693,7 @@
     "company_name": "TikTok",
     "id": "022f3758-1e00-41a6-bf19-b759c3041f18",
     "title": "Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -215942,7 +215918,7 @@
     "company_name": "Tencent",
     "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -236706,7 +236682,7 @@
     "company_name": "First Canadian Title",
     "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
     "title": "Summer Student - IT RPA",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -256637,7 +256613,7 @@
     "company_name": "Cisco",
     "id": "84355529-b7d0-461c-9330-9a3bcc020d8c",
     "title": "Customer Experience Product Management Specialist 1",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -349788,7 +349764,7 @@
     "company_name": "DXC Technology",
     "id": "33908a17-2891-4c4b-a158-f90a9a18b38b",
     "title": "DXC Academic Programme – Modern Apprenticeship in Data & AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -351438,7 +351414,7 @@
     "company_name": "DXC Technology",
     "id": "4475bfac-4218-4b36-9bec-5ebb2c6694a0",
     "title": "Degree Apprenticeship in Data & AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -372883,7 +372859,7 @@
     "company_name": "KLA",
     "id": "399b698a-50e7-4a08-ba65-a0ebf0893d42",
     "title": "Product Sustainability Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -376832,7 +376808,7 @@
     "company_name": "Littelfuse",
     "id": "25666c3f-59c5-42d5-a68b-58c08e93a551",
     "title": "R&D Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -382342,7 +382318,7 @@
     "company_name": "Hyundai Motor Company",
     "id": "443a3ba1-9ea3-424c-adca-0b78c01edcfb",
     "title": "Infotainment Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -386842,7 +386818,7 @@
     "company_name": "Leidos",
     "id": "0519e9d9-4163-417f-af59-f1456ff76d32",
     "title": "Data Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -404117,7 +404093,7 @@
     "company_name": "Revvity",
     "id": "430f2a0b-2c64-47f3-a1ca-39574371aa71",
     "title": "Procurement & Data Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -405962,7 +405938,7 @@
     "company_name": "Applied Materials",
     "id": "cd0a900a-06f4-4081-a788-e92ba5d4785a",
     "title": "Algorithm Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -407851,7 +407827,7 @@
     "company_name": "ASSA ABLOY",
     "id": "4c7dbee1-feb1-4ea2-99d8-d46edcd05245",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -411644,7 +411620,7 @@
     "company_name": "Copart",
     "id": "27d8dc01-5978-49dd-bfcb-be4f52052b68",
     "title": "Yard Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -417790,7 +417766,7 @@
     "company_name": "True Anomaly",
     "id": "aac28e9b-37d3-4e15-a76d-945bdaf6c101",
     "title": "Front End Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -420097,5 +420073,49 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Suffolk County",
+    "id": "e72c87ac-f438-4ea2-b4f8-3b733151c6dd",
+    "title": "Trading Standards Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1778496661,
+    "date_posted": 1778490104,
+    "url": "https://eoce.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/23103",
+    "locations": [
+      "Ipswich, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Suffolk-County",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "True Anomaly",
+    "id": "1a581fe9-5e5b-41e2-bbd5-a7fbb21b01a1",
+    "title": "Full Stack Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1778497021,
+    "date_posted": 1778490427,
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/TrueAnomaly",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
