@@ -180867,7 +180867,7 @@
     "company_name": "Electronic Arts",
     "id": "0221c58e-86f6-4029-b9da-cfb675957e80",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -203240,7 +203240,7 @@
     "company_name": "Assort Health",
     "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
     "title": "Agent Engineer – New Grad",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -404725,7 +404725,7 @@
     "company_name": "RTX",
     "id": "d94c2b42-76f8-4265-879f-d90ca8557a75",
     "title": "Raytheon Part Time Co-op-Java Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -415067,7 +415067,7 @@
     "company_name": "Proofpoint",
     "id": "de7526c7-fa6f-4263-bcb4-7c4e8c7b945d",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -417542,7 +417542,7 @@
     "company_name": "The Boeing Company",
     "id": "677b49ba-fffc-4743-9ec6-d7b5331e3faa",
     "title": "Boeing Engineering & Technology Innovation – Graduate Researcher Program – Autonomy Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -421484,6 +421484,30 @@
       "Hartford, CT"
     ],
     "company_url": "https://simplify.jobs/c/ABB",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "850174e1-1199-4c2e-a959-80fdcfe46a8b",
+    "title": "Systems Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1778577727,
+    "date_posted": 1778191809,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
