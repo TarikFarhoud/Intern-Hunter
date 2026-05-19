@@ -225006,7 +225006,7 @@
     "company_name": "Reli",
     "id": "8e252a36-7035-4d4a-b584-184216edd7a9",
     "title": "Data & Automation - Associate Development Program",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -293290,7 +293290,7 @@
     "company_name": "Skydio",
     "id": "847e4918-0219-466a-90fe-b5e7afff056d",
     "title": "Wireless Hardware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -303750,7 +303750,7 @@
     "company_name": "M&G",
     "id": "5f129450-352a-48c1-b5a9-246d39241e63",
     "title": "Finance Data Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -329277,7 +329277,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software – Intern - Python",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -355868,7 +355868,7 @@
     "company_name": "Empower AI",
     "id": "6eb26908-472b-41d4-bef8-42e60ad9387c",
     "title": "AI/ML Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -364688,7 +364688,7 @@
     "company_name": "Geosyntec Consultants",
     "id": "527f6229-0830-4b0d-bebf-9b948f241b44",
     "title": "Data Scientist/Artificial Intelligence Intern - AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -364754,7 +364754,7 @@
     "company_name": "TD Bank",
     "id": "0ce9e860-bd85-4ebc-b74f-5ba4c7420a61",
     "title": "Software Engineer Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -371323,7 +371323,7 @@
     "company_name": "W.R. Berkley",
     "id": "89ff2f02-753f-4972-90ab-a9a4d630272f",
     "title": "Business Intelligence Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -389666,7 +389666,7 @@
     "company_name": "Vanasse Hangen Brustlin (VHB)",
     "id": "6afc672e-3366-4893-ab77-d6ca09563778",
     "title": "Data Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -393726,7 +393726,7 @@
     "company_name": "Wealthsimple",
     "id": "609c7317-d48d-4dcc-ad90-16046afed879",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -393773,7 +393773,7 @@
     "company_name": "Wealthsimple",
     "id": "33e82b3a-09e7-4ff4-8ecc-60a08ee64f57",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -394189,7 +394189,7 @@
     "company_name": "General Dynamics Mission Systems",
     "id": "4e3e926b-6a67-46e5-8b7e-2c03fcae7636",
     "title": "Intern Engineer Co-op - May 2026 Start",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -394350,7 +394350,7 @@
     "company_name": "Xebia",
     "id": "3443ba84-151d-4603-9bac-28bf93227ed5",
     "title": "Internship Program - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -396247,7 +396247,7 @@
     "company_name": "D2L",
     "id": "856a33ac-2d4d-4ac2-844e-fd9c4864ec8f",
     "title": "Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -399012,7 +399012,7 @@
     "company_name": "Squarepoint Capital",
     "id": "c7f1c784-ada4-411c-85aa-060cd89e52c6",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -401878,7 +401878,7 @@
     "company_name": "General Dynamics UK",
     "id": "9d893f9c-beed-4b3a-84cc-34a6c2d408af",
     "title": "Embedded Software Developer Co-op - Rapid Prototypes - Embedded Software Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -405779,7 +405779,7 @@
     "company_name": "General Dynamics UK",
     "id": "ad1cf71f-529d-4143-a1eb-c85001e5835f",
     "title": "Software Developer Co-op - Machine Learning Computer Vision",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -410739,5 +410739,103 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "5407f428-b513-492f-97d0-d2bd020610b6",
+    "title": "Research Intern - Self-Improving AI",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1779181724,
+    "date_posted": 1779181425,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
+    "locations": [
+      "Cambridge, MA",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Unisys",
+    "id": "7c7c3811-08d7-4209-a328-a8d67d0ca76b",
+    "title": "Software Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1779182101,
+    "date_posted": 1779181900,
+    "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Fall-Software-Engineer_REQ573111",
+    "locations": [
+      "Ambler, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Unisys",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "InterSystems",
+    "id": "cc0f9dbd-b570-4ab8-a1f0-15c93be2f473",
+    "title": "Technical Graduate",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1779183541,
+    "date_posted": 1759345338,
+    "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7479122003",
+    "locations": [
+      "Edinburgh, UK",
+      "Slough, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/InterSystems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Vertiv",
+    "id": "b848db11-dc5a-42f0-a423-85de3197f87f",
+    "title": "Placement Student - Software Engineering",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1779200461,
+    "date_posted": 1779199655,
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272952",
+    "locations": [
+      "Londonderry, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Vertiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
