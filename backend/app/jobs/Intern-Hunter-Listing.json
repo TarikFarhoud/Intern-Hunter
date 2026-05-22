@@ -2,30 +2,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Arconic",
-    "id": "935261d0-9072-4056-a500-415ec1c29595",
-    "title": "Data Engineering Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1758712539,
-    "date_posted": 1758712539,
-    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/113177",
-    "locations": [
-      "Tarentum, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Arconic",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "State Street",
     "id": "c626dbae-c50e-469f-8358-d71a2b080ef1",
     "title": "Data Engineer - Co-Op - Global Technology Services",
@@ -32805,7 +32781,7 @@
     "company_name": "Verisk",
     "id": "ecb94eb4-b635-42ef-b619-ef0c10dfd6eb",
     "title": "Internship Program - Data & Analytics Developer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -36554,7 +36530,7 @@
     "company_name": "Verisk",
     "id": "eb6aaf4c-7118-41cc-9e33-a855ac527e69",
     "title": "2026 – Summer Intern Program - Junior Product Specialist",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -211917,7 +211893,7 @@
     "company_name": "Cisco",
     "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
     "title": "Software Engineer 1 - Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -279162,7 +279138,7 @@
     "company_name": "Leonardo",
     "id": "609ad41a-5841-4038-9f66-09605fd58f31",
     "title": "Software Graduate Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -357490,7 +357466,7 @@
     "company_name": "Leidos",
     "id": "02565f6e-3d2f-4610-99f3-f93ffa6af89c",
     "title": "Epidemiology and Data Management Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -384707,7 +384683,7 @@
     "company_name": "General Dynamics UK",
     "id": "7bf1602a-6239-4a53-85aa-2b0913ec3964",
     "title": "Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -392451,7 +392427,7 @@
     "company_name": "Smiths Detection Group",
     "id": "0a319815-2604-4c98-94da-26b6a462a885",
     "title": "Depot Service Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -394671,7 +394647,7 @@
     "company_name": "Cenovus Energy",
     "id": "6da9f843-da27-44b0-85cb-b9ab1f9c44e0",
     "title": "Student Drilling Intern - Completions and Interventions",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -401311,7 +401287,7 @@
     "company_name": "Centific",
     "id": "2de27ba6-2289-4189-bb09-2dc6444bea7b",
     "title": "Intern 2",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -402979,7 +402955,7 @@
     "company_name": "Smiths Detection Group",
     "id": "d7b70764-2bdf-4e34-9c39-5dd9943904dd",
     "title": "Depot Service Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -403235,7 +403211,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
     "title": "Proton Exchange Membrane Water Electrolysis Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -403620,7 +403596,7 @@
     "company_name": "Cisco",
     "id": "4c0024f1-02ba-49f5-a0b6-2033ea3e8ccf",
     "title": "Software Engineer 1 Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -406980,7 +406956,7 @@
     "company_name": "Coupang",
     "id": "21ecea4f-e72f-4898-880c-e5d2542e0799",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -407779,7 +407755,7 @@
     "company_name": "Centific",
     "id": "3ff2c0f6-a277-4ced-9e9d-950b298d406a",
     "title": "Data Analyst Intern - Annotation & Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -407800,7 +407776,7 @@
     "company_name": "Kinaxis",
     "id": "03babf36-8128-4896-b4a0-40ee2fe27ba3",
     "title": "Automation Specialist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
