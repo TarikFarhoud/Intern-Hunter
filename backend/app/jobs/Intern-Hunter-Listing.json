@@ -1,239 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "The Walt Disney Company",
-    "id": "b29145e6-2bae-4c50-868f-75fcf24c7dd0",
-    "title": "Post Production Technology Intern - Post Production Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759245322,
-    "date_posted": 1759245322,
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/London-United-Kingdom/Post-Production-Technology-Internship_10133258",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "StoneX Group",
-    "id": "ce865353-31a9-4023-8acc-8c0528db27f6",
-    "title": "Intern – Market Data Engineer - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759245092,
-    "date_posted": 1759245092,
-    "url": "https://careers-stonex.icims.com/jobs/13829/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/StoneX-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Hive Financial Systems",
-    "id": "b5f0e6cc-f809-4e4c-b83f-26fa3fee19ac",
-    "title": "Software Engineering Intern - Front-End Development",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759245136,
-    "date_posted": 1759245136,
-    "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/4923966007",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Hive-Financial-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PayPal",
-    "id": "e3d89e14-55b6-4878-83c4-987beb9f7a79",
-    "title": "Machine Learning Engineer Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759244741,
-    "date_posted": 1759244741,
-    "url": "https://paypal.eightfold.ai/careers/job/274915802833",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/PayPal",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Other",
-    "company_name": "State Street",
-    "id": "caa6c4c7-7952-47da-a9a2-4184965e8ed5",
-    "title": "AI Cyber Security Intern/Co-op - Information Security Risk Management Program",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Summer 2025"
-    ],
-    "date_updated": 1759245994,
-    "date_posted": 1759245994,
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/AI-Cyber-Security-in-Information-Security-Risk-Management-Program--Co-Op_R-778253",
-    "locations": [
-      "Quincy, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/State-Street",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Wex",
-    "id": "bee1f206-02d9-429e-aa5c-8fd2dce2b35e",
-    "title": "Intern - Software Engineer - Undergraduate Students Only",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761408594,
-    "date_posted": 1759245630,
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer--Undergraduate-Students-Only-_R19201",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Other",
-    "company_name": "Michaels Stores",
-    "id": "392aa03a-783f-436f-a55c-75130df0156d",
-    "title": "Information Technology Intern - Infrastructure",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759412602,
-    "date_posted": 1759247335,
-    "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Information-Technology-Intern---Infrastructure_R00295940",
-    "locations": [
-      "Irving, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/da958eba-3f66-4f5b-b029-306ce93606cf",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Other",
-    "company_name": "The Walt Disney Company",
-    "id": "f99246cd-ae1c-4f81-b072-815353d9da5c",
-    "title": "Technology and IT Internship - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759251470,
-    "date_posted": 1759251470,
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/London-United-Kingdom/Technology-and-IT-Internship_10133267",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AECOM",
-    "id": "154ca27f-ff37-4b0f-ab6d-316847ac04fb",
-    "title": "Data Management Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1759255146,
-    "date_posted": 1759255146,
-    "url": "https://jobs.smartrecruiters.com/AECOM2/744000084664630",
-    "locations": [
-      "Oakland, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AECOM",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Johnson & Johnson",
-    "id": "b796e5af-8352-4ff6-b824-0a896b2d26c4",
-    "title": "ISRM Intern - Technology Leadership Development Program",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1759272025,
-    "date_posted": 1759260250,
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-Intern_R-033873",
-    "locations": [
-      "Bridgewater Township, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Autodesk",
     "id": "5f5788e2-5b67-4762-a2f8-fd4efc74d339",
@@ -65698,27 +65465,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "International Monetary Fund",
-    "id": "5c713a0c-f073-47f3-a597-715de9f776b0",
-    "title": "2026 Fund Internship Program - Fip - Economists",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761859966,
-    "date_posted": 1759244935,
-    "url": "https://imf.wd5.myworkdayjobs.com/IMF/job/USA-Washington-DC/XMLNAME-2026-Fund-Internship-Program--FIP----Economists_25-R8539",
-    "locations": [
-      "Washington, DC"
-    ],
-    "company_url": "https://simplify.jobs/c/International-Monetary-Fund",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Guidehouse",
     "id": "576e6db8-d0a7-4781-9696-c48119fc9b44",
     "title": "Intern – Customer Programs - Communities - Energy & Infrastructure - Campus 2026",
@@ -76198,28 +75944,6 @@
     "date_posted": 1761519768,
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/4955846007",
     "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/MuonSpace",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Muon Space",
-    "id": "38141ebf-eeb7-46fc-ba56-de53015f0608",
-    "title": "Test Engineering Intern - Ait - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761951627,
-    "date_posted": 1759248459,
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/4924042007",
-    "locations": [
-      "San Jose, CA",
       "Mountain View, CA"
     ],
     "company_url": "https://simplify.jobs/c/MuonSpace",
@@ -164812,7 +164536,7 @@
     "company_name": "Ramp",
     "id": "b5969a01-2e3a-4b19-86db-c82bbe7973c6",
     "title": "Graduate Software Engineer - Frontend",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -203541,7 +203265,7 @@
     "company_name": "Alo Yoga",
     "id": "e2ab21c7-7ba7-475f-b0b5-102fca3013a5",
     "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -203564,7 +203288,7 @@
     "company_name": "Alo Yoga",
     "id": "b0907528-1c16-40d0-9447-6b759ca823c2",
     "title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -203588,7 +203312,7 @@
     "company_name": "Alo Yoga",
     "id": "a6e5bb62-9641-476a-951f-69630313755c",
     "title": "Engineering Intern - Retail Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -260815,7 +260539,7 @@
     "company_name": "Bose",
     "id": "f73c1984-f5c3-42e7-b86c-48a7816797c2",
     "title": "Digital Signal Processing Machine Learning Software Development Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -283502,7 +283226,7 @@
     "company_name": "Vertex Pharmaceuticals",
     "id": "0eb0a2a5-cdc7-45fe-9873-e34467bae5c6",
     "title": "Vertex Co-op - Data and Engineering Governance",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -292589,7 +292313,7 @@
     "company_name": "KBR",
     "id": "6fc0d2a2-7de1-419b-920a-14bf98720a7d",
     "title": "National Security Solutions Computer Science Intern - NSS",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -326656,7 +326380,7 @@
     "company_name": "Tencent",
     "id": "c314168a-6c90-4eaf-b388-81124551f0fe",
     "title": "Generative AI Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -353646,7 +353370,7 @@
     "company_name": "Trumid",
     "id": "cb476514-34d1-435f-aadd-fe05fa1476f0",
     "title": "AI Automation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -356138,7 +355862,7 @@
     "company_name": "Aramark",
     "id": "fc600555-5838-472c-94d5-bfe89af6e7d0",
     "title": "ASU Sustainability Data Analysis Student Manager ASU Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -372895,7 +372619,7 @@
     "company_name": "Stripe",
     "id": "3c25c72e-92ba-41f7-9597-6f68045b9743",
     "title": "PhD Machine Learning Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381083,7 +380807,7 @@
     "company_name": "Sharecare",
     "id": "9b41e22b-95f4-477c-a8e3-582f8525387a",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -390496,7 +390220,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
     "title": "Human Resources Data Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -395769,7 +395493,7 @@
     "company_name": "Keysight Technologies",
     "id": "09fbe4f8-d2b9-49af-a4ec-1e8664c44312",
     "title": "Full Stack Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2025"
     ],
@@ -398719,7 +398443,7 @@
     "company_name": "Stride",
     "id": "fc88d475-f678-4ae3-bc2c-5ef19e50476f",
     "title": "K12 Zone Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -400019,7 +399743,7 @@
     "company_name": "Pennsylvania State University",
     "id": "d9a8359e-bde5-438f-884b-c62ff34f0c28",
     "title": "Research Assistant Supply Chain and Information Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -400695,7 +400419,7 @@
     "company_name": "Geotab",
     "id": "f49c4359-4e08-4317-8aca-83420e5d5664",
     "title": "Corporate Sustainability Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -401866,7 +401590,7 @@
     "company_name": "Harvard University",
     "id": "376142e3-7d1c-471c-9e03-afb3d5bc8f18",
     "title": "Predoctoral Research Associate Intern - Strategy",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -402526,7 +402250,7 @@
     "company_name": "RTX",
     "id": "f1f040fa-ad93-4eab-ac24-734ca92e3791",
     "title": "Gestion de projets et développement d'outils d'analyse en qualité Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -403784,7 +403508,7 @@
     "company_name": "Banco Bilbao Vizcaya Argentaria",
     "id": "52e0c0c2-9687-45db-95af-2c54c58b654c",
     "title": "Securities Financing Transactions Intern - Securities Financing Transactions",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -403920,7 +403644,7 @@
     "company_name": "Blue Cross Blue Shield of Michigan",
     "id": "8c1e69c9-f6a2-4596-b17f-8cc61cd0ca80",
     "title": "Analyst Development Program",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -405114,7 +404838,7 @@
     "company_name": "Highlight Technologies",
     "id": "baf75152-20dc-46aa-ab18-a354024d2c63",
     "title": "Prospect Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
