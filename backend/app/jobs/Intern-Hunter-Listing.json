@@ -1,29 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ATPCO",
-    "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
-    "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760007796,
-    "date_posted": 1759975138,
-    "url": "https://jobs.smartrecruiters.com/ATPCO1/744000086392255",
-    "locations": [
-      "Reston, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "Patreon",
     "id": "5cefdd41-b417-4f73-8faa-f5a0dded28bf",
@@ -274973,7 +274950,7 @@
     "company_name": "Draper",
     "id": "ec963f16-c7f2-4759-acbc-6b09accb9141",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -348957,7 +348934,7 @@
     "company_name": "Intrinsic",
     "id": "340d9a32-ab47-4584-84fe-63f303b1e616",
     "title": "Vision Foundation Model Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -378698,7 +378675,7 @@
     "company_name": "Cummins",
     "id": "5dd905b0-3eae-4a3e-85bc-5e2fe61d6318",
     "title": "Aftermarket Bus Support Team Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -380592,7 +380569,7 @@
     "company_name": "ASM Global",
     "id": "f5725c26-b649-4b69-9680-c06c8f5019d5",
     "title": "Hospitality and Merchandise Insights Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381461,7 +381438,7 @@
     "company_name": "Kraft Heinz",
     "id": "ff7646c8-a970-4f79-9097-85c73ab85a40",
     "title": "Sales Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -387639,7 +387616,7 @@
     "company_name": "Protech Automotive Solutions",
     "id": "f67f6341-7b86-4397-a467-a0e0538e54ce",
     "title": "Automotive ADAS Calibration Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388802,7 +388779,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "e020b84a-9208-4e64-bf03-75a31a259876",
     "title": "Data Engineer Intern - CDO",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -389063,7 +389040,7 @@
     "company_name": "RTX",
     "id": "752f2ddd-7a73-46de-90e2-82c1769e5330",
     "title": "Sustainment Data and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
