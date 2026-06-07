@@ -1,389 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "CIBC",
-    "id": "dc766d57-4125-45b8-9301-041d8a3fe25a",
-    "title": "Intern - Data Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760115137,
-    "date_posted": 1760115137,
-    "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Data-Management_2523670-1",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/CIBC",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "ENSCO",
-    "id": "854b4032-1f49-4bad-b09a-949d94be6a70",
-    "title": "Junior Software Developer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761581922,
-    "date_posted": 1760114797,
-    "url": "https://job-boards.greenhouse.io/ensco/jobs/4949356008",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/ENSCO",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Highmark Health",
-    "id": "aea04632-aba6-45f5-a57a-be8dc0c107fc",
-    "title": "Data Science Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761332131,
-    "date_posted": 1760114490,
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Data-Science-Graduate-Intern_J270573",
-    "locations": [
-      "New Mexico",
-      "Washington",
-      "Kansas",
-      "Pennsylvania",
-      "North Dakota",
-      "Oregon",
-      "Delaware",
-      "Iowa",
-      "California",
-      "Washington, DC",
-      "Vermont",
-      "Wyoming",
-      "Texas",
-      "Montana",
-      "Jackson Township, NJ",
-      "Florida",
-      "Waterbury, CT",
-      "Nevada",
-      "South Carolina",
-      "South Dakota",
-      "Georgia",
-      "Arizona",
-      "Concord, NH",
-      "Mississippi",
-      "Tennessee",
-      "Virginia",
-      "Arkansas",
-      "Minnesota",
-      "Colorado",
-      "Nebraska",
-      "Rhode Island",
-      "Utah",
-      "Kentucky",
-      "West Virginia",
-      "NYC",
-      "Maryland",
-      "Hawaii",
-      "Wisconsin",
-      "Maine",
-      "Massachusetts",
-      "North Carolina",
-      "Oklahoma",
-      "Missouri",
-      "Ohio",
-      "Indiana",
-      "Louisiana",
-      "Alaska",
-      "Michigan",
-      "Illinois",
-      "Alabama",
-      "Idaho"
-    ],
-    "company_url": "https://simplify.jobs/c/Highmark-Health",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Electronic Arts",
-    "id": "2027e67f-b3e2-459c-8047-7cea7f82140e",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1760112573,
-    "date_posted": 1760112573,
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/211107",
-    "locations": [
-      "Warwick, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Electronic-Arts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "CenturyLink",
-    "id": "8e6110bc-1891-4c9a-a06e-78e8acdaec38",
-    "title": "Intern - Data Enablement: System Architecture - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761619154,
-    "date_posted": 1760112288,
-    "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Enablement-System-Architecture-Summer-2026/1333645300/?ats=successfactors",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/CenturyLink",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Hitachi",
-    "id": "45a20449-82ee-49bf-93aa-c9bb9536d3c6",
-    "title": "Software Analyst Intern - Research and Technology - C++, Python, Git, Docker",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1760112336,
-    "date_posted": 1760112336,
-    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C----Python--Git--Docker--8-months_R1010726",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Hitachi",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "CenturyLink",
-    "id": "43a553d8-fbea-40df-b691-b782abb93164",
-    "title": "Intern - Product Marketing - Product Marketing",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761617816,
-    "date_posted": 1760112291,
-    "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Product-Marketing-Summer-2026/1333709700/?ats=successfactors",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/CenturyLink",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Lumen Technologies",
-    "id": "9fd6aad6-3341-4561-9d01-3159fa79a6b7",
-    "title": "Intern – Data Enablement: System Architecture - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761619202,
-    "date_posted": 1760112142,
-    "url": "https://jobs.lumen.com/global/en/job/340244",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Altice USA",
-    "id": "c024670d-3c5a-449a-af5c-648a3252565e",
-    "title": "Intern – Customer Care",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760337453,
-    "date_posted": 1760116362,
-    "url": "https://www.alticeusacareers.com/job/Bethpage-Intern-Customer-Care-NY-11714/1333655100/?ats=successfactors",
-    "locations": [
-      "Plainview, NY",
-      "Golden, CO",
-      "Wakefield, MA",
-      "NYC",
-      "White Plains, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/Altice-USA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Seagate Technology ",
-    "id": "65662994-d960-4df2-8924-d72b0e6e7f77",
-    "title": "Emerging Products and Solutions Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760119028,
-    "date_posted": 1760119028,
-    "url": "https://seagatecareers.com/job/Longmont-Emerging-Products-and-Solutions-Intern-Summer-2026-CO-80501/1333719300/?ats=successfactors",
-    "locations": [
-      "Longmont, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/Seagate-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Lumen Technologies",
-    "id": "816aaf18-fbb1-4074-b2ca-e91cba7fb031",
-    "title": "Intern – Product Marketing - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761617782,
-    "date_posted": 1760117852,
-    "url": "https://jobs.lumen.com/global/en/job/340176",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "SageSure",
-    "id": "a6852e13-b283-489e-a381-119a1b21499e",
-    "title": "Data Science Intern - Data Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760337470,
-    "date_posted": 1760119564,
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4607545006",
-    "locations": [
-      "NYC",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Seagate Technology ",
-    "id": "b9d06e95-050e-4a8d-939d-d008f2636dba",
-    "title": "Intern - Test Process Firmware Engineer - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760122289,
-    "date_posted": 1760122289,
-    "url": "https://seagatecareers.com/job/Shakopee-Intern-Test-Process-Firmware-Engineer-Summer-2026-MN/1333720500/?ats=successfactors",
-    "locations": [
-      "Shakopee, MN",
-      "Longmont, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/Seagate-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Autodesk",
-    "id": "fffc79d5-6008-4f65-8a65-253b297481ca",
-    "title": "Intern - Data Engineer - AIDA Team",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760121593,
-    "date_posted": 1760121593,
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/AMER---United-States---Michigan---Novi/Intern--Data-Engineer_25WD92297",
-    "locations": [
-      "Novi, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Autodesk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Leidos",
     "id": "14f6b31a-5875-4a89-9e84-ca0b72c90fa1",
@@ -2403,29 +2020,6 @@
     "degrees": [
       "Bachelor's",
       "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Intercontinental Exchange",
-    "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
-    "title": "Software Engineering Intern - Full-Stack - Java",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760377335,
-    "date_posted": 1760121183,
-    "url": "https://careers-ice.icims.com/jobs/11614/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/ICEMarkets",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ]
   },
   {
@@ -41828,28 +41422,6 @@
       "Cheshire, CT"
     ],
     "company_url": "https://simplify.jobs/c/SageSure-Insurance-Managers",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Tive",
-    "id": "2d88c424-2e3c-4087-a081-c72ede377169",
-    "title": "Software Engineer Co-op",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1761840979,
-    "date_posted": 1760114449,
-    "url": "https://ats.rippling.com/tive-careers/jobs/0cd663ee-96e1-48af-b77e-ed8553b958f9",
-    "locations": [
-      "Boston, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Tive",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -114193,27 +113765,6 @@
       "Austin, TX"
     ],
     "company_url": "https://simplify.jobs/c/Electronic-Arts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Marvell",
-    "id": "d7b2ba82-b555-44fc-a9f7-68d6d286ccab",
-    "title": "Silicon Photonics Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766543215,
-    "date_posted": 1760119753,
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Marvell",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -326695,7 +326246,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -363291,7 +362842,7 @@
     "company_name": "NVIDIA",
     "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
     "title": "PhD Research Intern - Security and Privacy",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -372686,7 +372237,7 @@
     "company_name": "American University",
     "id": "ce1c8960-feb9-4664-a95b-bf69e14b0f14",
     "title": "Research Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -382708,7 +382259,7 @@
     "company_name": "Cenovus Energy",
     "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
     "title": "Student – Asset Integrity",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -386192,7 +385743,7 @@
     "company_name": "Smithfield Foods",
     "id": "6da11802-6c56-425d-bef5-43ee14435ee9",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -387350,7 +386901,7 @@
     "company_name": "EXL",
     "id": "bb5a1c10-0307-41e9-960c-f28ddc3397ab",
     "title": "Analytics & AI Solutions Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
