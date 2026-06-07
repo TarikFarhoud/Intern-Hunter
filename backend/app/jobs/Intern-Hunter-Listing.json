@@ -380365,7 +380365,7 @@
     "company_name": "Magna",
     "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
     "title": "Tools Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -380511,7 +380511,7 @@
     "company_name": "NVIDIA",
     "id": "23510ddb-5e86-43f5-871a-3be1a3210cbb",
     "title": "AI and Systems Software Intern - At Scale AI",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
