@@ -9549,7 +9549,7 @@
   {
     "date_updated": 1760743062,
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "degrees": [
       "Master's"
     ],
@@ -90622,7 +90622,7 @@
     "company_name": "Microsoft",
     "id": "4f2273ab-8ca0-4cd7-9ae4-e1f0d6eadd5f",
     "title": "Research Intern - Microsoft Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -272850,7 +272850,7 @@
     "company_name": "Vertex Pharmaceuticals",
     "id": "dd0dcae5-8655-4c37-bb3a-246416461db7",
     "title": "Vertex Co-op - G&A Treasury Applications",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -284376,7 +284376,7 @@
     "company_name": "Keysight Technologies",
     "id": "079556dd-72d9-4e93-ac83-24d1b32c6b2e",
     "title": "Engineering Apprentice - Calibration & Test",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -333854,7 +333854,7 @@
     "company_name": "TikTok",
     "id": "029427e5-d571-423d-84ca-6f3bcf7502ac",
     "title": "Product Operations Project Intern - Advertising - Creative",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -358449,7 +358449,7 @@
     "company_name": "Commonwealth of Massachusetts",
     "id": "b40fa525-d2cc-4c11-b30a-5983e78f3a93",
     "title": "Student Investigations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -366653,7 +366653,7 @@
     "company_name": "W.R. Berkley",
     "id": "2aa26cc9-01dd-455b-ad28-221aedef7c7a",
     "title": "Underwriting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -374416,7 +374416,7 @@
     "company_name": "Geotab",
     "id": "2f1ac1b1-fa43-40f5-912c-f4c8e3202259",
     "title": "Integrations Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -374439,7 +374439,7 @@
     "company_name": "Harris Computer",
     "id": "5b276a14-eb91-4db5-8ca4-efb914594947",
     "title": "Software Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -375029,7 +375029,7 @@
     "company_name": "Cirrus Logic",
     "id": "d23cb809-5c8e-488a-917f-56c5b9cb02f8",
     "title": "AI Solutions Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -376780,7 +376780,7 @@
     "company_name": "Draper",
     "id": "373a7a99-4e46-4ff4-b7e9-c43d77f4cbb3",
     "title": "Market Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -376805,7 +376805,7 @@
     "company_name": "Nationwide Children's Hospital",
     "id": "19ceb092-ce44-44e3-a5f4-c4d1d837a343",
     "title": "IT R&1 Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381883,7 +381883,7 @@
     "company_name": "Rolls-Royce Motorcars",
     "id": "ef72b73d-d0cf-42b1-84ba-9eebed3861c1",
     "title": "Purchased Parts Quality Management",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -382469,7 +382469,7 @@
     "company_name": "Magnite",
     "id": "527e83c9-8667-42c5-ae2d-aa16111a9379",
     "title": "Software Engineer Intern - Demand Solutions",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -383340,7 +383340,7 @@
     "company_name": "HERE Technologies",
     "id": "53554902-8b60-4c49-9764-0c5a6093b044",
     "title": "Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -383978,7 +383978,7 @@
     "company_name": "MarketAxess",
     "id": "af0b9b98-b143-4e9f-b91f-5a841d4f7cd0",
     "title": "Software Engineer Apprentice - RFQ Hub",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -384640,7 +384640,7 @@
     "company_name": "PsiQuantum",
     "id": "b7e9ff6e-3541-43b9-bb0e-44d029db347d",
     "title": "Hardware Design and Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -384848,7 +384848,7 @@
     "company_name": "Revance",
     "id": "56f714dd-27f8-4010-9262-c342a2fdecd0",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -385679,7 +385679,7 @@
     "company_name": "Nationwide Children's Hospital",
     "id": "7146de68-f772-462a-b679-f15f88001bd3",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -385903,7 +385903,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "04ee7d43-cdd9-4776-870d-b3ba6a9b022e",
     "title": "Radar Sensing AI Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388143,7 +388143,7 @@
     "company_name": "Worcester Polytechnic Institute",
     "id": "622ea5a3-3ca2-4251-94a1-95affbb3b929",
     "title": "Research Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -388901,7 +388901,7 @@
     "company_name": "General Motors",
     "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
     "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -389010,6 +389010,168 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Robert Bosch Venture Capital",
+    "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
+    "title": "Hardware & Embedded Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1781014157,
+    "date_posted": 1781014018,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131150005",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Bosch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Eurofins",
+    "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
+    "title": "Business Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781014157,
+    "date_posted": 1781014019,
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
+    "locations": [
+      "Lancaster, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Eurofins",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Vernova",
+    "id": "f0ac800d-804a-400b-9ee5-a6006e56c30b",
+    "title": "Grid Automation & Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781014861,
+    "date_posted": 1781013945,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "GE Vernova",
+    "id": "a4cdfbff-a13d-4e76-9f16-0ee63fbbdbbf",
+    "title": "Grid Automation & Software Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781014861,
+    "date_posted": 1781014647,
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Vernova",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "iSpot.tv",
+    "id": "3fa70c31-5b5a-41e7-8aa4-3e415e17364f",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781015401,
+    "date_posted": 1781015024,
+    "url": "https://job-boards.greenhouse.io/ispottv/jobs/4703297005",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ISpot-TV",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "CIBC",
+    "id": "2a22945c-fbdc-449a-9362-862dde46fb41",
+    "title": "Workforce Experience Analytics Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781014321,
+    "date_posted": 1781014301,
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Workforce-Experience-Analytics-Co-op_2612352",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/CIBC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Great American Insurance Company",
+    "id": "e9437c93-20fe-4e9e-a19b-5783aa44a57a",
+    "title": "Catastrophe Modeling & Data Analytics Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1781014321,
+    "date_posted": 1781014274,
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2026-_R9102",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
