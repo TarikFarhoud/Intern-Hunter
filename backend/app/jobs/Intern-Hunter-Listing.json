@@ -1,77 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "NatWest Group",
-    "id": "6499446b-d63c-4cb1-b421-fe49e638a813",
-    "title": "Engineering Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1760321558,
-    "date_posted": 1760321558,
-    "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Engineering----Internship_R-00265159",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/791af8de-7786-4aa2-b51d-9dfed06c6b21",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Johnson & Johnson",
-    "id": "8221d7e2-fbba-4ac5-b28d-ebea59b6251f",
-    "title": "Software Engineering Co-Op - XENA Developer Experience",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1760340141,
-    "date_posted": 1760340141,
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/J-J-Technology-XENA-Software-Engineering-Off-Cycle-Co-Op---March-to-September-2026_R-036152",
-    "locations": [
-      "Bridgewater Township, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "SAS",
-    "id": "8e3e4e45-2bf5-4103-a948-9b38094e0f1f",
-    "title": "Software Development and Testing Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1760339417,
-    "date_posted": 1760339417,
-    "url": "https://careers-sas.icims.com/jobs/40120/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Morrisville, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/SAS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
     "date_updated": 1763457815,
     "sponsorship": "U.S. Citizenship is Required",
     "active": false,
@@ -141990,7 +141918,7 @@
     "company_name": "Assort Health",
     "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
     "title": "Agent Engineer – New Grad",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -252647,7 +252575,7 @@
     "company_name": "Rolls Royce",
     "id": "fe63dd4b-c302-4d46-9fd3-0663297956cb",
     "title": "Predictive Maintenance Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -252670,7 +252598,7 @@
     "company_name": "Rolls Royce",
     "id": "f8080880-d013-40c8-ac19-30326bd50f19",
     "title": "Innovations Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -252694,7 +252622,7 @@
     "company_name": "Rolls Royce",
     "id": "a57b1f57-bf08-43ed-a989-21bb60239f07",
     "title": "Paint Shop Digitalization Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -252740,7 +252668,7 @@
     "company_name": "Rolls Royce",
     "id": "5959e81d-35cb-4da2-a9a5-02a553b86cd0",
     "title": "Paint Shop Digitalization Developer Maintenance Planning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -252786,7 +252714,7 @@
     "company_name": "Rolls Royce",
     "id": "17f11bdb-1222-4b9b-997b-cbc2e518f510",
     "title": "Quality Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -253133,7 +253061,7 @@
     "company_name": "Rolls Royce",
     "id": "77261f70-1c17-460e-8bc8-20fe7e9cf55b",
     "title": "Vehicle Electronics Test & Validation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -253179,7 +253107,7 @@
     "company_name": "Rolls Royce",
     "id": "25201ab8-f751-48a3-91b6-488f69467630",
     "title": "Product Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -282014,7 +281942,7 @@
     "company_name": "Rolls-Royce Motorcars",
     "id": "1f4843c8-d10a-481c-ae70-1557310b13b8",
     "title": "Innovation and Digitalization Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -379664,7 +379592,7 @@
     "company_name": "Fidelity Investments",
     "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "title": "Undergraduate Software Engineer - Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -379994,7 +379922,7 @@
     "company_name": "Skyscanner",
     "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
     "title": "Software Engineering Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -381517,7 +381445,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -381816,7 +381744,7 @@
     "company_name": "TDS",
     "id": "49ff5004-3fea-42cf-8ed9-f8ddb314058f",
     "title": "Field Services Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -382399,7 +382327,7 @@
     "company_name": "Rolls-Royce Motorcars",
     "id": "5f7b69b3-d7f9-4b7f-bb09-0f77fb356c06",
     "title": "Production Digitalization Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -382608,7 +382536,7 @@
     "company_name": "Electronic Arts",
     "id": "5c520aff-46ae-4816-86db-f0e15f726997",
     "title": "Rendering Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -383458,7 +383386,7 @@
     "company_name": "Kinaxis",
     "id": "7bd0e2f5-9ca2-4134-a63d-2bab9831c0b0",
     "title": "Developer Co-op/Intern - Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -385373,7 +385301,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -387871,7 +387799,7 @@
     "company_name": "Generac",
     "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
     "title": "GPS Apprentice - Electrical",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -388191,7 +388119,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388440,7 +388368,7 @@
     "company_name": "Agilent Technologies",
     "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
     "title": "Predictive Sales Prospecting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -388901,7 +388829,7 @@
     "company_name": "General Motors",
     "id": "82755bc6-9e28-4b40-a157-d3d1d46a92ae",
     "title": "Engineering Operations Co-op - Equipment and Maintenance Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -389894,6 +389822,270 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EPRI",
+    "id": "a0d7a974-5252-4602-b152-60c7f1945452",
+    "title": "Computer Vision & 3D Asset Reconstruction Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1781072024,
+    "date_posted": 1781071750,
+    "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/EPRI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "EXL",
+    "id": "db8120b2-607d-4a90-8ac6-f872d42bb28e",
+    "title": "AI Intern - Insurance & Healthcare - Agentic AI",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781071561,
+    "date_posted": 1781071459,
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15428",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/EXL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Walleye Capital",
+    "id": "a2dd7ebc-2143-479f-a7cc-43c854f5e08a",
+    "title": "Technology Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083565,
+    "date_posted": 1781083266,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walleye Capital",
+    "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
+    "title": "Risk Technology Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083571,
+    "date_posted": 1781083265,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Walleye Capital",
+    "id": "37f29e78-6188-4883-8606-42dcbabb6448",
+    "title": "Volatility Trading Developer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083572,
+    "date_posted": 1781083266,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meshy",
+    "id": "a10199d3-aba0-4914-9507-71512b694379",
+    "title": "Data Infra Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082556,
+    "date_posted": 1781082373,
+    "url": "https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9/application",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Meshy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meshy",
+    "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
+    "title": "Fullstack Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082556,
+    "date_posted": 1781082373,
+    "url": "https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Meshy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cerebras",
+    "id": "663fa81b-ab7b-4be0-ae9b-3f1ba572f112",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Fall 2026"
+    ],
+    "date_updated": 1781083250,
+    "date_posted": 1781082858,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7619297003",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SHEIN",
+    "id": "0fa42606-0472-428a-9a17-52df8ce4773f",
+    "title": "Data Analysis Intern - Capacity Planning - Sales & Operations Planning",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082556,
+    "date_posted": 1781082210,
+    "url": "https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA73475043",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/SHEIN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SHEIN",
+    "id": "53e0f64c-b44e-4d0b-8e40-5174bd3886a6",
+    "title": "Data Analysis Intern - Logistics - Supply Chain",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082810,
+    "date_posted": 1781082210,
+    "url": "https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA08128269",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/SHEIN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "SHEIN",
+    "id": "1e24ca64-daad-4e93-b51b-88f86f72518a",
+    "title": "Data Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082810,
+    "date_posted": 1781082210,
+    "url": "https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/SHEIN",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
     ]
   }
 ]
