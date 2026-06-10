@@ -141918,7 +141918,7 @@
     "company_name": "Assort Health",
     "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
     "title": "Agent Engineer – New Grad",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -242523,7 +242523,7 @@
     "company_name": "Leonardo",
     "id": "3ec5dd23-0baa-409c-8a84-68d0a45b9aea",
     "title": "Industrial Placement Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -306927,7 +306927,7 @@
     "company_name": "Vertex Pharmaceuticals",
     "id": "26619ab2-a3c0-4877-8bb8-f17dcdf6e529",
     "title": "Vertex Co-op - Instrumentation Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026",
@@ -346690,7 +346690,7 @@
     "company_name": "Lumentum",
     "id": "2c3c55c5-9c0c-46fc-b916-789c7263e4a1",
     "title": "Optical Verification Engineer Co-op/Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -355133,7 +355133,7 @@
     "company_name": "University of Texas at Austin",
     "id": "4450f42b-73d8-48dd-9b92-02a22c77473d",
     "title": "Data Processing Support Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -365289,7 +365289,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -368172,7 +368172,7 @@
     "company_name": "CAE",
     "id": "5ce0381a-1e8a-464a-be80-b985fc2a9eb9",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -371159,7 +371159,7 @@
     "company_name": "NVIDIA",
     "id": "f0577fa0-c379-40cc-885e-beebb1742e22",
     "title": "PhD Data Generation and User Simulation Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -378292,7 +378292,7 @@
     "company_name": "Magna",
     "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
     "title": "Tools Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -379592,7 +379592,7 @@
     "company_name": "Fidelity Investments",
     "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "title": "Undergraduate Software Engineer - Software Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -379922,7 +379922,7 @@
     "company_name": "Skyscanner",
     "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
     "title": "Software Engineering Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -381857,7 +381857,7 @@
     "company_name": "Electronic Arts",
     "id": "ee3ad82e-d834-4ac2-848f-f8cbd938b358",
     "title": "Systems Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -382090,7 +382090,7 @@
     "company_name": "Electronic Arts",
     "id": "bba6cbeb-0111-41d7-a658-9bde8a947a28",
     "title": "Gameplay Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -383386,7 +383386,7 @@
     "company_name": "Kinaxis",
     "id": "7bd0e2f5-9ca2-4134-a63d-2bab9831c0b0",
     "title": "Developer Co-op/Intern - Machine Learning",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -383432,7 +383432,7 @@
     "company_name": "SHI International ",
     "id": "0ebf6a34-8613-4d88-8515-8f3ad6f5b11f",
     "title": "Public Sector Project Administrator Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -386064,7 +386064,7 @@
     "company_name": "SOTI",
     "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
     "title": "Web Producer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -386247,7 +386247,7 @@
     "company_name": "Air Liquide",
     "id": "bcb6535d-0198-4fb9-9d00-f3c1fb239b4c",
     "title": "Clinical Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -388119,7 +388119,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -388142,7 +388142,7 @@
     "company_name": "Microsoft",
     "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
     "title": "Data Center Technician Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -388970,7 +388970,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -389267,7 +389267,7 @@
     "company_name": "Pennant Group",
     "id": "56bf1098-8da1-4cc3-9ed6-a0ddc4f43f04",
     "title": "Analytics Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -389878,7 +389878,7 @@
     "company_name": "Walleye Capital",
     "id": "a2dd7ebc-2143-479f-a7cc-43c854f5e08a",
     "title": "Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389902,7 +389902,7 @@
     "company_name": "Walleye Capital",
     "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
     "title": "Risk Technology Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -390086,6 +390086,434 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Walleye Capital",
+    "id": "0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175",
+    "title": "Equity Volatility Quant Researcher Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083275,
+    "date_posted": 1781083260,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+    "locations": [
+      "Miami, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Walleye Capital",
+    "id": "cef3f7ab-adae-4d4b-88d9-eafc26e3e8f9",
+    "title": "Quantic – Quantitative Researcher Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083557,
+    "date_posted": 1781083262,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Johnson Controls",
+    "id": "a9bdd069-3e5d-4bf3-877f-fc26590e0cd3",
+    "title": "Fire & Security Service Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781083328,
+    "date_posted": 1781083016,
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-Kent-United-Kingdom/Apprentice-Fire---Security-Service-Engineer_EB00075096",
+    "locations": [
+      "Maidstone, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Controls",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Walleye Capital",
+    "id": "7b479664-d0af-4690-be2a-c9ba5d81314a",
+    "title": "Central Equity Quant Research Intern - Ceqr",
+    "active": false,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083557,
+    "date_posted": 1781083260,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cerebras",
+    "id": "5b68ff77-4ed5-44e4-bfb2-4d33a0c87ef0",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1781083234,
+    "date_posted": 1781082858,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=7621006003",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meshy",
+    "id": "fd2ad340-2a29-496f-ba0f-cf7f710469fc",
+    "title": "Generative AI Researcher Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082556,
+    "date_posted": 1781082374,
+    "url": "https://jobs.ashbyhq.com/meshy/4be984f5-c843-44a6-bdd7-4b931d28ef91/application",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meshy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meshy",
+    "id": "01ac21f4-eb1c-49fa-8f29-2b1e758ff588",
+    "title": "Machine Learning Systems Intern",
+    "active": true,
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1781082902,
+    "date_posted": 1781082374,
+    "url": "https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74/application",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meshy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walleye Capital",
+    "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
+    "title": "Investment Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083561,
+    "date_posted": 1781083262,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "EOS IT Solutions",
+    "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
+    "title": "Graduate Data Centre Technician",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1781083472,
+    "date_posted": 1780564005,
+    "url": "https://eosits.com/company/careers/?gh_jid=8578282002",
+    "locations": [
+      "Ohio"
+    ],
+    "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "American University",
+    "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
+    "title": "Undergraduate Research Assistant - Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1781086676,
+    "date_posted": 1780739427,
+    "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Undergraduate-Research-Assistant--Student-_R4347",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Walleye Capital",
+    "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
+    "title": "PhD Quantitative Researcher Intern",
+    "active": false,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083886,
+    "date_posted": 1781083262,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Walleye Capital",
+    "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
+    "title": "Quantitative Developer Intern",
+    "active": false,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1781083562,
+    "date_posted": 1781083263,
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Walleye-Capital",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Evolver",
+    "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
+    "title": "Applied Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082848,
+    "date_posted": 1781082360,
+    "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Evolver",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meshy",
+    "id": "a939cb82-8505-4d19-ba25-0551a09ea06a",
+    "title": "Data Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781082556,
+    "date_posted": 1781082373,
+    "url": "https://jobs.ashbyhq.com/meshy/9c5ad244-68f2-499c-895f-93c908318f52/application",
+    "locations": [
+      "California"
+    ],
+    "company_url": "https://simplify.jobs/c/Meshy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Seaspan",
+    "id": "aad404ae-f5e1-4e23-833b-2011968dc347",
+    "title": "Energy Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "date_updated": 1781083868,
+    "date_posted": 1780909566,
+    "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Seaspan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Brent Council",
+    "id": "fc2b90ec-1897-40d4-a59a-a4ac2bfa8701",
+    "title": "Trading Standards Officer Level 6 Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1781101007,
+    "date_posted": 1781100377,
+    "url": "https://fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2987",
+    "locations": [
+      "United Kingdom"
+    ],
+    "company_url": "https://simplify.jobs/c/Brent-Council",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Lumentum",
+    "id": "849e9f85-f7b7-4bc5-959a-d7d35173e559",
+    "title": "Embedded Software Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "date_updated": 1781100647,
+    "date_posted": 1781100315,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Lumentum",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Analysys Mason",
+    "id": "4a575f6a-23ae-4ac3-8cc2-6994bf45677c",
+    "title": "AI Solutions Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781100361,
+    "date_posted": 1781100310,
+    "url": "https://jobs.smartrecruiters.com/AnalysysMason1/744000131423669",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Analysys-Mason",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
