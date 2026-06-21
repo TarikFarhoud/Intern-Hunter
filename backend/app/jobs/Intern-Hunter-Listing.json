@@ -370734,7 +370734,7 @@
     "company_name": "Duke University",
     "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
     "title": "Administrative Intern - Sanford School of Public Policy",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -371008,7 +371008,7 @@
     "company_name": "Microsoft",
     "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
     "title": "Data Center Technician Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -372912,7 +372912,7 @@
     "company_name": "SHEIN",
     "id": "53e0f64c-b44e-4d0b-8e40-5174bd3886a6",
     "title": "Data Analysis Intern - Logistics - Supply Chain",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
