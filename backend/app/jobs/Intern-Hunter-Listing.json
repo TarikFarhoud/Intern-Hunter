@@ -1,558 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Seaspan",
-    "id": "599608ae-2987-44bb-a11f-7c7e7eca6696",
-    "title": "Intern – Facilities Maintenance Operations - 4 Months",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1761343444,
-    "date_posted": 1761343444,
-    "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7966",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Seaspan",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Experian",
-    "id": "d3875b1f-af2f-4034-8eb8-baec62fc0882",
-    "title": "Platform Solutions Data Analyst Summer Intern - Remote & Paid",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761333735,
-    "date_posted": 1761333735,
-    "url": "https://jobs.smartrecruiters.com/Experian/744000089138333",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Experian",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Experian",
-    "id": "a5fc00e1-e4ff-4aff-9105-fb09151dd09a",
-    "title": "Analytic Consulting Summer Intern - Remote & Paid",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761333741,
-    "date_posted": 1761333741,
-    "url": "https://jobs.smartrecruiters.com/Experian/744000089139774",
-    "locations": [
-      "United States"
-    ],
-    "company_url": "https://simplify.jobs/c/Experian",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Experian",
-    "id": "5254738c-61d7-4c6d-9733-34923621ad79",
-    "title": "Product Management Summer Intern - Remote & Paid",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761333735,
-    "date_posted": 1761333735,
-    "url": "https://jobs.smartrecruiters.com/Experian/744000089137361",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Experian",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "date_updated": 1762292662,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R421859",
-    "company_name": "Comcast",
-    "title": "Machine Learning Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "ec0f1b43-f423-4926-8bc9-1bff881d63be",
-    "date_posted": 1761354764,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292645,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R421666",
-    "company_name": "Comcast",
-    "title": "Data Scientist Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "72aa5537-878b-49c0-bd40-3938daf6ec34",
-    "date_posted": 1761354848,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292628,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Science-Co-op_R421636",
-    "company_name": "Comcast",
-    "title": "Data Science Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "4c8c515c-e1d7-4ef2-9819-e87645fafdcd",
-    "date_posted": 1761354949,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292552,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Analytics-Machine-Learning-Engineer-Co-op_R421673",
-    "company_name": "Comcast",
-    "title": "Data Analytics / Machine Learning Engineer Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "439a140a-b525-43ca-96bd-6a15caacff04",
-    "date_posted": 1761355035,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292534,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R421861",
-    "company_name": "Comcast",
-    "title": "Machine Learning Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "ecaeb007-0819-4b68-844a-63099e68ea84",
-    "date_posted": 1761355094,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292339,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Application-Developer-Co-op_R421865",
-    "company_name": "Comcast",
-    "title": "Software Application Developer Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "65880757-f7cb-4099-baa1-6eab37bd3961",
-    "date_posted": 1761355172,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762294714,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Embedded-System-Software-Developer-Co-op_R421769",
-    "company_name": "Comcast",
-    "title": "Embedded System Software Developer Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "angie-hue",
-    "id": "74aff0da-0c79-4b91-b778-39efe9c5c32d",
-    "date_posted": 1761355272,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292324,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Software-Engineer-Co-op_R421854",
-    "company_name": "Comcast",
-    "title": "Software Engineer Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "3a20374e-74f5-4f2e-a21f-9f4d18c453c0",
-    "date_posted": 1761355397,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292362,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R421856",
-    "company_name": "Comcast",
-    "title": "Software Engineer Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "2c69a015-0ae7-46ce-abad-a2b5ac1a2f86",
-    "date_posted": 1761355465,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1762292397,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R421857",
-    "company_name": "Comcast",
-    "title": "Software Engineer Co-op",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "d142bfcf-9d98-4593-b4dd-cf87a06805ec",
-    "date_posted": 1761355501,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1761618390,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.jobvite.com/nutanix/job/ocnfyfw6",
-    "company_name": "Nutanix",
-    "title": "Business Data Analyst Intern",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "89a35bba-fdae-4b24-88f4-49db68eafc3b",
-    "date_posted": 1761357143,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1761357162,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-27983-1",
-    "company_name": "HNTB",
-    "title": "Artificial Intelligence Intern",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "96f001d0-9b8c-49b4-be06-ccdd4d9c89ff",
-    "date_posted": 1761357162,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1761357442,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job",
-    "company_name": "W.R. Berkley",
-    "title": "Data Analyst Summer Intern",
-    "locations": [
-      "Englewood, CO"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "a821775d-4489-4de8-b2d8-42ff56d483ca",
-    "date_posted": 1761357442,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1761357522,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185",
-    "company_name": "ABB",
-    "title": "AI Vision Engineer Intern- AI Robotics",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "1ae0e71a-c52a-4b31-a0c7-a4c76712c7c4",
-    "date_posted": 1761357522,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Visa",
-    "id": "c1bad8b4-38c2-4226-8049-5d1ea382543e",
-    "title": "Data Science Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761357513,
-    "date_posted": 1761357513,
-    "url": "https://jobs.smartrecruiters.com/Visa/744000089508185",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Visa",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Visa",
-    "id": "90f2eea0-17e4-44cc-a5e3-1c594edcb427",
-    "title": "Data Science Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761357512,
-    "date_posted": 1761357512,
-    "url": "https://jobs.smartrecruiters.com/Visa/744000089506881",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Visa",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "date_updated": 1763457815,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Algorithm-Developer-Intern_J000685569",
-    "company_name": "Aptiv",
-    "title": "Algorithm Developer Intern",
-    "locations": [
-      "Troy, MI"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "d729ce89-e7c8-4723-a7a3-5703218f2daf",
-    "date_posted": 1761358306,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1761592903,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Software-Engineering-Undergraduate-Intern_J270832-1",
-    "company_name": "Highmark Health",
-    "title": "Software Engineering Undergraduate Intern",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "328b6b3f-a87e-4114-a82a-195ffba6ebf9",
-    "date_posted": 1761358335,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1761592859,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://faithtechnologies.wd1.myworkdayjobs.com/en-US/fti/job/WI---Menasha/Software-Developer-Intern_R7757-1",
-    "company_name": "Faith Technologies",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Menasha, WI"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "341b1db7-e92c-4e8d-9271-d4b2d682fe55",
-    "date_posted": 1761358373,
-    "company_url": "",
-    "is_visible": false
-  },
-  {
-    "date_updated": 1761358405,
-    "sponsorship": "Offers Sponsorship",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Sumer-2026-Software-Engineer-Graduate-Intern_J270859",
-    "company_name": "Highmark Health",
-    "title": "Software Engineer Graduate Intern",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "550b357f-3d1e-4980-86a7-b88d8e5e1846",
-    "date_posted": 1761358405,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Wex",
     "id": "c8b5ae99-8ee0-4d05-8ad0-5df43d708741",
@@ -1170,29 +618,6 @@
     "degrees": [
       "Bachelor's",
       "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AbbVie",
-    "id": "da6d1f25-071c-4c7d-a66f-535c73ac5661",
-    "title": "2026 Biologics Analytical Research & Development Intern - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761349234,
-    "date_posted": 1761349234,
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009976911",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/AbbVie",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
     ]
   },
   {
@@ -252841,7 +252266,7 @@
     "company_name": "Magna",
     "id": "7bac57bb-c122-4094-9de3-8bc9984f259f",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -344084,7 +343509,7 @@
     "company_name": "NVIDIA",
     "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
     "title": "PhD Research Intern - Security and Privacy",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -358953,7 +358378,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -361158,7 +360583,7 @@
     "company_name": "Magna",
     "id": "f2bff587-1432-4e84-9d58-604de0b930c0",
     "title": "Tools Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -368562,7 +367987,7 @@
     "company_name": "Rippling",
     "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
     "title": "Full Stack Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -373178,7 +372603,7 @@
     "company_name": "American University",
     "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
     "title": "Undergraduate Research Assistant - Student",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -373340,7 +372765,7 @@
     "company_name": "Lumentum",
     "id": "849e9f85-f7b7-4bc5-959a-d7d35173e559",
     "title": "Embedded Software Engineer Co-op/Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -376837,7 +376262,7 @@
     "company_name": "mthree",
     "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
     "title": "Technology Talent Programme",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -378930,7 +378355,7 @@
     "company_name": "Magna",
     "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
     "title": "Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -379483,7 +378908,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -381141,6 +380566,29 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Freeform",
+    "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
+    "title": "Process Engineer Intern",
+    "active": false,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1782080867,
+    "date_posted": 1781043772,
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/FreeformFuture",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
