@@ -338229,7 +338229,7 @@
     "company_name": "Regal Rexnord",
     "id": "50d55538-3ab4-43b4-bca2-ee08a31588bf",
     "title": "Electronics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -370999,7 +370999,7 @@
     "company_name": "Seaspan",
     "id": "1392ad07-cefb-4971-9b22-7ce2863eb007",
     "title": "Configuration and Data Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -374230,7 +374230,7 @@
     "company_name": "ABB",
     "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
     "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
