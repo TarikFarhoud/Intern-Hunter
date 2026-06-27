@@ -1,28 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Veolia",
-    "id": "0d00ce4c-5e83-4376-8c41-8c41f373a81c",
-    "title": "Intern – Laboratory",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761781008,
-    "date_posted": 1761781008,
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000090705885",
-    "locations": [
-      "Trevose, Feasterville-Trevose, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Veolia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
     "date_updated": 1761799753,
     "sponsorship": "Other",
     "active": true,
@@ -439,30 +416,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Thermo Fisher Scientific",
-    "id": "c9942b4b-738b-4d7d-96c8-31b08f77c763",
-    "title": "System Design Engineer Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761770849,
-    "date_posted": 1761770849,
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/System-Design-Engineer-Intern_R-01328142",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
     ]
   },
   {
@@ -1132,29 +1085,6 @@
       "Orlando, FL"
     ],
     "company_url": "https://simplify.jobs/c/Marriott-Vacations-Worldwide",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Thermo Fisher Scientific",
-    "id": "b03f07cc-1da2-477b-a754-01a31266894e",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761770946,
-    "date_posted": 1761770946,
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Durham-North-Carolina-USA/Data-Science-Intern_R-01328092",
-    "locations": [
-      "Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
@@ -14077,51 +14007,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NVIDIA",
-    "id": "e1a278b0-1e48-4b04-b940-f436997bfb39",
-    "title": "AI Developer Technology Intern - 2026",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761775827,
-    "date_posted": 1761775827,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2026_JR2006380",
-    "locations": [
-      "Bristol, UK",
-      "Munich, Germany"
-    ],
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "9ba7a461-b1a8-45c2-8d89-4a23a539d7ad",
-    "title": "Research Scientist Intern - Machine Learning Acceleration",
-    "active": false,
-    "terms": [
-      "Fall 2025",
-      "Winter 2025"
-    ],
-    "date_updated": 1762164815,
-    "date_posted": 1761782161,
-    "url": "https://www.metacareers.com/jobs/1835678850417840",
-    "locations": [
-      "Redmond, WA",
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "Tencent",
     "id": "6bdda2c4-63b7-4bbd-9f90-e10f7ddf8325",
@@ -14137,49 +14022,6 @@
       "Palo Alto, CA"
     ],
     "company_url": "https://simplify.jobs/c/Tencent",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "The Walt Disney Company",
-    "id": "26515fca-dc1f-40de-8789-153b1292c7ba",
-    "title": "Software Engineering Intern - Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761781899,
-    "date_posted": 1761781899,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Software-Engineering-Intern--Summer-2026_10135340",
-    "locations": [
-      "Bristol, CT"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Meta",
-    "id": "071af12a-2264-4268-a773-db0131022967",
-    "title": "Silicon Performance Architect Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762167995,
-    "date_posted": 1761782074,
-    "url": "https://www.metacareers.com/jobs/3970417823091881",
-    "locations": [
-      "Redmond, WA",
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -14207,27 +14049,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "Veryable",
-    "id": "1b4c1b12-0e67-4fee-878f-4e72190b145d",
-    "title": "Mobile Engineer Intern  - Unpaid",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761773936,
-    "date_posted": 1761773936,
-    "url": "https://ats.rippling.com/veryable-careers/jobs/12a23532-21a0-4ba5-afc7-24c9767ab64c",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Veryable",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Leidos",
     "id": "58f3769a-c890-4503-8649-0d562b2bd5c0",
@@ -14243,28 +14064,6 @@
       "Niceville, FL"
     ],
     "company_url": "https://simplify.jobs/c/Leidos",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "RSM",
-    "id": "533409c9-4189-4098-83d5-03822dd29958",
-    "title": "Advanced Analytics and Artificial Intelligence Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761770095,
-    "date_posted": 1761770095,
-    "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229",
-    "locations": [
-      "Irvine, CA",
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/RSM",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -324893,7 +324692,7 @@
     "company_name": "X Development",
     "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
     "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
