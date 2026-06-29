@@ -1751,72 +1751,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Product",
-    "company_name": "FMC Corporation",
-    "id": "800adc76-76de-4550-b6ad-7445f74c9beb",
-    "title": "U.S. Marketing Co-op",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1761978697,
-    "date_posted": 1761978697,
-    "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Philadelphia-Pennsylvania/US-Marketing-Co-op_R-1281",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/FMC-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "5ffb9aad-3d10-428e-8654-b8b8bd0d6764",
-    "title": "Research Scientist Intern - Imaging and Computer Vision - PhD",
-    "active": false,
-    "terms": [
-      "Fall 2025",
-      "Winter 2025",
-      "Summer 2025"
-    ],
-    "date_updated": 1762163803,
-    "date_posted": 1761978616,
-    "url": "https://www.metacareers.com/jobs/2335209993603506",
-    "locations": [
-      "Redmond, WA",
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Qualcomm",
-    "id": "5e9ba39f-338b-4b11-a5a5-0c275ee82bca",
-    "title": "Automotive Engineering Internship - Interim Engineering Intern - SW - QCT Engineering Mgmt - Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761991067,
-    "date_posted": 1761991067,
-    "url": "https://qualcomm.eightfold.ai/careers/job/446707492878",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Qualcomm",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Marvell",
     "id": "3da7f4ff-d03e-4160-90af-12fa5998a971",
@@ -2655,28 +2589,6 @@
       "Vancouver, BC, Canada"
     ],
     "company_url": "https://simplify.jobs/c/Autodesk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Salesforce",
-    "id": "c8a1466a-d062-48dd-852e-59dd514b8981",
-    "title": "Summer 2026 Intern - Product Management",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761978322,
-    "date_posted": 1761978322,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Product-Management_JR316365",
-    "locations": [
-      "SF",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Salesforce",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -3934,27 +3846,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Product",
-    "company_name": "7-Eleven",
-    "id": "d654f524-89e0-4a9b-b92c-b8abf6b54dd2",
-    "title": "Fresh Food Category Manager Intern - Multiple Teams",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761977452,
-    "date_posted": 1761977452,
-    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fresh-Food-Category-Manager-Intern_R25_0000008736",
-    "locations": [
-      "Irving, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/7-Eleven",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Apex Fintech Solutions",
     "id": "43726f05-d685-4bcb-bd0f-b3d05ccc91e1",
@@ -4333,27 +4224,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "b0195ff4-1a58-47b9-a5d0-52a12a296cc3",
-    "title": "Campus Internship Programme - Credit Risk - Fraud Risk",
-    "active": false,
-    "terms": [
-      "Summer 2027"
-    ],
-    "date_updated": 1761972801,
-    "date_posted": 1761972801,
-    "url": "https://aexp.eightfold.ai/careers/job/37914438",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Vistra",
     "id": "cc6aedf1-cde5-4064-b7ea-fdf7b909c955",
     "title": "Spring Intern Davis Besse - ",
@@ -4433,27 +4303,6 @@
       "Rochester, NY"
     ],
     "company_url": "https://simplify.jobs/c/MKS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Cboe",
-    "id": "4118c3ab-1e08-496c-9a06-84f8bbd10495",
-    "title": "Global Derivatives Intern - Options",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1761967063,
-    "date_posted": 1761967063,
-    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/New-York-NY/Global-Derivatives-Intern---US-Options_R-4132",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Cboe",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -97061,29 +96910,6 @@
     "degrees": [
       "Bachelor's",
       "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "American Express",
-    "id": "9919d2f6-85de-40d6-91d2-1cb8ab4ebbd6",
-    "title": "Campus Full Time - Technology Software Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1763122473,
-    "date_posted": 1761990889,
-    "url": "https://aexp.eightfold.ai/careers/job/38535541",
-    "locations": [
-      "Brighton, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ]
   },
   {
