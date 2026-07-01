@@ -852,92 +852,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "c31edded-ec7f-41a7-ac46-6ffd5f1ba571",
-    "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762172264,
-    "date_posted": 1762172264,
-    "url": "https://jobs.bytedance.com/en/position/7560845492122323253/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Micron Technology",
-    "id": "37788686-d879-4c54-bbfd-86843dabba9a",
-    "title": "Intern – ASIC Architect",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762171550,
-    "date_posted": 1762171550,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Architect_JR84107",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Lambda",
-    "id": "36c300a1-652b-4796-ae60-11dae2daec71",
-    "title": "Machine Learning Research Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762249899,
-    "date_posted": 1762170703,
-    "url": "https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe/application",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Lambda",
-    "is_visible": false,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "KLA",
-    "id": "313bf277-0c21-4ec2-b839-c6fd7cfb4ea0",
-    "title": "Applications Development Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1762169952,
-    "date_posted": 1762169952,
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Intern_2532279-1",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/KLA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Layup Parts",
     "id": "c4a9beb0-b616-4c71-a7ec-ea8276002b31",
@@ -46152,7 +46066,7 @@
     "company_name": "Microsoft",
     "id": "a680dfc7-92f1-4c80-a7f4-2d664c5bfddd",
     "title": "Research Intern - Machine Learning at MSR NYC",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -46303,7 +46217,7 @@
     "company_name": "Microsoft",
     "id": "d7ddf468-b969-4a57-b722-38a5d06106b5",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -46367,7 +46281,7 @@
     "company_name": "Microsoft",
     "id": "ab13617e-7a66-440d-99fa-29464741d451",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -46515,7 +46429,7 @@
     "company_name": "Microsoft",
     "id": "bb08d088-3520-4df9-b5b4-c8da79bb97c3",
     "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -46663,7 +46577,7 @@
     "company_name": "Microsoft",
     "id": "eb7de088-169d-46bf-87b0-29d8c5e4bb89",
     "title": "Research Intern - RiSE Group",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -46749,7 +46663,7 @@
     "company_name": "Microsoft",
     "id": "ba6177d8-21b6-4cc6-892f-1c068306457f",
     "title": "Research Intern - Gray Systems Lab - Gsl",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -67901,29 +67815,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Westwood",
-    "id": "d6c2c7ac-207b-4ab6-b8e6-54d3dfbfabd7",
-    "title": "Civil Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766743880,
-    "date_posted": 1762170650,
-    "url": "https://careers-westwoodps.icims.com/jobs/7170/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "McLean, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/Westwood",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
   },
   {
     "date_updated": 1766764298,
@@ -98867,7 +98758,7 @@
     "company_name": "Crest Industries",
     "id": "80acc05b-395b-4882-b898-4b6f84b3a4ed",
     "title": "CIS/CS Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -106092,7 +105983,7 @@
     "company_name": "Citadel",
     "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
     "title": "Machine Learning Researcher – PhD Intern - US",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -211961,7 +211852,7 @@
     "company_name": "Copart",
     "id": "2b7c8f72-48b1-4c76-ac63-400cb8ba6b08",
     "title": "Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -239511,7 +239402,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software – Intern - Python",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -277125,7 +277016,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -294910,7 +294801,7 @@
     "company_name": "Integra FEC",
     "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
     "title": "Data Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -317572,7 +317463,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -327932,7 +327823,7 @@
     "company_name": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
     "id": "02a3daa8-78be-409a-bd55-b630dfae60c1",
     "title": "Academy Performance Analyst Intern - Academy Performance Analysis",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -329984,7 +329875,7 @@
     "company_name": "Truveta",
     "id": "055723e8-df72-4509-8ed4-3b96da97cd0c",
     "title": "Research Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -337509,7 +337400,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -338272,7 +338163,7 @@
     "company_name": "SOTI",
     "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
     "title": "Web Producer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -339982,7 +339873,7 @@
     "company_name": "Generac",
     "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
     "title": "GPS Apprentice - Electrical",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -340824,7 +340715,7 @@
     "company_name": "Bank of America",
     "id": "8274eda3-9ac6-4582-ae1a-b4f690d6737f",
     "title": "Global Tech Apprentice - Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -341335,7 +341226,7 @@
     "company_name": "Picarro",
     "id": "78f19624-1c44-4977-b62e-7f62d90abe71",
     "title": "Product Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -346059,9 +345950,9 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "mthree",
-    "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
+    "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
     "title": "Technology Talent Programme",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -351714,7 +351605,7 @@
     "company_name": "Copart",
     "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -353598,7 +353489,7 @@
     "company_name": "Snap Finance",
     "id": "78c90e1e-ad0b-4b7c-98fd-58e287e18fdb",
     "title": "Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -353621,7 +353512,7 @@
     "company_name": "Sedgwick Claims Management Services",
     "id": "661c72d1-3246-4a68-a747-e850c8abb675",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -353977,7 +353868,7 @@
     "company_name": "Ribbon",
     "id": "97d542d1-34cd-4cd5-a7fc-6d841b5b0a28",
     "title": "UI Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -355890,6 +355781,106 @@
     "sponsorship": "Other",
     "degrees": [
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel",
+    "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
+    "title": "Quantitative Research Analyst Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1782897121,
+    "date_posted": 1782896918,
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+    "locations": [
+      "London, UK",
+      "Paris, France"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Citadel",
+    "id": "6813e05c-291f-4297-bae8-9e6c59d4a809",
+    "title": "Quantitative Researcher – PhD Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1782897121,
+    "date_posted": 1782896922,
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+    "locations": [
+      "Greenwich, CT",
+      "Houston, TX",
+      "Miami, FL",
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Citadel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Crowdstrike",
+    "id": "8429362a-1d03-4406-8ab4-86f7dd0754b2",
+    "title": "Intelligence Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Summer 2026"
+    ],
+    "date_updated": 1782901261,
+    "date_posted": 1782559814,
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowdstrike",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Intel",
+    "id": "7dea03b1-05bd-4605-a42a-103a582bb000",
+    "title": "Facilities Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1782904393,
+    "date_posted": 1782770976,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Facilities-Engineering-Undergraduate-Intern_JR0285184",
+    "locations": [
+      "Hillsboro, OR",
+      "Phoenix, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
