@@ -94227,7 +94227,7 @@
     "company_name": "Tencent",
     "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026"
     ],
@@ -202072,7 +202072,7 @@
     "company_name": "KION Group",
     "id": "fe972247-600c-481b-961d-3abad929c277",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -260056,7 +260056,7 @@
     "company_name": "Formlabs",
     "id": "37c6d738-3d93-410b-a82e-6fd883d15498",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -263010,7 +263010,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -310106,7 +310106,7 @@
     "company_name": "Double Eleven",
     "id": "25a8a293-3253-46d3-a3ea-1b9cba805bc8",
     "title": "Graphics Programmer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -314186,7 +314186,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -323325,7 +323325,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -330512,7 +330512,7 @@
     "company_name": "Pennsylvania State University",
     "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
     "title": "Research and Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -341056,7 +341056,7 @@
     "company_name": "William Blair",
     "id": "502d7467-50c2-4c44-a18b-f2c32cca99f3",
     "title": "Junior Equity Sales-Trading Analyst",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -342288,7 +342288,7 @@
     "company_name": "GE Appliances",
     "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -347088,7 +347088,7 @@
     "company_name": "GE Healthcare",
     "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -347693,7 +347693,7 @@
     "company_name": "NVIDIA",
     "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
     "title": "Performance Engineer Intern - Systems Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -348708,6 +348708,81 @@
       "Master's",
       "Associate's",
       "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783588734,
+    "date_posted": 1783490748,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1",
+    "locations": [
+      "Chattanooga, TN"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "ec539e13-7378-478b-b778-72a9b227541d",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783596158,
+    "date_posted": 1783472744,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043150-1",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Sentara Health",
+    "id": "534e330d-1ccf-4d74-b28e-3c9a73a7a005",
+    "title": "AI Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783600312,
+    "date_posted": 1783519975,
+    "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Intern--AI_JR-102248",
+    "locations": [
+      "Virginia Beach, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Sentara-Health",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
