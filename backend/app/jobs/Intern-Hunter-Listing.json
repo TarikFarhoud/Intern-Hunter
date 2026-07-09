@@ -1,47 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Gilead Sciences",
-    "id": "6ece6ca9-436e-483b-aeae-f8171e1fe171",
-    "title": "Intern – R&D - Information Systems",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762827633,
-    "date_posted": 1762827633,
-    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---R-D---Information-Systems_R0048704",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Gilead Sciences",
-    "id": "27d7f09c-bc15-410e-b82c-336ae81710dc",
-    "title": "Intern – IT - AI/ML Enterprise Data & Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762827621,
-    "date_posted": 1762827621,
-    "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT---AI-ML-Enterprise-Data---Analytics_R0048724",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "date_updated": 1763029174,
     "sponsorship": "U.S. Citizenship is Required",
     "active": false,
@@ -94269,7 +94227,7 @@
     "company_name": "Tencent",
     "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026"
     ],
@@ -225509,7 +225467,7 @@
     "company_name": "Varda Space",
     "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
     "title": "Mission Software – Intern - Python",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -227099,7 +227057,7 @@
     "company_name": "Tencent",
     "id": "e4becf68-5294-4c91-a10c-4626a344f605",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -301947,7 +301905,7 @@
     "company_name": "Astera",
     "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
     "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -330822,7 +330780,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -341098,7 +341056,7 @@
     "company_name": "William Blair",
     "id": "502d7467-50c2-4c44-a18b-f2c32cca99f3",
     "title": "Junior Equity Sales-Trading Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -342495,7 +342453,7 @@
     "company_name": "Iowa State University",
     "id": "14a709a5-3c90-4741-9cd5-4f72de58c755",
     "title": "Postdoctoral Researcher in Machine Learning and Computational Chemistry",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -347224,7 +347182,7 @@
     "company_name": "Blackberry",
     "id": "af9f0a8b-b6df-4358-9834-160d1d0d7a32",
     "title": "QNX Software Developer Co-op - Integration",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -348695,6 +348653,61 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
+    "title": "Field Service Apprentice",
+    "active": true,
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "date_updated": 1783585745,
+    "date_posted": 1783490750,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "GE Healthcare",
+    "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
+    "title": "Field Engineer Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783587541,
+    "date_posted": 1783472744,
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992",
+    "locations": [
+      "Little Rock, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/GE-Healthcare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's",
+      "Certificate"
     ]
   }
 ]
