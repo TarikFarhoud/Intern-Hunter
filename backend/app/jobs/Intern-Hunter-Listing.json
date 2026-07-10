@@ -195179,7 +195179,7 @@
     "company_name": "GE Healthcare",
     "id": "386d44f4-d2be-4d3e-b3cc-16177c263057",
     "title": "Surgery Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -201326,7 +201326,7 @@
     "company_name": "Occidental Petroleum",
     "id": "387d5861-f87f-4086-b76b-88018de85a3f",
     "title": "Intern/Co-op Data - Well Servicing & Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -261445,7 +261445,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -297775,7 +297775,7 @@
     "company_name": "NVIDIA",
     "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
     "title": "PhD Research Intern - Security and Privacy",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -301846,7 +301846,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -302076,7 +302076,7 @@
     "company_name": "Paccar",
     "id": "e7eed9ab-a801-4a42-9b5c-8ed27ef3795d",
     "title": "Facilities MRO Information Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -305628,7 +305628,7 @@
     "company_name": "Nokia",
     "id": "a457e9a6-68a7-469b-8187-7b5ce3c3ccc6",
     "title": "Hardware Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -312621,7 +312621,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -316827,7 +316827,7 @@
     "company_name": "Nokia",
     "id": "fe347c80-23fe-4197-a774-4f3fe8bb2780",
     "title": "Software Development Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -317954,7 +317954,7 @@
     "company_name": "American University",
     "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
     "title": "Graduate Event Data Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -318113,7 +318113,7 @@
     "company_name": "Nokia",
     "id": "5a631c04-f315-4cb5-b558-aa2ad0ea69fb",
     "title": "Silicon Photonics Packaging Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -319752,7 +319752,7 @@
     "company_name": "Nokia",
     "id": "c04639e7-4529-42af-a816-a9faeef3ce6c",
     "title": "AI R&D Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -320134,7 +320134,7 @@
     "company_name": "Nokia",
     "id": "8af9ff4b-2d7d-4db7-931d-0728cc8544ee",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -320206,7 +320206,7 @@
     "company_name": "Nokia",
     "id": "82fe00fc-7d98-44f0-9755-8d7b809749ed",
     "title": "AI R&D Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -320603,7 +320603,7 @@
     "company_name": "Tencent",
     "id": "f083247a-cf19-43ae-8834-7db704881503",
     "title": "Multimedia Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -321760,7 +321760,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -322155,7 +322155,7 @@
     "company_name": "Rippling",
     "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
     "title": "Full Stack Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -327569,7 +327569,7 @@
     "company_name": "Nokia",
     "id": "5702ea99-c90e-4518-a3a9-36d4292d8f4d",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -327593,7 +327593,7 @@
     "company_name": "Nokia",
     "id": "3fe7b0ac-cc2f-489b-abd2-0ca91f8981f6",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328020,7 +328020,7 @@
     "company_name": "Nokia",
     "id": "d8deb87c-5600-4294-8927-736be0d8b0b1",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328068,7 +328068,7 @@
     "company_name": "Nokia",
     "id": "977fd2b4-9242-454f-ae67-76f6efb31fe4",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328138,7 +328138,7 @@
     "company_name": "Nokia",
     "id": "9fe813e2-c70d-4985-91d4-c70aa74b0ed3",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328186,7 +328186,7 @@
     "company_name": "Nokia",
     "id": "e178dbaa-95c9-4015-bbc7-3d6e6c03ebeb",
     "title": "Optical Test Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -329215,7 +329215,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -332685,7 +332685,7 @@
     "company_name": "Magna",
     "id": "5baf8620-6e7e-443a-bab5-755a61362095",
     "title": "Infrared Imaging & Algorithms Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -332935,7 +332935,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -340029,7 +340029,7 @@
     "company_name": "Citadel Securities",
     "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
     "title": "Quantitative Researcher PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -341534,7 +341534,7 @@
     "company_name": "NVIDIA",
     "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
     "title": "PhD Research Intern - System Software and I/O Architecture",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -342160,7 +342160,7 @@
     "company_name": "Fidelity Investments",
     "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
     "title": "Leap Systems Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -343042,7 +343042,7 @@
     "company_name": "Clio",
     "id": "7683e17b-9d90-4bd7-9b3f-eaa0568bfa2a",
     "title": "Data Modeling Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -343823,7 +343823,7 @@
     "company_name": "Citadel Securities",
     "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
     "title": "Quantitative Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -343998,7 +343998,7 @@
     "company_name": "Citadel Securities",
     "id": "5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -345523,7 +345523,7 @@
     "company_name": "GE Healthcare",
     "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -346076,7 +346076,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -346102,7 +346102,7 @@
     "company_name": "GE Healthcare",
     "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -346151,7 +346151,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -347125,7 +347125,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -347177,7 +347177,7 @@
     "company_name": "GE Healthcare",
     "id": "ec539e13-7378-478b-b778-72a9b227541d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -347203,7 +347203,7 @@
     "company_name": "Sentara Health",
     "id": "534e330d-1ccf-4d74-b28e-3c9a73a7a005",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
