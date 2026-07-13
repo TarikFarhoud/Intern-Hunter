@@ -1,247 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Cerity Partners",
-    "id": "c944c772-6e18-4519-9ecc-a76f21818f9b",
-    "title": "Investment Analyst Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763191406,
-    "date_posted": 1763191406,
-    "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R370",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Cerity-Partners",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Blue Shield of California",
-    "id": "4862fe95-7e99-4429-a9ed-7507b2b1e776",
-    "title": "Data Full Stack Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763191656,
-    "date_posted": 1763191656,
-    "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20252172",
-    "locations": [
-      "Redding, CA",
-      "Long Beach, CA",
-      "Rancho Cordova, CA",
-      "Galt, CA",
-      "Canoga Park, LA",
-      "Oakland, CA",
-      "El Dorado Hills, CA",
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Blue-Shield-Of-California",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Nestle",
-    "id": "058722ea-99ca-4b19-8aea-62a819e05be8",
-    "title": "Nestlé Professional Product Development Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1763192097,
-    "date_posted": 1763192097,
-    "url": "https://jobdetails.nestle.com/job/Solon-Nestl%C3%A9-Professional-Product-Development-Intern-OH-44139/1253953901/?ats=successfactors",
-    "locations": [
-      "Solon, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Nestle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "daa3f03b-2c5d-4730-88bf-77518740a737",
-    "title": "Campus Graduate Intern Program - Data Management - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196203,
-    "date_posted": 1763196203,
-    "url": "https://aexp.eightfold.ai/careers/job/38835291",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "94aa63df-183b-47a7-a462-0502fd761139",
-    "title": "Campus Undergraduate Intern Program - Management Information Systems & Analytics - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196159,
-    "date_posted": 1763196159,
-    "url": "https://aexp.eightfold.ai/careers/job/38835249",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "63ebae04-9b6c-4dbd-9c85-21679c799447",
-    "title": "Campus Graduate Intern Program - Data Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196178,
-    "date_posted": 1763196178,
-    "url": "https://aexp.eightfold.ai/careers/job/38835287",
-    "locations": [
-      "Plantation, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "62a863c7-3993-4ae3-9fb0-b2a968c46069",
-    "title": "Campus Undergraduate Intern Program - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196227,
-    "date_posted": 1763196227,
-    "url": "https://aexp.eightfold.ai/careers/job/38835246",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "American Express",
-    "id": "1ded2bd6-3391-46b1-922d-5a7457986101",
-    "title": "Campus Undergraduate Intern Program - Data Management - Technology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763196210,
-    "date_posted": 1763196210,
-    "url": "https://aexp.eightfold.ai/careers/job/38835288",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/American-Express",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Meta",
-    "id": "5a9136bc-93bd-4566-af09-86720a1947e1",
-    "title": "Research Scientist Intern - Eye Tracking and Health - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1763192614,
-    "date_posted": 1763192614,
-    "url": "https://www.metacareers.com/jobs/1512180363340183",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Meta",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Nestle",
-    "id": "3acd269f-b435-4a66-b829-c19ae2cbe78c",
-    "title": "Nespresso Product Marketing Intern",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1763192163,
-    "date_posted": 1763192163,
-    "url": "https://jobdetails.nestle.com/job/New-York-Nespresso-Product-Marketing-Intern-NY-10001/1267476701/?ats=successfactors",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Nestle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Gusto",
-    "id": "2318ce86-2185-4f1c-892d-cc6fb80959eb",
-    "title": "Product Management Intern - Summer 2026 - Master’s/MBA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763192467,
-    "date_posted": 1763192467,
-    "url": "https://job-boards.greenhouse.io/gusto/jobs/7374311",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Gusto",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "AGCO",
     "id": "9e3d7f7e-6541-44d0-a1e0-f0010f737994",
@@ -70072,27 +69831,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "Legrand",
-    "id": "2fcdb5b2-3237-488b-b786-92839a98d798",
-    "title": "Software Developer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768443880,
-    "date_posted": 1763191679,
-    "url": "https://jobs-legrand.icims.com/jobs/9755/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Carlsbad, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Legrand",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "GE Healthcare",
     "id": "9de46a5a-36d3-49b7-8a37-d19329562db9",
@@ -104712,7 +104450,7 @@
     "company_name": "Wheely",
     "id": "6c648ad7-f6a2-48f0-b056-2315c6a1f377",
     "title": "Associate Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -255789,7 +255527,7 @@
     "company_name": "Pennsylvania State University",
     "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
     "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -282945,7 +282683,7 @@
     "company_name": "Regal Rexnord",
     "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
     "title": "Lab Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -306827,7 +306565,7 @@
     "company_name": "PNC Financial Services",
     "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
     "title": "Graduate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -307980,7 +307718,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
     "title": "Relationship Manager Business Markets Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -316104,7 +315842,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -323559,7 +323297,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -327029,7 +326767,7 @@
     "company_name": "Magna",
     "id": "5baf8620-6e7e-443a-bab5-755a61362095",
     "title": "Infrared Imaging & Algorithms Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -333768,7 +333506,7 @@
     "company_name": "Mackenzie Investments",
     "id": "6e10494e-9f9e-403a-b4f7-8429fef82c51",
     "title": "Quantitative Research Intern - Investment Management - Multi-Asset Allocation",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027",
@@ -336109,7 +335847,7 @@
     "company_name": "Bosch Home Comfort",
     "id": "3e31bf3f-b681-4efa-8ddd-f5586886d019",
     "title": "Foreign Trade Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340495,7 +340233,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -341440,7 +341178,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -341469,7 +341207,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -341570,7 +341308,7 @@
     "company_name": "CACI",
     "id": "1bfc9357-5590-4abc-b602-691403283106",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342536,7 +342274,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342609,7 +342347,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342634,7 +342372,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342722,5 +342460,72 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "M&T Bank",
+    "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
+    "title": "Technology Development Program",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783923031,
+    "date_posted": 1783900800,
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "0a544fc0-5a83-40b1-9e39-60f900f0406b",
+    "title": "Low Voltage Power Systems Integration Engineer Intern - Vehicle Firmware",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783931173,
+    "date_posted": 1782868188,
+    "url": "https://www.tesla.com/careers/search/job/275207",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "John Lewis Partnership",
+    "id": "19a249af-6862-43b3-bfbc-303536d99321",
+    "title": "Driver Technician Trainee 7.5t",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783932975,
+    "date_posted": 1783519778,
+    "url": "https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Brooklands-Customer-Delivery-Hub-John-Lewis--Partners/Driver-Technician-Trainee-75t_R-206413-1",
+    "locations": [
+      "Weybridge, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/John-Lewis-Partnership",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
