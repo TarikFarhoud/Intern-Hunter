@@ -70038,7 +70038,7 @@
     "company_name": "Anthropic",
     "id": "cae148c6-4ac9-4ecd-b929-2dea3f0fe173",
     "title": "AI Safety Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -195096,7 +195096,7 @@
     "company_name": "Occidental Petroleum",
     "id": "387d5861-f87f-4086-b76b-88018de85a3f",
     "title": "Intern/Co-op Data - Well Servicing & Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -335235,7 +335235,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "6852e344-03a1-4352-bfc1-e98277cf707f",
     "title": "Relationship Manager Commercial Markets Intern - Agriculture",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -335446,7 +335446,7 @@
     "company_name": "Amentum",
     "id": "1aca22ce-3304-47a3-9b5c-fb3e553e848f",
     "title": "HLS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -336515,7 +336515,7 @@
     "company_name": "Travelers",
     "id": "68319bca-98b4-425e-a9f1-826f84185db6",
     "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -336539,7 +336539,7 @@
     "company_name": "Travelers",
     "id": "8e880f43-881f-428a-a0df-2499ae363955",
     "title": "Product Management Development Program Intern - Pricing Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -336562,7 +336562,7 @@
     "company_name": "Travelers",
     "id": "9d7568db-dd77-40a4-ab10-9ddea6a7c985",
     "title": "Business Insights & Analytics Leadership Development Program - BI&a Ldp - Geospatial Participant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336587,7 +336587,7 @@
     "company_name": "Travelers",
     "id": "940c277c-55c2-4e03-8046-d765e0c14dd7",
     "title": "Engineering Development Program - Engineering Development Program - Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336662,7 +336662,7 @@
     "company_name": "Travelers",
     "id": "4e54f4f7-8945-46be-8759-53b17afb00ea",
     "title": "Business Insights & Analytics Leadership Development Program - BI&A LDP",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336687,7 +336687,7 @@
     "company_name": "Travelers",
     "id": "2a5c7288-d7fe-41bb-98ec-b663fb23c85f",
     "title": "Data Science Leadership Development Program Intern - Dsldp",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -336712,7 +336712,7 @@
     "company_name": "Travelers",
     "id": "66abf653-73b2-4490-8902-fd003a1987ce",
     "title": "Product Management Development Program Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -336736,7 +336736,7 @@
     "company_name": "Travelers",
     "id": "5d6d2dac-1be0-4319-bcf8-3ee10ba498a5",
     "title": "Engineering Development Program - Data Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336763,7 +336763,7 @@
     "company_name": "Travelers",
     "id": "1ef581d4-9bfe-444c-8684-84d5c0732106",
     "title": "Business Insights & Analytics Leadership Development Program Geospatial Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -338116,7 +338116,7 @@
     "company_name": "Duke University",
     "id": "7ed04710-8b67-466b-b02e-56414bd6af7f",
     "title": "Data Analytics Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341344,7 +341344,7 @@
     "company_name": "Hitachi Energy",
     "id": "8d8f9605-6605-4474-9a61-7960df14b4a0",
     "title": "Computer Vision Research & Development Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -343064,7 +343064,7 @@
     "company_name": "WPP Media",
     "id": "62cf381c-6186-4f84-a47c-edd68da74e63",
     "title": "Thrive Future Talent Scheme",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -343755,6 +343755,75 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Jane Street",
+    "id": "fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
+    "title": "Data Engineering Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783992472,
+    "date_posted": 1783992270,
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jane-Street",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Duracell",
+    "id": "a00d36e2-97e7-4df7-9732-450b605fe4d6",
+    "title": "Electronics Tech Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1783991581,
+    "date_posted": 1783991336,
+    "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/Duracell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Arizona State University",
+    "id": "64902580-c49d-4221-8f19-a1e00d5b2f02",
+    "title": "Student Data Science Assistant",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1783991443,
+    "date_posted": 1783900800,
+    "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1449",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "company_url": "https://simplify.jobs/c/Arizona-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
     ]
   }
 ]
