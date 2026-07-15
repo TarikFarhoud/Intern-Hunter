@@ -1,131 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "53ade756-4246-41d4-ae05-0e07e5df5d3c",
-    "title": "Intern - Web Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365059,
-    "date_posted": 1763365059,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "271b6d3f-76b2-4d91-b3eb-38462b3d6c4b",
-    "title": "Intern - AI Software Engineer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365063,
-    "date_posted": 1763365063,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "d209773a-07f4-478b-b8f5-e17e6cd63776",
-    "title": "Summer Intern - IT",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365054,
-    "date_posted": 1763365054,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "St. Jude Children's Research Hospital",
-    "id": "415e6a8f-fef7-4b33-b9a1-71f82210f5f2",
-    "title": "Summer 2026 Intern - Donor Data Management - Memphis, TN",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763365051,
-    "date_posted": 1763365051,
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "RTX",
-    "id": "ad677767-79c7-4302-941c-af062424763c",
-    "title": "2026 Intern – Software Engineering Intern - CA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763378597,
-    "date_posted": 1763378597,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Intern---Software-Engineering-Intern---Onsite--CA-_01806456",
-    "locations": [
-      "Anaheim, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "RTX",
-    "id": "2baf7458-1971-4f43-8bc9-2293ba189b08",
-    "title": "2026 Intern – Software Engineer Intern - CA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763378595,
-    "date_posted": 1763378595,
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA806-8650-Balboa-Avenue-San-Diego-8650-Balboa-Avenue-San-Antonio-Building-San-Diego-CA-92123-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CA-_01806360",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/RTX",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "date_updated": 1763392672,
     "sponsorship": "Other",
     "active": true,
@@ -76995,30 +76869,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Perplexity AI",
-    "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
-    "title": "Intern Program",
-    "active": true,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1763380856,
-    "date_posted": 1763380856,
-    "url": "https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/PerplexityAI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's",
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "RWS",
     "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
     "title": "AI Data Specialist - Georgia - US",
@@ -133153,7 +133003,7 @@
     "company_name": "Savannah River National Laboratory",
     "id": "16874a81-71ed-42cc-a4b7-d088120c8549",
     "title": "Advanced Manufacturing & Design ASPIRE Post Graduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -258508,7 +258358,7 @@
     "company_name": "Primetals Technologies",
     "id": "a72ca479-44bf-46ff-8d2b-0ec7e74731b0",
     "title": "Software Development & Data Science Analyst Intern - Month contract",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -318509,7 +318359,7 @@
     "company_name": "Agilent Technologies",
     "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
     "title": "Predictive Sales Prospecting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -320967,7 +320817,7 @@
     "company_name": "Blue Origin",
     "id": "3cf8c81a-cf6a-4d33-8b8a-e221d86aa57b",
     "title": "Avionics Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -322922,7 +322772,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -326642,7 +326492,7 @@
     "company_name": "University of Texas at Austin",
     "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
     "title": "Course Support - Rhetoric",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -338167,7 +338017,7 @@
     "company_name": "Everfox",
     "id": "6cb5903c-5bc9-4ea2-b00c-1bd9fddc9e35",
     "title": "Product Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -339303,7 +339153,7 @@
     "company_name": "University of British Columbia",
     "id": "032da4e6-d497-4bfd-90b4-b4845b3bf2e7",
     "title": "Utilities Student Worker - Water Consumption Project",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -339783,7 +339633,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -339858,7 +339708,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340803,7 +340653,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -341519,7 +341369,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341972,7 +341822,7 @@
     "company_name": "GE Healthcare",
     "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341997,7 +341847,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -342115,7 +341965,7 @@
     "company_name": "Tesla",
     "id": "0a544fc0-5a83-40b1-9e39-60f900f0406b",
     "title": "Low Voltage Power Systems Integration Engineer Intern - Vehicle Firmware",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342799,7 +342649,7 @@
     "company_name": "Procter & Gamble (P&G)",
     "id": "70567d14-93a2-4b6f-b4bd-a9e981c14af4",
     "title": "R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2028",
       "Spring 2028",
@@ -343866,7 +343716,7 @@
     "company_name": "Levi Strauss & Co.",
     "id": "4edfe0d1-ad5d-4255-8e5f-66a744cb423d",
     "title": "Global Retail Strategy and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -344175,7 +344025,7 @@
     "company_name": "GE Healthcare",
     "id": "913714da-b33d-46f8-89fa-c78911521433",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344930,6 +344780,115 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Scopely",
+    "id": "38e62fdf-3f5f-4a01-892f-511d295e868f",
+    "title": "Data Scientist - Marketing",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784105282,
+    "date_posted": 1779834114,
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Scopely",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Smiths Detection Group",
+    "id": "6a302c32-fd9d-41ee-bd40-b9da850830a1",
+    "title": "Test Engineering Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784106541,
+    "date_posted": 1784106156,
+    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000137822980",
+    "locations": [
+      "Slough, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Magna",
+    "id": "2f90e215-8e95-40b5-9d86-deff1dbd0598",
+    "title": "Weld Technician",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784106962,
+    "date_posted": 1783519990,
+    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Weld-Technician-Student_R00251144",
+    "locations": [
+      "London, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Magna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Circleback",
+    "id": "75892e9b-bebc-4e60-9e4b-a763af8e0759",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1784107887,
+    "date_posted": 1784106695,
+    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Circleback",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Perplexity AI",
+    "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
+    "title": "AI Inference Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1781643165,
+    "date_posted": 1770938486,
+    "url": "https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/PerplexityAI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
     ]
   }
 ]
