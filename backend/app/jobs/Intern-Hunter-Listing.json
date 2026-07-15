@@ -2,48 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Altom Transport",
-    "id": "12bfd1e0-a5fd-4ba9-aeaa-10ac3027e5ed",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763363620,
-    "date_posted": 1763363620,
-    "url": "https://apply.workable.com/altom-transport/j/6C00FDED5C/apply",
-    "locations": [
-      "Markham, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Altom-Transport",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Altom Transport",
-    "id": "5e8c6458-5233-41c8-ab55-9f38615a3acd",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763363621,
-    "date_posted": 1763363621,
-    "url": "https://apply.workable.com/altom-transport/j/04A9461007/apply",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Altom-Transport",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "St. Jude Children's Research Hospital",
     "id": "53ade756-4246-41d4-ae05-0e07e5df5d3c",
     "title": "Intern - Web Software Engineer",
@@ -282962,7 +282920,7 @@
     "company_name": "Tesla",
     "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
     "title": "Software Engineer Intern - Integration Tools",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -301064,7 +301022,7 @@
     "company_name": "Rocket Lab USA",
     "id": "37998569-3501-402e-baa5-4dcdbf1b7bae",
     "title": "Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318439,7 +318397,7 @@
     "company_name": "VSC Fire & Security",
     "id": "6c7f08b9-bb77-4989-a565-eb4e6b509e7f",
     "title": "Integrated Systems Technician Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -339204,7 +339162,7 @@
     "company_name": "TDS",
     "id": "2ec22e8c-8004-46f2-943c-b71ca142908f",
     "title": "GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340245,7 +340203,7 @@
     "company_name": "Autodesk",
     "id": "264ddaa3-5c9c-40c7-b6be-fdb08db1d6a8",
     "title": "AI in Design & Manufacturing Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Fall 2026"
@@ -343548,7 +343506,7 @@
     "company_name": "Citadel Securities",
     "id": "cf82e4db-1a59-498c-9b80-c974a34e8bed",
     "title": "Sector Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344149,7 +344107,7 @@
     "company_name": "Kulicke & Soffa",
     "id": "66f8c5dd-ab2d-449d-a8d3-aafde4c1acc9",
     "title": "Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344901,5 +344859,77 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Chevron Corporation",
+    "id": "0753b1d0-7af4-4aa8-b9b9-96efa8cde209",
+    "title": "Earth Scientist",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1784078408,
+    "date_posted": 1783987200,
+    "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist-Full-Time_R000072410",
+    "locations": [
+      "Houston, TX",
+      "Covington, LA"
+    ],
+    "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Chevron Corporation",
+    "id": "b04c4e51-4f94-4c79-b9eb-dd688af11a82",
+    "title": "Earth Science Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784077700,
+    "date_posted": 1783987200,
+    "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Science-Intern_R000072409",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cloudflare",
+    "id": "7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784099881,
+    "date_posted": 1784097228,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Cloudflare",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
