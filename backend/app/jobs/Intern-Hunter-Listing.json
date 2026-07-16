@@ -1,144 +1,5 @@
 [
   {
-    "date_updated": 1763624635,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925",
-    "company_name": "DriveTime",
-    "title": "Software Engineering Intern",
-    "locations": [
-      "Tempe, AZ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "acd21ba9-59fd-44a0-b6f9-d9630553f5d9",
-    "date_posted": 1763483065,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1763624635,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Atlanta-GA/Software-AI-Engineer-Intern_JR8300",
-    "company_name": "PulteGroup",
-    "title": "Software/AI Engineer Intern",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "71e91b74-1110-49b4-85dc-aedc6711ef1f",
-    "date_posted": 1763483119,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1763483168,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/",
-    "company_name": "Skyworks",
-    "title": "IC Development (Software)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "angie-hue",
-    "id": "48048ef3-965a-46d8-bb37-cd3dc8bc75b4",
-    "date_posted": 1763483168,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1765481140,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://chartermfg.wd5.myworkdayjobs.com/en-US/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Data-Science-Intern---Year-Round_R07008",
-    "company_name": "Charter Manufacturing",
-    "title": "Data Science & Analytics Intern - Year Round",
-    "locations": [
-      "Mequon, WI"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "69a162c4-94bc-4b5f-8464-a7c3a83f5b35",
-    "date_posted": 1763483249,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1765195069,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://alsacstjude.wd1.myworkdayjobs.com/en-US/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Data-Science--Memphis--TN-or-Remote-_R0010296",
-    "company_name": "ALSAC",
-    "title": "Summer 2026 Intern - Data Science",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "0d8cbd83-4a2d-4e57-8a22-fb81b8993a65",
-    "date_posted": 1763483324,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Red Bull",
-    "id": "959c4d01-1b50-4bf5-8994-4c8f73221afd",
-    "title": "2026 Internship - Spring - Data Science",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1763483891,
-    "date_posted": 1763483891,
-    "url": "https://jobs.smartrecruiters.com/RedBull/744000094222026",
-    "locations": [
-      "Livingston, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Red-Bull",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Zebra Technologies",
@@ -2255,7 +2116,7 @@
     "company_name": "Cisco",
     "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
     "title": "Hardware Engineer 2",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025"
     ],
@@ -192353,7 +192214,7 @@
     "company_name": "KION Group",
     "id": "fe972247-600c-481b-961d-3abad929c277",
     "title": "AI Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -291165,7 +291026,7 @@
     "company_name": "SOTI",
     "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
     "title": "Product Manager Intern - Sales Enablement Products",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -302970,7 +302831,7 @@
     "company_name": "thyssenkrupp",
     "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
     "title": "Trader Trainee",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -318253,7 +318114,7 @@
     "company_name": "Meshy",
     "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
     "title": "Fullstack Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -322924,7 +322785,7 @@
     "company_name": "RELX",
     "id": "52befd31-d887-47a2-8651-4b8574c2d880",
     "title": "Software Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -323591,7 +323452,7 @@
     "company_name": "UL Solutions",
     "id": "2bef29e6-fbc8-4d38-bf89-2ea3edabb152",
     "title": "Software Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -326047,7 +325908,7 @@
     "company_name": "Baker Hughes",
     "id": "fb992b23-820c-466a-a892-242e64f92f4a",
     "title": "Mechanical Production Engineering Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -326068,7 +325929,7 @@
     "company_name": "Baker Hughes",
     "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
     "title": "Software Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -330119,7 +329980,7 @@
     "company_name": "KeyBank",
     "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
     "title": "Marketing Analytics Analyst Program",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -330280,7 +330141,7 @@
     "company_name": "Copart",
     "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -334100,7 +333961,7 @@
     "company_name": "Traackr",
     "id": "8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
     "title": "Software Engineer Intern - Internal Tooling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -337419,7 +337280,7 @@
     "company_name": "Copart",
     "id": "4af74d82-21b0-4148-866e-dbf7bed833f7",
     "title": "Technology Product Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339560,7 +339421,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340791,7 +340652,7 @@
     "company_name": "U.S. Bank",
     "id": "d39e516b-ae65-4cf9-9970-b8daf6d787ef",
     "title": "Mainframe Software Engineering Apprentice 2",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -342143,7 +342004,7 @@
     "company_name": "Cincinnati Children’s Hospital and Medical Center",
     "id": "fcd24d2e-1552-4b2e-a939-87596e9177ce",
     "title": "Student 2 - Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -342519,7 +342380,7 @@
     "company_name": "NextGen Federal Systems",
     "id": "d557630f-831a-471f-a70b-deeebe4ca3a6",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342542,7 +342403,7 @@
     "company_name": "NextGen Federal Systems",
     "id": "9e6bfed5-144f-4120-94d0-868f2cb83d3a",
     "title": "Data Science & Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -343547,7 +343408,7 @@
     "company_name": "Revvity",
     "id": "8557ee50-9c1f-49e9-98b8-692547114b0a",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -343620,7 +343481,7 @@
     "company_name": "Revvity",
     "id": "599919c9-248d-495b-a106-81088707bc82",
     "title": "Full-Stack AI Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -343641,7 +343502,7 @@
     "company_name": "Revvity",
     "id": "069e94c8-0ad8-44b9-9f03-5cd31a1154ff",
     "title": "Full-Stack AI Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -343662,7 +343523,7 @@
     "company_name": "Copart",
     "id": "95db5bec-3f24-4913-816e-bfabc131f401",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -343955,7 +343816,7 @@
     "company_name": "Tencent",
     "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
     "title": "Research Intern - Video World Models - Research & ML Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -344051,7 +343912,7 @@
     "company_name": "Revvity",
     "id": "365705d7-043e-406a-a42b-c1114d889dfb",
     "title": "Full-Stack AI Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344192,7 +344053,7 @@
     "company_name": "Revvity",
     "id": "9f3c0656-6cef-4be9-9103-18c13986bef8",
     "title": "Full-Stack AI Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344346,6 +344207,76 @@
       "Vancouver, BC, Canada"
     ],
     "company_url": "https://simplify.jobs/c/Arcadis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Solar Turbines",
+    "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
+    "title": "Gas Turbine Products Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784209221,
+    "date_posted": 1784160000,
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solar-Turbines",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "JP Morgan Chase",
+    "id": "eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
+    "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns…",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784217465,
+    "date_posted": 1784210808,
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Amentum",
+    "id": "b7ce9d33-8b07-4a15-9258-6067fd375c26",
+    "title": "Spaceflight Hardware Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784216913,
+    "date_posted": 1784160000,
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Amentum",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
