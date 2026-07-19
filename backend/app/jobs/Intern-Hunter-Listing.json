@@ -1,50 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intuitive Surgical",
-    "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1763691278,
-    "date_posted": 1763691278,
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000094742485",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Northrop Grumman",
-    "id": "da4ebfc6-10fc-4482-bce3-a58db0d23a4e",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1763699919,
-    "date_posted": 1763699919,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/XMLNAME-2026-Engineering-Intern---Mesa-AZ_R10215191",
-    "locations": [
-      "Mesa, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "Cisco",
     "id": "eab10ff3-e9aa-4052-a4ed-a7ad28f5000e",
@@ -315783,7 +315739,7 @@
     "company_name": "General Motors",
     "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "title": "Research and Development Intern - Research & Development: AI/ML",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -331021,7 +330977,7 @@
     "company_name": "General Motors",
     "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
     "title": "Research and Development Intern - Research & Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332536,7 +332492,7 @@
     "company_name": "Bank of Montreal",
     "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
     "title": "Data Scientist Co-op/Internship - Months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332585,7 +332541,7 @@
     "company_name": "Bank of Montreal",
     "id": "5e294159-e3e6-40db-afb9-65ff63749aa3",
     "title": "Data Scientist Co-op/Internship - Months",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339509,7 +339465,7 @@
     "company_name": "Torch Technologies",
     "id": "8c876217-e8c7-4d37-9703-ecd3485077ae",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
