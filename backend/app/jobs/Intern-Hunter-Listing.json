@@ -1,330 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Hewlett Packard Enterprise",
-    "id": "e02c70cb-a5c4-487c-90bc-c3a3371e6821",
-    "title": "Hardware Engineering Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764152079,
-    "date_posted": 1764152079,
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1198071",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Arcadis",
-    "id": "8bc63f29-8912-4fec-b780-05c3dec2e79c",
-    "title": "Climate Adaptation Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764154259,
-    "date_posted": 1764154259,
-    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36046",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Arcadis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Machina Labs",
-    "id": "5d7235e7-0fc2-4adb-8b06-db0592c1b0ff",
-    "title": "Frontend Software Engineer – Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764154346,
-    "date_posted": 1764154346,
-    "url": "https://jobs.lever.co/MachinaLabs/1e24999b-9c52-4805-823b-ab2821611f74/apply",
-    "locations": [
-      "Canoga Park, LA"
-    ],
-    "company_url": "https://simplify.jobs/c/MachinaLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Micron Technology",
-    "id": "158fa4be-60fd-4c5d-89ec-307e47335eb4",
-    "title": "Intern – AI/DA Engineer",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764154400,
-    "date_posted": 1764154400,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---AI-DA-Engineer_JR85118",
-    "locations": [
-      "Leander, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "UntilLabs",
-    "id": "f23ab17e-6d67-4b8c-92dd-098a04625f45",
-    "title": "Software & ML Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1764153744,
-    "date_posted": 1764153744,
-    "url": "https://jobs.lever.co/until/a93653b6-b900-463d-b321-1d1a4524e732/apply",
-    "locations": [
-      "California"
-    ],
-    "company_url": "https://simplify.jobs/c/UntilLabs",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "ByteDance",
-    "id": "624f3974-081c-4af4-9529-285d6268698e",
-    "title": "Research Intern - AI-Native Databases - 2026 Summer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764156699,
-    "date_posted": 1764156699,
-    "url": "https://jobs.bytedance.com/en/position/7548656517001054471/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "246dbc29-c08f-4556-8026-373a243f6f8e",
-    "title": "3D Avatar Research and Development Intern - PICO Perception - Doctor of Philosophy",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764156692,
-    "date_posted": 1764156692,
-    "url": "https://jobs.bytedance.com/en/position/7535961662357948690/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "988e1921-4591-416e-8af1-ecc45cbfcff1",
-    "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764156660,
-    "date_posted": 1764156660,
-    "url": "https://jobs.bytedance.com/en/position/7535156407059925266/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "60f7755d-aecf-4a56-b740-8c0c5d37cab7",
-    "title": "Machine Learning Engineer Intern - E-commerce Conversational AI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764156660,
-    "date_posted": 1764156660,
-    "url": "https://jobs.bytedance.com/en/position/7535157501571500306/detail",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AstraZeneca",
-    "id": "5132b3c0-b35b-468a-a498-7adb1e3e5fa5",
-    "title": "Medical Affairs Analytics Intern - Oncology",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764156374,
-    "date_posted": 1764156374,
-    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Affairs-Analytics-Intern--Oncology_R-240274",
-    "locations": [
-      "Gaithersburg, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/AstraZeneca",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Truist Bank",
-    "id": "21417ed8-afe3-4008-9e33-99c7f368da25",
-    "title": "AFCO Direct – Product Team Intern - Digital Strategy",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764154325,
-    "date_posted": 1764154325,
-    "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Lake-Forest-IL---Telecommuter/XMLNAME-2026-AFCO-Direct---Digital-Strategy---Summer-Product-Team-Internship_R0108533",
-    "locations": [
-      "Washington, DC",
-      "Charlotte, NC",
-      "Fort Lauderdale, FL",
-      "Highland Park, IL",
-      "NYC",
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/Truist-Bank",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "DigiKey",
-    "id": "c8aae6cf-ac92-4e55-a388-2e59704f3f14",
-    "title": "Application Engineering Intern Embedded Systems",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1764154253,
-    "date_posted": 1764154253,
-    "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Application-Engineering--Intern-Embedded-Systems_R5121",
-    "locations": [
-      "Erskine, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/DigiKey",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "bb549c71-7b62-436b-9a16-21d9da8c69dc",
-    "title": "Data Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764157431,
-    "date_posted": 1764157431,
-    "url": "https://lifeattiktok.com/search/7568546589788227893",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "60b9363a-e707-4818-b0d5-65727a253199",
-    "title": "General Hire – Research Scientist - Monetization Technology - PhD",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764157391,
-    "date_posted": 1764157391,
-    "url": "https://lifeattiktok.com/search/7559026733786548488",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "TikTok",
-    "id": "2b049d7b-f298-403a-8172-68cbe8ad6423",
-    "title": "Research Scientist Intern - Monetization GenAI - 2026 Start",
-    "active": true,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764157383,
-    "date_posted": 1764157383,
-    "url": "https://lifeattiktok.com/search/7535623435700766984",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
     "date_updated": 1764596339,
     "sponsorship": "Other",
     "active": false,
@@ -7202,27 +6877,6 @@
       "Vancouver, BC, Canada"
     ],
     "company_url": "https://simplify.jobs/c/Accenture-FS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "ALSO",
-    "id": "12982849-c8cd-45b0-9bd7-7e6fb4732b47",
-    "title": "Hardware Engineering Intern - Mechanical Design",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764755440,
-    "date_posted": 1764153346,
-    "url": "https://jobs.ashbyhq.com/Ridealso/f8d17844-a4cc-42fe-a525-162e74cc9f7f/application",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ALSO",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -40652,27 +40306,6 @@
   {
     "source": "Simplify",
     "category": "Hardware",
-    "company_name": "Micron Technology",
-    "id": "f3c11d3e-418c-462f-a6d4-f9bd42cb42e1",
-    "title": "Intern Layout AI-Automation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766161207,
-    "date_posted": 1764154395,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Layout-AI-Automation_JR86351",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
     "company_name": "Sierra Nevada Corporation",
     "id": "7b58a5aa-d8e5-49fb-bc7f-5334cd7e4181",
     "title": "Systems Engineer Intern - Summer 2026",
@@ -64370,30 +64003,6 @@
       "Bachelor's",
       "Master's",
       "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Ford Motor Company",
-    "id": "35047dbd-ad72-4418-acce-3bba8f32a32e",
-    "title": "Student Worker Program",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1766568611,
-    "date_posted": 1764153391,
-    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/54554",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ]
   },
   {
@@ -290741,7 +290350,7 @@
     "company_name": "NVIDIA",
     "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
     "title": "PhD Software Engineer Intern - Decision Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -293489,7 +293098,7 @@
     "company_name": "Leidos",
     "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
     "title": "Reports Officer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -293604,7 +293213,7 @@
     "company_name": "GE Healthcare",
     "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -293718,7 +293327,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -302857,7 +302466,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -310283,7 +309892,7 @@
     "company_name": "Magna",
     "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -317151,7 +316760,7 @@
     "company_name": "Liberty University",
     "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
     "title": "Business Analyst Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -321695,7 +321304,7 @@
     "company_name": "Palo Alto Networks",
     "id": "116541fa-771d-4823-a666-0884c8ececfd",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -324552,7 +324161,7 @@
     "company_name": "American University",
     "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
     "title": "Lab Technician - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -326566,7 +326175,7 @@
     "company_name": "GE Healthcare",
     "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -327119,7 +326728,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -328168,7 +327777,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328220,7 +327829,7 @@
     "company_name": "GE Healthcare",
     "id": "ec539e13-7378-478b-b778-72a9b227541d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328757,7 +328366,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -329235,7 +328844,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -329333,7 +328942,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -330625,7 +330234,7 @@
     "company_name": "National Laboratory of the Rockies",
     "id": "1c39cba6-ebfc-4c07-b06a-3ab376302145",
     "title": "Energy Data Analysis Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -330818,7 +330427,7 @@
     "company_name": "Salesforce",
     "id": "45903a19-328a-4e71-802e-c33fbc45d459",
     "title": "Associate Product Manager Intern - Associate Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -330937,7 +330546,7 @@
     "company_name": "Salesforce",
     "id": "224ca026-078b-4524-bf33-5a214373c094",
     "title": "Associate Product Manager Intern - Associate Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -331511,7 +331120,7 @@
     "company_name": "GE Healthcare",
     "id": "913714da-b33d-46f8-89fa-c78911521433",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331695,7 +331304,7 @@
     "company_name": "Stevens Institute of Technology",
     "id": "11d17a2f-e586-4645-a6e2-8bcbfe2f70b3",
     "title": "Research Assistant",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -334298,7 +333907,7 @@
     "company_name": "GE Healthcare",
     "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -334752,7 +334361,7 @@
     "company_name": "Odyssey",
     "id": "ee90ddfd-4df3-43fb-a192-330a49accc6c",
     "title": "AI Resident",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -335057,7 +334666,7 @@
     "company_name": "PGIM",
     "id": "68ceeffa-36f0-4cd6-9256-42fd6f4f016d",
     "title": "Real Estate Equity Investment Analyst Program",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -335137,7 +334746,7 @@
     "company_name": "Prudential Financial",
     "id": "d1a12763-bd6a-435c-bc94-05274ad822f1",
     "title": "Real Estate Equity Investment Analyst Program",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -335263,7 +334872,7 @@
     "company_name": "GE Healthcare",
     "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
     "title": "Surgery Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -336752,7 +336361,7 @@
     "company_name": "Mistral AI",
     "id": "9c623c6e-1770-474c-942e-c2c0bcd6d9c0",
     "title": "Applied Scientist / Research Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -337450,7 +337059,7 @@
     "company_name": "Aptura",
     "id": "f7ab19f7-01aa-450e-aae8-eb040b5b3ea2",
     "title": "Investment Banking MBA Intern - AI Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -338753,7 +338362,7 @@
     "company_name": "GE Healthcare",
     "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339615,7 +339224,7 @@
     "company_name": "Leidos",
     "id": "26f0b98b-cb97-4552-8846-a6e5481fe346",
     "title": "Targeting Officer",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -341032,7 +340641,7 @@
     "company_name": "Iowa State University",
     "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
     "title": "Postdoctoral Research Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341055,7 +340664,7 @@
     "company_name": "Columbia Helicopters",
     "id": "33a6e305-a6ec-4c1e-9804-54d9fea0f673",
     "title": "NDT Technician Trainee",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341100,7 +340709,7 @@
     "company_name": "University of Texas at Austin",
     "id": "6e43ed12-7beb-4827-834a-f0947fcf70db",
     "title": "Graduate Researcher",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341121,7 +340730,7 @@
     "company_name": "Jackson",
     "id": "de4c4098-bc68-410c-92e6-503e69580649",
     "title": "Strategic Support Associate - Operations Process Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341144,7 +340753,7 @@
     "company_name": "Becton Dickinson",
     "id": "44c0f8ab-bc09-4802-ad77-110dc6c77373",
     "title": "Edge Program Associate - Technology & Global Services - Tgs",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341400,7 +341009,7 @@
     "company_name": "Sanofi",
     "id": "8027380c-3700-4d91-bf26-2de5e22a7e75",
     "title": "Operational Planning & Capacity Management Data Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341903,6 +341512,52 @@
       "NYC"
     ],
     "company_url": "https://simplify.jobs/c/856db7dd-5e23-4bcd-a161-c06cda5ac820",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mistral AI",
+    "id": "ebc10de7-d079-4f61-82e2-abbf332284fb",
+    "title": "AI Data Solutions Intern - Data Partnerships",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1784885221,
+    "date_posted": 1784885092,
+    "url": "https://jobs.ashbyhq.com/mtesting.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mistral-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mistral AI",
+    "id": "2cad125a-155b-4008-b769-930277d26375",
+    "title": "AI Data Solutions Intern - Data Partnerships",
+    "active": true,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2026"
+    ],
+    "date_updated": 1784891341,
+    "date_posted": 1784885097,
+    "url": "https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Mistral-AI",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
