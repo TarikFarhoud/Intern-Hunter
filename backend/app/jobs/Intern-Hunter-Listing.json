@@ -1,95 +1,5 @@
 [
   {
-    "date_updated": 1764596339,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-Spring-AI-ML-Co-op-BS-MS--Gloucester--MA-_R2518937",
-    "company_name": "Applied Materials",
-    "title": "2026 Spring AI ML Co-op BS/MS",
-    "locations": [
-      "Gloucester, MA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "5934b2ba-e396-466a-b6b2-4320fed27238",
-    "date_posted": 1764174191,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Sunnyvale-_R-2354882",
-    "company_name": "Walmart",
-    "title": "2026 Summer Intern: Software Engineering II",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "2a1dc5be-b1df-472d-8d50-9497c05b1278",
-    "date_posted": 1764174236,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Totowa-NJ/VC---Software-Developer-Intern_2532831",
-    "company_name": "KLA",
-    "title": "VC++ Software Developer Intern",
-    "locations": [
-      "Totowa, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "69f5c8fa-a8f9-4d44-95b6-cfc2c676a252",
-    "date_posted": 1764174295,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "479ffd19-d761-4b6c-9bfc-48d2304e9e89",
-    "title": "Reinforcement Learning for ADAS – Research and Engineering Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1764174745,
-    "date_posted": 1764174745,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095699173",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Genies",
@@ -211331,7 +211241,7 @@
     "company_name": "VaynerMedia",
     "id": "df37c32b-12d7-4b02-bb97-25e70402bd49",
     "title": "Resident – Data Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -217025,7 +216935,7 @@
     "company_name": "Eurofins",
     "id": "4cebd7e3-5455-4983-b475-3512278305c2",
     "title": "Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -217069,7 +216979,7 @@
     "company_name": "Eurofins",
     "id": "e5716292-b894-459b-87fd-e4c3f4077547",
     "title": "Engineering Intern - Test Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -274477,7 +274387,7 @@
     "company_name": "Trane Technologies",
     "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
     "title": "Collections Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -306057,7 +305967,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
     "title": "Hardware & Embedded Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -313544,7 +313454,7 @@
     "company_name": "Zoox",
     "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -315871,7 +315781,7 @@
     "company_name": "Ciena",
     "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -315895,7 +315805,7 @@
     "company_name": "Ciena",
     "id": "8c0e53b2-9855-47d4-a4eb-5a83f80e3e7f",
     "title": "Embedded Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318768,7 +318678,7 @@
     "company_name": "Formlabs",
     "id": "e45157b9-46dc-4611-a3d0-94318359142c",
     "title": "Manufacturing Test Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -324952,7 +324862,7 @@
     "company_name": "General Motors",
     "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
     "title": "Research and Development Intern - Research & Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328366,7 +328276,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "title": "Editorial Data Reporting Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -334521,7 +334431,7 @@
     "company_name": "Centerstone",
     "id": "fec42271-5a2c-43cd-8fc9-d3ab4140f87c",
     "title": "Bachelor Level Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335023,7 +334933,7 @@
     "company_name": "GE Healthcare",
     "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
     "title": "Engineering Development Program Intern - Hardware",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335048,7 +334958,7 @@
     "company_name": "GE Healthcare",
     "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
     "title": "Engineering Development Program Intern - Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335401,7 +335311,7 @@
     "company_name": "NXP Semiconductors",
     "id": "9ed0d36f-ac09-4b6a-9e11-cc94757ed49a",
     "title": "AI / Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340962,7 +340872,7 @@
     "company_name": "Leidos",
     "id": "fbe907df-048b-4499-93d8-d597c25a6efb",
     "title": "Signal Processing Technical Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -341032,7 +340942,7 @@
     "company_name": "Axogen",
     "id": "04df6f78-d556-4fc7-964d-e85ebb3a67ff",
     "title": "AI/ML Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341106,7 +341016,7 @@
     "company_name": "Guidehouse",
     "id": "e6d7765d-e77d-4662-a2fe-0007dad9f27a",
     "title": "Technical Associate - Platforms - Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341175,7 +341085,7 @@
     "company_name": "Spectrum Control",
     "id": "72d8a4a8-d0c7-40a5-bad9-c085945a7d7e",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341350,7 +341260,7 @@
     "company_name": "Motorola",
     "id": "c54c2724-23e7-4ffe-a01b-8640a88be59e",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
