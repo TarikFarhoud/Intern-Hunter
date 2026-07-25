@@ -1,119 +1,5 @@
 [
   {
-    "date_updated": 1764858222,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2026-AI-Engineering-Internship_REQ339417",
-    "company_name": "T-Mobile",
-    "title": "Summer 2026 AI Engineering Internship",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "e334b5bf-2cef-42e8-b529-3e59ed9b04cc",
-    "date_posted": 1764259975,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1764260033,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181",
-    "company_name": "General Motors",
-    "title": "2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)",
-    "locations": [
-      "Mountain View, CA",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "50a38659-a74c-4ff4-baf0-5671b82f4a93",
-    "date_posted": 1764260033,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Other",
-    "active": false,
-    "degrees": [
-      "Master's"
-    ],
-    "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/91648893-a459-43ae-adf7-fcd532ea4c07?dcr_ci=BoschGroup",
-    "company_name": "Robert Bosch Venture Capital",
-    "title": "3D Vision and Scene Understanding - AI Research & Engineering Intern",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "4e5aa369-c046-4f59-85e6-959d85df890e",
-    "date_posted": 1764260125,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1764260175,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f",
-    "company_name": "Dandy",
-    "title": "Software Engineer, Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "angie-hue",
-    "id": "6d0287f3-5874-4a1b-acc3-7ecb0018c46f",
-    "date_posted": 1764260175,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Robert Bosch Venture Capital",
-    "id": "8db96167-1218-4668-a3b3-f05bd712c27d",
-    "title": "Product Marketing Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764265779,
-    "date_posted": 1764265779,
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095943320",
-    "locations": [
-      "Suffolk, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Bosch",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Ticketmaster",
@@ -180159,7 +180045,7 @@
     "company_name": "KION Group",
     "id": "fe972247-600c-481b-961d-3abad929c277",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -254097,7 +253983,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -322894,7 +322780,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
     "title": "Office of Career Services Intern - Technology Team",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -327838,7 +327724,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340180,7 +340066,7 @@
     "company_name": "Hewlett Packard (HP)",
     "id": "d0537d89-d21b-4246-b1b8-89bc300cc337",
     "title": "Data Analytics and Cloud Engineer - Military Bridge",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -340201,7 +340087,7 @@
     "company_name": "Hewlett Packard (HP)",
     "id": "36a3cb41-211c-4c6c-9c0d-c92318a763a6",
     "title": "Data Analytics and Cloud Engineer - Military Bridge",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -341059,5 +340945,51 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Kobo",
+    "id": "4b6839e2-e49a-4a07-8df2-fae7b6226e2b",
+    "title": "Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "date_updated": 1784983776,
+    "date_posted": 1784073600,
+    "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Kobo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Pennsylvania State University",
+    "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
+    "title": "Research Engineering Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1784984864,
+    "date_posted": 1784678400,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
