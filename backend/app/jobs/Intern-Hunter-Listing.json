@@ -191628,7 +191628,7 @@
     "company_name": "University of Arkansas",
     "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
     "title": "Graduate Assistant - Information Science",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -223713,7 +223713,7 @@
     "company_name": "GE Appliances",
     "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
     "title": "Engineering Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -270725,7 +270725,7 @@
     "company_name": "Smiths Detection Group",
     "id": "0a319815-2604-4c98-94da-26b6a462a885",
     "title": "Depot Service Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -280244,7 +280244,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -291019,7 +291019,7 @@
     "company_name": "FHLBank Topeka",
     "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
     "title": "Financial Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -292795,7 +292795,7 @@
     "company_name": "Smiths Detection Group",
     "id": "244c4d01-6a38-4298-9fef-4a12ee37a4ea",
     "title": "Technical Service Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -300158,7 +300158,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -302922,7 +302922,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -303773,7 +303773,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -321690,7 +321690,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
     "title": "Office of Career Services Intern - Technology Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -324495,7 +324495,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -325495,7 +325495,7 @@
     "company_name": "GE Healthcare",
     "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -326536,7 +326536,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -328812,7 +328812,7 @@
     "company_name": "GE Healthcare",
     "id": "913714da-b33d-46f8-89fa-c78911521433",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -331479,7 +331479,7 @@
     "company_name": "GE Healthcare",
     "id": "287c1182-006f-487e-aa40-c2eef51435aa",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -331651,7 +331651,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -337386,7 +337386,7 @@
     "company_name": "Exploration Technology Corp.",
     "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
     "title": "Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -337409,7 +337409,7 @@
     "company_name": "North Cloud",
     "id": "29f7ea93-41b1-408b-a3e0-8b6945e95e3e",
     "title": "AI Automation Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -337619,7 +337619,7 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Later",
-    "id": "eda1aead-c8ff-4d2b-84d5-5e921bdfc622",
+    "id": "ad5c3ca9-6619-499f-a5c9-e1776db1c6d8",
     "title": "Software Development Co-op - Later Influence",
     "active": true,
     "terms": [
@@ -339795,7 +339795,7 @@
     "company_name": "The Federal Reserve System",
     "id": "008e0d90-7269-48e2-83ff-7df9f23e5d28",
     "title": "Business Survey Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339816,7 +339816,7 @@
     "company_name": "MSI",
     "id": "3a767599-d8fd-41d0-bd1b-3537ed8da7fd",
     "title": "Rotational Undergraduate Analyst - Msi",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -340035,6 +340035,52 @@
     "sponsorship": "Other",
     "degrees": [
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Baldwin Group",
+    "id": "2b13f4dd-1d4a-4fb8-8ba3-4678e471fa6c",
+    "title": "Rotational Undergraduate Analyst - Msi",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785057315,
+    "date_posted": 1784678400,
+    "url": "https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Boston-Massachusetts-US/Rotational-Undergraduate-Analyst---MSI_JR109868-1",
+    "locations": [
+      "Boston, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Baldwin-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mosaic",
+    "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
+    "title": "Operations & Automation Engineering Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1785064476,
+    "date_posted": 1784678400,
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
+    "locations": [
+      "Bartow, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Mosaic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
