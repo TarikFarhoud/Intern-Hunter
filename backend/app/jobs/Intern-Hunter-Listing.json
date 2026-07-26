@@ -1,28 +1,5 @@
 [
   {
-    "date_updated": 1764346884,
-    "sponsorship": "Other",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a",
-    "company_name": "Mercor",
-    "title": "Data Science Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "angie-hue",
-    "id": "5c5c4c46-e9d5-4a1b-9fef-0e4d36cbc982",
-    "date_posted": 1764346884,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Berkshire Hathaway Energy",
@@ -302922,7 +302899,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -303773,7 +303750,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -340077,6 +340054,29 @@
       "Bartow, FL"
     ],
     "company_url": "https://simplify.jobs/c/Mosaic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "American University",
+    "id": "a038ee64-00b2-435e-8318-90254ba95b10",
+    "title": "Audiovisual Services Assistant - Student",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785069107,
+    "date_posted": 1784851200,
+    "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Audiovisual-Services-Assistant--Student-_R4496",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/American-University",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
