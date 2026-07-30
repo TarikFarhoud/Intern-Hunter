@@ -1,91 +1,5 @@
 [
   {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Plexus",
-    "id": "d4b10bec-2fcd-42f4-8194-b1568d20ef2d",
-    "title": "Summer Internship 2026 - Engineering Solutions",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1764673219,
-    "date_posted": 1764673219,
-    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Livingston-United-Kingdom/Summer-Internship-2026---Engineering-Solutions_R035272",
-    "locations": [
-      "Livingston, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Plexus",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Ciena",
-    "id": "be0d3c5b-5d80-40a8-9b51-3fcb5e78a7f0",
-    "title": "Intern AI Prompt Engineer for Technical Documentation",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1764673910,
-    "date_posted": 1764673910,
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Intern--AI-Prompt-Engineer-for-Technical-Documentation--Winter-2026-_R029548",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Ciena",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "77fa3b02-5cbc-4b74-a4c8-8eb436f882fb",
-    "title": "Software Engineering Intern - Circuit Simulation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764673700,
-    "date_posted": 1764673700,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern--Circuit-Simulation-_R52014",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "date_updated": 1764858222,
-    "sponsorship": "Offers Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://smbc.recsolu.com/external/requisitions/cvDDu80WqB4iAQYvnDFZwA",
-    "company_name": "Sumitomo Mitsui Banking Corporation",
-    "title": "Fixed Income Systematic Trading Strats",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quantitative Finance",
-    "source": "adamthorne27",
-    "id": "7ec94309-1528-4767-8498-2536ec23b035",
-    "date_posted": 1764679929,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
     "date_updated": 1764689200,
     "sponsorship": "Other",
     "active": true,
@@ -64981,30 +64895,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's",
-      "Master's",
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "724875bc-a050-403d-9eb7-bde295982c75",
-    "title": "Software Engineering Intern - Circuit Simulation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1764673700,
-    "date_posted": 1764673700,
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern--Circuit-Simulation-_R52014-2",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
       "Master's",
       "PhD"
     ]
@@ -239596,7 +239486,7 @@
     "company_name": "TikTok",
     "id": "74c89fde-4677-4b10-b706-43f45065e8e4",
     "title": "Research Scientist Intern - E-commerce Recommendation - LLM Applications",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -265247,7 +265137,7 @@
     "company_name": "NVIDIA",
     "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
     "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -275011,7 +274901,7 @@
     "company_name": "Medpace, Inc.",
     "id": "6548f3eb-d1a3-4d5e-9942-3151de80c19a",
     "title": "Feasibility Informatics Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -276198,7 +276088,7 @@
     "company_name": "University of Arkansas",
     "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
     "title": "Student Research Assistant-2",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -286859,7 +286749,7 @@
     "company_name": "GE Healthcare",
     "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -289672,7 +289562,7 @@
     "company_name": "Salesforce",
     "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
     "title": "AI Builder - Emerging Talent",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -294879,7 +294769,7 @@
     "company_name": "Medpace",
     "id": "b010cb61-ec8b-4ef7-af0b-f83cdb8fb6fb",
     "title": "Feasibility Informatics Internship/Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2027"
     ],
@@ -296112,7 +296002,7 @@
     "company_name": "CHEP",
     "id": "513d3867-26bc-4203-8cd2-ade981572975",
     "title": "FP&A Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -299217,7 +299107,7 @@
     "company_name": "Copart",
     "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -302083,7 +301973,7 @@
     "company_name": "Rivian and Volkswagen Group Technologies",
     "id": "39b0338f-985f-4dd5-8adf-290b1e4ca1de",
     "title": "Software Engineer Intern - Connected Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -310406,7 +310296,7 @@
     "company_name": "Liberty University",
     "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
     "title": "Business Analyst Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -312596,7 +312486,7 @@
     "company_name": "KeyBank",
     "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
     "title": "Marketing Analytics Analyst Program",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -321394,7 +321284,7 @@
     "company_name": "GE Healthcare",
     "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2025",
       "Spring 2025",
@@ -321423,7 +321313,7 @@
     "company_name": "GE Healthcare",
     "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -321475,7 +321365,7 @@
     "company_name": "GE Healthcare",
     "id": "ec539e13-7378-478b-b778-72a9b227541d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -322110,7 +322000,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -322490,7 +322380,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -322588,7 +322478,7 @@
     "company_name": "GE Healthcare",
     "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
     "title": "Field Service Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -324766,7 +324656,7 @@
     "company_name": "GE Healthcare",
     "id": "913714da-b33d-46f8-89fa-c78911521433",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -326407,7 +326297,7 @@
     "company_name": "Tencent",
     "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
     "title": "Research Intern - Video World Models - Research & ML Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -327605,7 +327495,7 @@
     "company_name": "Magna",
     "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
     "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -327764,7 +327654,7 @@
     "company_name": "Veralto",
     "id": "669285b9-7671-42a2-aa8c-413c7a3d0334",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328518,7 +328408,7 @@
     "company_name": "GE Healthcare",
     "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
     "title": "Surgery Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -328694,7 +328584,7 @@
     "company_name": "GE Healthcare",
     "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
     "title": "Engineering Development Program Intern - Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -330997,7 +330887,7 @@
     "company_name": "Kinetic Systems",
     "id": "98fd8c34-90ad-4220-a736-36f13aaa2924",
     "title": "Applied AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -331021,7 +330911,7 @@
     "company_name": "Monogram",
     "id": "d7821fbd-3cb4-4151-a853-5c8911d5ae97",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332008,7 +331898,7 @@
     "company_name": "GE Healthcare",
     "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332375,7 +332265,7 @@
     "company_name": "Magna",
     "id": "b00bb3e9-1948-4552-b774-ff0117f8b02f",
     "title": "Student Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -332870,7 +332760,7 @@
     "company_name": "Leidos",
     "id": "26f0b98b-cb97-4552-8846-a6e5481fe346",
     "title": "Targeting Officer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -333340,7 +333230,7 @@
     "company_name": "Exploration Technology Corp.",
     "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
     "title": "Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -334287,7 +334177,7 @@
     "company_name": "Iowa State University",
     "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
     "title": "Postdoctoral Research Associate",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -335770,7 +335660,7 @@
     "company_name": "MSI",
     "id": "3a767599-d8fd-41d0-bd1b-3537ed8da7fd",
     "title": "Rotational Undergraduate Analyst - Msi",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -335839,7 +335729,7 @@
     "company_name": "Pennsylvania State University",
     "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "title": "Research Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -337057,7 +336947,7 @@
     "company_name": "RSM",
     "id": "01bec32c-d5a0-4a23-b905-fe2e3cef04b0",
     "title": "Microsoft Dynamics 365 Business Central Associate",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027"
     ],
@@ -337377,7 +337267,7 @@
     "company_name": "Blackberry",
     "id": "2ac22162-948b-43cf-978a-c2b3a2ac0a58",
     "title": "QNX-Software Development Student - Acoustics",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -337827,7 +337717,7 @@
     "company_name": "RTX",
     "id": "febce9fd-e8ba-4d95-85fb-4d00b3760c44",
     "title": "Software Engineer 1",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -338105,7 +337995,7 @@
     "company_name": "RTX",
     "id": "513036c6-8bdd-44bf-8c57-e5d73bf66998",
     "title": "Software Engineer 1",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -338270,7 +338160,7 @@
     "company_name": "PathAI",
     "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
     "title": "Software Engineering Mlops Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -338295,7 +338185,7 @@
     "company_name": "Newmont",
     "id": "7370520c-89d3-4038-b511-9357a4f2cbd4",
     "title": "Temp Technician - Core Shed",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -338381,7 +338271,7 @@
     "company_name": "RTX",
     "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
     "title": "Software Engineer 2",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -338634,7 +338524,7 @@
     "company_name": "RTX",
     "id": "f28ce710-20a1-4d92-ad55-c5af195bebef",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -338657,7 +338547,7 @@
     "company_name": "Leidos",
     "id": "93127e7e-efae-4f1e-9ad1-c722e20cf3aa",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -339223,6 +339113,54 @@
       "United States"
     ],
     "company_url": "https://simplify.jobs/c/Susquehanna",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rivian and Volkswagen Group Technologies",
+    "id": "04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
+    "title": "Electromechanical Design Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1785400367,
+    "date_posted": 1781168821,
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true",
+    "locations": [
+      "Palo Alto, CA",
+      "Urbana, IL",
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "BlackRock",
+    "id": "87da713b-e024-4492-b0c5-f4967a852bdb",
+    "title": "Veterans Transition Program Associate - Platform Enablement Application Engineer",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785409215,
+    "date_posted": 1783900800,
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Veterans-Transition-Program-Associate--Platform-Enablement-Application-Engineer_R264973",
+    "locations": [
+      "Wilmington, DE",
+      "Atlanta, GA"
+    ],
+    "company_url": "https://simplify.jobs/c/BlackRock",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
