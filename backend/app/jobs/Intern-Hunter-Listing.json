@@ -194694,7 +194694,7 @@
     "company_name": "University of Arkansas",
     "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
     "title": "Cosmos Graduate Research Assistant - ML/AI",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -264426,7 +264426,7 @@
     "company_name": "Verkada",
     "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
     "title": "Hardware Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -273421,7 +273421,7 @@
     "company_name": "Tencent",
     "id": "d47318d3-828b-49ac-932d-4d540ebae3c5",
     "title": "Agent Evaluation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -273491,7 +273491,7 @@
     "company_name": "Tencent",
     "id": "59e03fa0-3049-4051-83b3-1b019f5a3193",
     "title": "Agent Evaluation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -297825,7 +297825,7 @@
     "company_name": "NatWest Group",
     "id": "0420f875-2ff2-407a-a6a8-247042c8ad00",
     "title": "Tech Insight Experience for Women - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -311922,7 +311922,7 @@
     "company_name": "American University",
     "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
     "title": "Quantitative Research Methodology Assistant - Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -313719,7 +313719,7 @@
     "company_name": "GE Healthcare",
     "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
     "title": "Field Service Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -313794,7 +313794,7 @@
     "company_name": "GE Healthcare",
     "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -315455,7 +315455,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -315835,7 +315835,7 @@
     "company_name": "GE Healthcare",
     "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318111,7 +318111,7 @@
     "company_name": "GE Healthcare",
     "id": "913714da-b33d-46f8-89fa-c78911521433",
     "title": "Field Engineer Apprentice",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -320778,7 +320778,7 @@
     "company_name": "GE Healthcare",
     "id": "287c1182-006f-487e-aa40-c2eef51435aa",
     "title": "Client Service Technician Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -322154,7 +322154,7 @@
     "company_name": "Ciena",
     "id": "2300311c-66b2-430c-88cb-0482516a6da7",
     "title": "Photonic Hardware Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -325353,7 +325353,7 @@
     "company_name": "GE Healthcare",
     "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -330655,7 +330655,7 @@
     "company_name": "Marsh",
     "id": "61c905e5-2281-4abd-afcc-83089ab79869",
     "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -332626,7 +332626,7 @@
     "company_name": "RTX",
     "id": "0b26c2f0-079a-457d-b9bc-8123655ff605",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -333384,7 +333384,7 @@
     "company_name": "NAXO",
     "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
     "title": "Technical Investigations Support Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -333405,7 +333405,7 @@
     "company_name": "Citylogix Inc.",
     "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
     "title": "Field Data Collection Technician",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -334215,7 +334215,7 @@
     "company_name": "Microchip Technology",
     "id": "68d9d4d0-a1b3-4673-a429-1d2524909e32",
     "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -337587,7 +337587,7 @@
     "company_name": "JP Morgan Chase",
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "title": "Data Internship - Data & AI Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -340879,7 +340879,7 @@
     "company_name": "University of Arkansas",
     "id": "46135c75-025d-4cac-8bc6-7d2aadb170eb",
     "title": "Extra Help Assistant",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -342133,6 +342133,218 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "861c7a8a-d9c3-4137-b070-331f0d26e5b3",
+    "title": "Data Scientist Intern - VOD Data",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921482,
+    "date_posted": 1785921474,
+    "url": "https://lifeattiktok.com/search/7670287013157095733",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "633fde2a-eea3-462a-91b6-f0c8025fba8d",
+    "title": "Machine Learning Engineer Intern - Search",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921482,
+    "date_posted": 1785921479,
+    "url": "https://lifeattiktok.com/search/7668396597746862341",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
+    "title": "Backend Software Engineer Intern - Creation Platform",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921482,
+    "date_posted": 1785921473,
+    "url": "https://lifeattiktok.com/search/7670289874020993285",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "7fdf2de6-75ca-4715-8764-720c7cc52695",
+    "title": "Data Engineer Intern - Ads Targeting",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1785921668,
+    "date_posted": 1785921432,
+    "url": "https://lifeattiktok.com/search/7668533140146817333",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
+    "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785921458,
+    "date_posted": 1785921282,
+    "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "d9969d97-e4d1-467c-94b9-aeb9a75fda17",
+    "title": "Student Researcher - Multiple Teams",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785921301,
+    "date_posted": 1785921278,
+    "url": "https://jobs.bytedance.com/en/position/7670323135220959493/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "ee6577e4-306e-47ad-8c9e-bcbbd0b17ab1",
+    "title": "Student Researcher - Multiple Teams",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785921301,
+    "date_posted": 1785921277,
+    "url": "https://jobs.bytedance.com/en/position/7670318960697952517/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "2c2db121-8cc0-42be-a379-525e93f06a6b",
+    "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785921301,
+    "date_posted": 1785921273,
+    "url": "https://jobs.bytedance.com/en/position/7670325736893565189/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "0391c602-59f2-4230-93cc-3619a0a86272",
+    "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1785921301,
+    "date_posted": 1785921270,
+    "url": "https://jobs.bytedance.com/en/position/7670326702018906421/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
     ]
   }
 ]
