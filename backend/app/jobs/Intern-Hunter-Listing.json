@@ -1,117 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "NVIDIA",
-    "id": "62a7a49a-e107-4f65-9b35-03794dc40743",
-    "title": "Performance Engineering Intern - Deep Learning and HPC - Winter 2026",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765437290,
-    "date_posted": 1765437290,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/NVIDIA",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Baselayer",
-    "id": "0752126c-b743-4d01-b298-21dd4893d3f0",
-    "title": "Solutions Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1765439011,
-    "date_posted": 1765439011,
-    "url": "https://job-boards.greenhouse.io/baselayer/jobs/5030064008",
-    "locations": [
-      "SF",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Baselayer",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tanium",
-    "id": "806f843c-1bb0-4a68-b4a1-d737a6f987a7",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765438584,
-    "date_posted": 1765438584,
-    "url": "https://www.tanium.com/careers/7288542?gh_jid=7288542",
-    "locations": [
-      "Oakland, CA",
-      "Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Tanium",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tanium",
-    "id": "0f19e7b8-cae2-4ae7-8f50-4823c828134c",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1765438584,
-    "date_posted": 1765438584,
-    "url": "https://www.tanium.com/careers/7461041?gh_jid=7461041",
-    "locations": [
-      "Oakland, CA",
-      "Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Tanium",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Baselayer",
-    "id": "b8e1d27f-b9ab-4f70-bbcf-f90c153eb521",
-    "title": "Solutions Intern",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1765439018,
-    "date_posted": 1765439018,
-    "url": "https://job-boards.greenhouse.io/baselayer/jobs/5030065008",
-    "locations": [
-      "SF",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Baselayer",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Howmet Aerospace",
     "id": "7f3e278f-fee7-4ed3-89fa-4e66a098cc0a",
@@ -263343,7 +263232,7 @@
     "company_name": "Cisco",
     "id": "1e77d075-955b-4c25-944d-cd7154f4aca1",
     "title": "Hardware Engineer 2 Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -296951,7 +296840,7 @@
     "company_name": "Kabam",
     "id": "1f004155-2261-4b65-b964-4b7862bea55d",
     "title": "User Research Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2026"
@@ -324415,7 +324304,7 @@
     "company_name": "CVS Health",
     "id": "08a728f0-6281-4206-a022-403284d64763",
     "title": "Analytics & Behavior Change - Engineering Undergrad - Conversion",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -324733,7 +324622,7 @@
     "company_name": "CVS Health",
     "id": "40c1294a-a472-402c-882b-843d26a07449",
     "title": "Analytics & Behavior Change - Data Science - Conversion",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -338481,6 +338370,30 @@
       "San Jose, CA"
     ],
     "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Systems Planning and Analysis (SPA)",
+    "id": "0c687375-0fdb-4eb5-b7da-1951113f5b0a",
+    "title": "Science & Technology Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786181581,
+    "date_posted": 1786054266,
+    "url": "https://spa.jibeapply.com/jobs/23220?icims=1",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
