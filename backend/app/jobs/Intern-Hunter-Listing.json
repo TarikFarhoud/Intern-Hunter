@@ -141789,7 +141789,7 @@
     "company_name": "Ambarella",
     "id": "74ed046a-1c48-4657-89f1-1f609aefff4b",
     "title": "Software Architecture Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -200163,7 +200163,7 @@
     "company_name": "TikTok",
     "id": "0cc4797c-81ae-43bc-85bb-ba188815da52",
     "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -212493,7 +212493,7 @@
     "company_name": "Anthropic",
     "id": "cbd849a6-3f10-4184-9849-bdd8e45f6bc6",
     "title": "Anthropic Fellows Program - Reinforcement Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -229136,7 +229136,7 @@
     "company_name": "Susquehanna International Group (SIG)",
     "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
     "title": "Quantitative Strategy Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -265385,7 +265385,7 @@
     "company_name": "Base Power",
     "id": "7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
     "title": "Quantitative Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -273678,7 +273678,7 @@
     "company_name": "LiveRamp",
     "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
     "title": "Software Engineer Co-op - Conversions API",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -308806,7 +308806,7 @@
     "company_name": "Copart",
     "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
     "title": "Technology Product Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -313615,7 +313615,7 @@
     "company_name": "Rivian",
     "id": "86d85a8b-7db1-47cc-98e9-ba9b7d14ba7a",
     "title": "UIUC Research Park Intern - Computational Methods Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -314972,7 +314972,7 @@
     "company_name": "Golden Pet Brands",
     "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -322403,7 +322403,7 @@
     "company_name": "University of Rochester",
     "id": "0e65c7e2-117e-4c64-b08a-b54f59660a22",
     "title": "Research Student 1 Co-op - Electronics Shop",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -322655,7 +322655,7 @@
     "company_name": "TMX Group",
     "id": "3725cd0e-9932-44d8-96f4-2534ae618827",
     "title": "Analyst Student Intern - Market Insights",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -326492,7 +326492,7 @@
     "company_name": "Intel",
     "id": "7668d718-523e-431c-a2b3-b39a409c2dec",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -327994,7 +327994,7 @@
     "company_name": "Lumentum",
     "id": "9ea4299f-1e3a-45fc-b204-aa0870712b23",
     "title": "Optical Verification Technician Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -330603,7 +330603,7 @@
     "company_name": "Otter Products",
     "id": "b02864c4-64dc-4d65-9a2c-b9f7c09f26ee",
     "title": "Artificial Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -334414,7 +334414,7 @@
     "company_name": "Rockwell Automation",
     "id": "64937bd9-0018-42de-9034-181d0d384f1d",
     "title": "Embedded Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Spring 2027"
@@ -334971,7 +334971,7 @@
     "company_name": "Truist Bank",
     "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
     "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335608,7 +335608,7 @@
     "company_name": "Analytic Partners",
     "id": "593ee6f1-3e6c-4136-8182-829091448ed2",
     "title": "Software Engineer Co-op - Georgia Tech",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -335633,7 +335633,7 @@
     "company_name": "Analytic Partners",
     "id": "08dcec1c-e97a-4c39-978e-cd2dede8bb31",
     "title": "Software Engineer Co-op - Northeastern University",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -335730,7 +335730,7 @@
     "company_name": "Analytic Partners",
     "id": "48614093-9c24-4b18-92b5-a3b6f4e55c36",
     "title": "Software Engineer Co-op - University of Waterloo",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -335822,7 +335822,7 @@
     "company_name": "Bank of Montreal",
     "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
     "title": "Full Stack Engineer Intern - Data Cognition Team",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336435,6 +336435,170 @@
       "SF"
     ],
     "company_url": "https://simplify.jobs/c/Sentry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Léger",
+    "id": "48f757b7-e402-4cf2-bbc5-0ab0560d8436",
+    "title": "Research Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786497301,
+    "date_posted": 1786497197,
+    "url": "https://jobs.smartrecruiters.com/Leger2/744000141569336",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/46c15424-a4b0-4153-b6ca-26ca134f74fa",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ancestry",
+    "id": "06b0612c-a611-422f-8305-6138964b2e4b",
+    "title": "Machine Learning Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786497719,
+    "date_posted": 1786406400,
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Ancestry",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Tesla",
+    "id": "cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
+    "title": "Software Engineer Intern - AI Inference Co Design",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2027"
+    ],
+    "date_updated": 1786507037,
+    "date_posted": 1786505690,
+    "url": "https://www.tesla.com/careers/search/job/279600",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Felix Magazine",
+    "id": "e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
+    "title": "Web Developer/Programmer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786514959,
+    "date_posted": 1786514758,
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Felix Magazine",
+    "id": "8037d2f8-3be0-4762-96a6-6111a83eabae",
+    "title": "Database Coordinator Volunteer/Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786514761,
+    "date_posted": 1786514759,
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Felix Magazine",
+    "id": "8ea8d323-6e8b-4380-b4c1-2367ba88c40f",
+    "title": "Web Developer/Programmer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786514952,
+    "date_posted": 1786514758,
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Felix Magazine",
+    "id": "a51d3e95-42ac-4e2b-88ba-5f6d2c3c2595",
+    "title": "Web Developer/Programmer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786514953,
+    "date_posted": 1786514758,
+    "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884",
+    "locations": [
+      "LA"
+    ],
+    "company_url": "https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
