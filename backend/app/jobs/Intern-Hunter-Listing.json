@@ -1,162 +1,5 @@
 [
   {
-    "date_updated": 1765785265,
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://www.capellaspace.com/company/apply?gh_jid=5735295004",
-    "company_name": "Capella",
-    "title": "Flight Software Engineering Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware Engineering",
-    "source": "AlmondCroffle",
-    "id": "9ee25c43-14d2-48c6-9657-2f9919fc5cbe",
-    "date_posted": 1765785265,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1767712029,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://uscareers-docusign.icims.com/jobs/28338/software-engineer-intern/job",
-    "company_name": "Docusign",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "source": "AlmondCroffle",
-    "id": "16182b27-86f0-4add-a80d-1e6a3d14ed32",
-    "date_posted": 1765785375,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1765785579,
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-    "company_name": "General Motors",
-    "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-    "locations": [
-      "Mountain View, CA",
-      "Sunnyvale, CA",
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "AlmondCroffle",
-    "id": "b934d36b-3e65-4506-9064-7eea7f4da6ad",
-    "date_posted": 1765785579,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Northrop Grumman",
-    "id": "6c283f14-c06b-4773-b15b-014736ce2265",
-    "title": "Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765784215,
-    "date_posted": 1765784215,
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Engineering-Intern---Redondo-Beach--CA-_R10217218",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "date_updated": 1767712029,
-    "sponsorship": "Offers Sponsorship",
-    "active": false,
-    "degrees": [
-      "Bachelor's"
-    ],
-    "url": "https://premierinc.wd1.myworkdayjobs.com/en-US/External_Professional/job/Remote/Data-Science-Intern_R0008058",
-    "company_name": "Premier",
-    "title": "Data Science Intern",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "source": "AlmondCroffle",
-    "id": "ec4e864e-1ccb-4616-a3ab-4429c207443c",
-    "date_posted": 1765786089,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Sentra",
-    "id": "c0889bab-514f-47a9-a154-15c018a7b934",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765793719,
-    "date_posted": 1765793719,
-    "url": "https://jobs.ashbyhq.com/sentra/eb51547f-e234-42f7-ab75-ab93717579d9/application",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Sentra",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Microsoft",
-    "id": "b807a658-19b9-436b-a6ac-ecee9852a938",
-    "title": "Software Engineer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1765793610,
-    "date_posted": 1765793610,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641809",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
     "source": "Simplify",
     "category": "Software",
     "company_name": "Tiffany & Co.",
@@ -193214,7 +193057,7 @@
     "company_name": "ByteDance",
     "id": "0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
     "title": "Research Scientist in AI Foundation Model Infrastructure – Graduates - Seed",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -275796,7 +275639,7 @@
     "company_name": "Ancestry",
     "id": "30968849-8351-4128-a546-cd9bbad4a60c",
     "title": "Data Science Co-op - AI Document Understanding",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -284912,7 +284755,7 @@
     "company_name": "TikTok",
     "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
     "title": "Research Scientist Intern - Trust and Safety",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -284958,7 +284801,7 @@
     "company_name": "TikTok",
     "id": "a2690da9-8ffe-49b7-8e47-3db840df7b79",
     "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -315927,7 +315770,7 @@
     "company_name": "Ambarella",
     "id": "736a514c-c180-47cd-9b72-e9b5613e1d6e",
     "title": "DFT Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -317284,7 +317127,7 @@
     "company_name": "Deloitte",
     "id": "4b79443f-64b0-4381-aa54-5febee12149d",
     "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -318957,7 +318800,7 @@
     "company_name": "Canadian Tire",
     "id": "28a39a26-10ea-4b63-8937-ec8a232212ed",
     "title": "AI Enablement Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -324276,7 +324119,7 @@
     "company_name": "JP Morgan Chase",
     "id": "98635871-6276-41e4-ad95-172485704a2c",
     "title": "Data & AI Intern - Analyst",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -325053,7 +324896,7 @@
     "company_name": "ByteDance",
     "id": "77635c2b-1d19-49ef-8d73-5ade973c99b2",
     "title": "Research Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -326769,7 +326612,7 @@
     "company_name": "RTX",
     "id": "0229beda-126f-43a7-a85a-286066c436b8",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -330446,7 +330289,7 @@
     "company_name": "KBR",
     "id": "65168593-c923-4365-b58a-af70c7f8c6cd",
     "title": "Software Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332215,7 +332058,7 @@
     "company_name": "Johnson & Johnson",
     "id": "51b99bce-c9cc-4f6f-9a52-d602f8e9e826",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -333040,7 +332883,7 @@
     "company_name": "Sony Music Entertainment",
     "id": "4ff7c715-a529-4fd1-b03a-7e208e1721da",
     "title": "Insight & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -333794,7 +333637,7 @@
     "company_name": "Rockwell Automation",
     "id": "675886a1-7300-4775-bdcd-b8f018f80d5a",
     "title": "Embedded Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Spring 2027"
@@ -333839,7 +333682,7 @@
     "company_name": "Sargent & Lundy",
     "id": "810c0d4f-1b94-4649-bec6-20b46e134782",
     "title": "AI & Automation Intern - Enterprise Data & Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -334995,7 +334838,7 @@
     "company_name": "Truist Bank",
     "id": "a73a78fc-c2c9-4dac-84b6-3d7d8f0702c5",
     "title": "Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335378,7 +335221,7 @@
     "company_name": "RTX",
     "id": "d4bd04b2-b4a7-41b4-ab15-339b8e50f45e",
     "title": "Enterprise Extended Reality Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335585,7 +335428,7 @@
     "company_name": "Analytic Partners",
     "id": "d94fdfc5-eb6a-4d86-9548-af67b0732bd1",
     "title": "Software Engineer Co-op - Mcgill University",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
