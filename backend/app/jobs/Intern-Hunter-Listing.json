@@ -1,99 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Royal Bank of Canada",
-    "id": "43d62ca6-9ec8-490b-9e28-0d6ea83d4a0e",
-    "title": "Relationship Manager - Business Markets",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766108119,
-    "date_posted": 1766108119,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Relationship-Manager--Business-Markets-Intern_R-0000152946",
-    "locations": [
-      "Newfoundland, Newfoundland and Labrador, Canada",
-      "St. John's, NL, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "General Motors",
-    "id": "d24c381b-3736-473f-8be7-77e6904ff85d",
-    "title": "AI/ML Intern - Model Scaling Foundations",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766107966,
-    "date_posted": 1766107966,
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Intern---Model-Scaling-Foundations--PhD-_JR-202524519",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA",
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/General-Motors",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Hearst",
-    "id": "f00a9411-fede-48cc-9033-64bf960280ef",
-    "title": "KMBC Studio Productions Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1766110398,
-    "date_posted": 1766110398,
-    "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025662",
-    "locations": [
-      "Kansas City, MO",
-      "Kansas City, KS"
-    ],
-    "company_url": "https://simplify.jobs/c/Hearst",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "National Renewable Energy Laboratory",
-    "id": "e2c8c879-02e0-4bbd-8035-80b68d19bb5d",
-    "title": "Graduate Intern Geospatial Data Science Modeling and Analysis",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025"
-    ],
-    "date_updated": 1766112036,
-    "date_posted": 1766112036,
-    "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14104",
-    "locations": [
-      "Golden, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Collaborative Robotics",
     "id": "c54d82ee-ae12-4da6-8dc6-23a607346a9d",
@@ -1994,48 +1901,6 @@
       "San Bruno, CA"
     ],
     "company_url": "https://simplify.jobs/c/Genentech",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Collaborative Robotics",
-    "id": "70ea4f93-23a9-44f7-ad69-6a72f3489f40",
-    "title": "Software Engineer Intern - Robotics",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766230912,
-    "date_posted": 1766110264,
-    "url": "https://jobs.ashbyhq.com/cobot/a41678af-0b42-40de-b334-07ae8de44713/application",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "CME Group",
-    "id": "c856d519-9052-4f09-aee6-995ea7a6cd16",
-    "title": "Research and Product Development PhD Student Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766245930,
-    "date_posted": 1766110618,
-    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/CME-Group",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -77344,30 +77209,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Zoox",
-    "id": "14b8f581-d0bc-44b7-8383-b748b014b990",
-    "title": "System Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770370293,
-    "date_posted": 1766110636,
-    "url": "https://jobs.lever.co/zoox/eb2f10b7-300a-46f1-bd35-41167c9f7c63/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
     ]
   },
   {
@@ -322355,7 +322196,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -322977,7 +322818,7 @@
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -332929,7 +332770,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -332950,7 +332791,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -332971,7 +332812,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -332997,7 +332838,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333020,7 +332861,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333112,7 +332953,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333138,7 +332979,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333164,7 +333005,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333187,7 +333028,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333210,7 +333051,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333249,6 +333090,53 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Photon",
+    "id": "3a2e2c86-3612-46c8-891d-50a65e292f46",
+    "title": "Software Engineering Intern - AI",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1786843304,
+    "date_posted": 1786843116,
+    "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/Photon",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Occidental Petroleum Corporation (Oxy)",
+    "id": "e882005d-6926-4aae-9b36-8bf690f5c53d",
+    "title": "Geophysics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1786842541,
+    "date_posted": 1786752000,
+    "url": "https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203",
+    "locations": [
+      "Houston, TX",
+      "The Woodlands, TX",
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Oxy",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
       "Master's",
       "PhD"
     ]
