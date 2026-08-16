@@ -2,27 +2,6 @@
   {
     "source": "Simplify",
     "category": "Hardware",
-    "company_name": "Geotab",
-    "id": "7dfcb056-5844-42f0-93f2-20a6614471ff",
-    "title": "Vehicle Systems Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766163028,
-    "date_posted": 1766163028,
-    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4977993008",
-    "locations": [
-      "Kitchener, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Geotab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
     "company_name": "NXP Semiconductors",
     "id": "7aad84f8-64bc-4c42-b997-d574cd815d2f",
     "title": "AI/ML ASIC Design and Implementation Automation Intern",
@@ -1775,27 +1754,6 @@
       "United States"
     ],
     "company_url": "https://simplify.jobs/c/Oracle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Bristol Myers Squibb",
-    "id": "3dda6268-4a62-468d-ac00-56d9b4317638",
-    "title": "Intern Statistical Programmer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766250841,
-    "date_posted": 1766148319,
-    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Boudry---CH/Junior--Statistical-Programming_R1597990",
-    "locations": [
-      "Uxbridge, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -26080,28 +26038,6 @@
     "degrees": [
       "Master's"
     ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "John Deere",
-    "id": "b1741d69-5ace-4963-a1cd-b267f3f4b160",
-    "title": "Part Time Student - Data Analytics",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1766160809,
-    "date_posted": 1766160809,
-    "url": "https://johndeere.eightfold.ai/careers/job/137477212714",
-    "locations": [
-      "Grimes, IA",
-      "Davenport, IA"
-    ],
-    "company_url": "https://simplify.jobs/c/John-Deere",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
   },
   {
     "source": "Simplify",
@@ -332785,7 +332721,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
