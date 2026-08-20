@@ -1,69 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "Oracle",
-    "id": "bd032838-a1e3-490e-936f-57ee6dfdc806",
-    "title": "Cloud Product Release Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766474277,
-    "date_posted": 1766474277,
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Oracle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Oracle",
-    "id": "25e0cd50-4873-465a-a605-db9e9ca12788",
-    "title": "Advanced Degree Software Engineer Intern - Database Technologies",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766474271,
-    "date_posted": 1766474271,
-    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321121",
-    "locations": [
-      "San Carlos, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Oracle",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Entegris",
-    "id": "0ea3ff29-dd31-4034-8794-959d0a992cf8",
-    "title": "Data Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766475037,
-    "date_posted": 1766475037,
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
-    "locations": [
-      "Chaska, MN"
-    ],
-    "company_url": "https://simplify.jobs/c/Entegris",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Zoox",
     "id": "e9ef886b-7a42-4f41-9d7c-e500a741f4f6",
@@ -4548,27 +4485,6 @@
     "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2026_REQ-9615",
     "locations": [
       "San Luis Obispo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Entegris",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Entegris",
-    "id": "439f161f-b806-4c02-ac0e-59b6bd806b54",
-    "title": "Nanoparticle Research Associate Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766475035,
-    "date_posted": 1766475035,
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Nanoparticle-Research-Associate-Intern---Summer-2026_REQ-9634-1",
-    "locations": [
-      "Montgomery, IL"
     ],
     "company_url": "https://simplify.jobs/c/Entegris",
     "is_visible": true,
@@ -76073,7 +75989,7 @@
     "company_name": "ByteDance",
     "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
     "title": "Software Engineer Project Intern - Security Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -140304,7 +140220,7 @@
     "company_name": "Tencent",
     "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -140327,7 +140243,7 @@
     "company_name": "Tencent",
     "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
     "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -297828,7 +297744,7 @@
     "company_name": "Gitar, Inc.",
     "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2025"
     ],
@@ -299867,7 +299783,7 @@
     "company_name": "Keysight Technologies",
     "id": "94d15250-b26f-43ee-8091-069b19db76c3",
     "title": "AI/ML Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -325929,7 +325845,7 @@
     "company_name": "InfiniteQuant",
     "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
     "title": "Quantitative Developer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -328940,7 +328856,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -328961,7 +328877,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -328982,7 +328898,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -329031,7 +328947,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -329123,7 +329039,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -329149,7 +329065,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -329175,7 +329091,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -332031,7 +331947,7 @@
     "company_name": "Riveron",
     "id": "6359c80a-9d69-4dcc-9607-0b4506269693",
     "title": "Technology & Innovation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -332401,7 +332317,7 @@
     "company_name": "RTX",
     "id": "40569998-45dc-4119-b2ea-2f11366a604f",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -333875,7 +333791,7 @@
     "company_name": "Assurant",
     "id": "5e9fd1d4-a28c-46fb-96eb-f4a461df16b8",
     "title": "Digital & AI Transformation Intern 1 - Internship Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335026,7 +334942,7 @@
     "company_name": "NVIDIA",
     "id": "2698abcf-1f94-40b6-9881-1b14c416262f",
     "title": "Computer Architecture Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335287,7 +335203,7 @@
     "company_name": "Dedalus",
     "id": "a168d40a-43c6-46f4-ac2d-f1d264740bc3",
     "title": "Software Development Apprentice - Digital Solutions Team",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -335899,7 +335815,7 @@
     "company_name": "Centific",
     "id": "a8814763-abf2-4ca5-ad40-518545962599",
     "title": "Technical Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -336225,7 +336141,7 @@
     "company_name": "StudyFetch",
     "id": "179e11a1-a541-4256-a6c3-e36544663802",
     "title": "AI Research Assistant - Machine Learning & AI",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336544,5 +336460,180 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "E-Space",
+    "id": "1bd50634-5114-480f-8a35-3a592f0fe763",
+    "title": "Embedded Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787207275,
+    "date_posted": 1787207120,
+    "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply",
+    "locations": [
+      "Arlington, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/E-Space",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Sysco",
+    "id": "1c385c6d-d388-465d-9ccb-4051032c9a09",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787206552,
+    "date_posted": 1787184000,
+    "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660",
+    "locations": [
+      "Houston, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Sysco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wells Fargo",
+    "id": "65808ab5-729a-4821-a768-dcd4991bd9f6",
+    "title": "Quantitative Analytics Intern - Risk Analytics and Decision Sciences",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787206501,
+    "date_posted": 1787184000,
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Wells-Fargo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Boston Consulting Group",
+    "id": "08532603-7472-48a9-a825-fef3a7108472",
+    "title": "Forward Deployed AI Scientist",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787214837,
+    "date_posted": 1787186937,
+    "url": "https://careers.bcg.com/global/en/job/59068",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Washington, DC",
+      "SF",
+      "LA",
+      "Miami, FL",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Pittsburgh, PA",
+      "NYC",
+      "Brooklyn, NY",
+      "Manhattan Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "a908b011-3049-4c5c-831e-b0a4e17ddebf",
+    "title": "Machine Learning Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787217481,
+    "date_posted": 1787217439,
+    "url": "https://lifeattiktok.com/search/7675847556668295429",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "79ddabd2-cd14-4fd6-8aec-f82858b2190e",
+    "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787217481,
+    "date_posted": 1787217444,
+    "url": "https://lifeattiktok.com/search/7675845333947812149",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "SOCOTEC UK & Ireland",
+    "id": "02476878-55a1-477c-94ee-6d818bddf0af",
+    "title": "Summer Intern - Innovations Team",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787216581,
+    "date_posted": 1787216581,
+    "url": "https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000144486989",
+    "locations": [
+      "Altrincham, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/SOCOTEC-UK-And-Ireland",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
   }
 ]
