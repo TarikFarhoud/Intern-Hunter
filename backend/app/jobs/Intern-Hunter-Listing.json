@@ -1,394 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Roche",
-    "id": "38c91d95-996b-405f-aa24-f6d2546c8f5f",
-    "title": "Intern - Systems Engineer - Systems & Hardware Engineering Chapter",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766536470,
-    "date_posted": 1766536470,
-    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2026-Summer-Intern---Systems-Engineer---Systems---Hardware-Engineering-Chapter_202512-132267-1",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "company_url": "https://simplify.jobs/c/Roche",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "ASML",
-    "id": "c6392809-db86-430a-9b90-1764a073577d",
-    "title": "Intern - Field Service Engineer - Human Machine Interface",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766538209,
-    "date_posted": 1766538209,
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship---Field-Service-Engineer---HMI_J-00332439",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "company_url": "https://simplify.jobs/c/ASML",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Micron Technology",
-    "id": "cb571ad6-5cf1-4f39-b917-7201a5bc3db4",
-    "title": "Intern – Thermal Modeling & Simulation",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766537082,
-    "date_posted": 1766537082,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693",
-    "locations": [
-      "Boise, ID"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "KBR",
-    "id": "0587e7e0-e198-410e-9058-c5e045369159",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766538875,
-    "date_posted": 1766538875,
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Data-Science-Intern_R2116913",
-    "locations": [
-      "Colorado Springs, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/KBR",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Samsung Research America",
-    "id": "bba5c5b2-6284-4f59-b1f9-478c46f31025",
-    "title": "Intern - Robot Intelligence",
-    "active": false,
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1766543125,
-    "date_posted": 1766543125,
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8348787002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Paramount Global",
-    "id": "cdd05ec1-c5da-4916-86e1-27c34cd42b5d",
-    "title": "Product Management Internships - Summer 2026 - In Person-NYC",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542840,
-    "date_posted": 1766542840,
-    "url": "https://careers.paramount.com/job/New-York-Product-Management-Internships-(Summer-2026,-In-Person-NYC)-NY-10036/1351979900/?ats=successfactors",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Paramount Global",
-    "id": "ab3460e9-c205-4dea-a1fe-664832f5f225",
-    "title": "CBS Sports Data Delivery & Insights Internship - Summer 2026 - In Person-Fort Lauderdale','FL",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542847,
-    "date_posted": 1766542847,
-    "url": "https://careers.paramount.com/job/Fort-Lauderdale-CBS-Sports-Data-Delivery-&-Insights-Internship-(Summer-2026,-In-Person-Fort-Lauderdale,-FL)-FL-33309/1351979000/?ats=successfactors",
-    "locations": [
-      "Fort Lauderdale, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Paramount Global",
-    "id": "ab1bd7c5-55de-47be-995e-ee1df01d4349",
-    "title": "Product Management Internships - Summer 2026 - In Person-LA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542838,
-    "date_posted": 1766542838,
-    "url": "https://careers.paramount.com/job/West-Hollywood-Product-Management-Internships-(Summer-2026,-In-Person-LA)-CA-90069/1351979800/?ats=successfactors",
-    "locations": [
-      "Burbank, CA",
-      "Hollywood, LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Paramount Global",
-    "id": "9d5ae4ca-52b2-4963-ae6a-569ab8b15d48",
-    "title": "Software Engineering Internships - Summer 2026 - In Person-LA",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542860,
-    "date_posted": 1766542860,
-    "url": "https://careers.paramount.com/job/Burbank-Software-Engineering-Internships-(Summer-2026,-In-Person-LA)-CA-91505/1351981000/?ats=successfactors",
-    "locations": [
-      "Burbank, CA",
-      "Hollywood, LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Paramount Global",
-    "id": "624def2c-3c1f-4a82-9992-4f58ed08fc1c",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542863,
-    "date_posted": 1766542863,
-    "url": "https://careers.paramount.com/job/New-York-Software-Engineering-Internships-(Summer-2026,-In-Person-NYC)-NY-10036/1351981200/?ats=successfactors",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Paramount Global",
-    "id": "26a5e693-5c42-490b-8acc-010e9c5210f8",
-    "title": "Data Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542852,
-    "date_posted": 1766542852,
-    "url": "https://careers.paramount.com/job/Burbank-Data-Internships-(Summer-2026,-In-Person-LA)-CA-91505/1351980600/?ats=successfactors",
-    "locations": [
-      "Burbank, CA",
-      "Hollywood, LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Electronic Arts",
-    "id": "eb860fb2-1bee-4972-9eed-7be7cf73d87e",
-    "title": "Global Audit Technology Risk Analytics Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542619,
-    "date_posted": 1766542619,
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Global-Audit-Technology-Risk-Analytics-Intern/210880",
-    "locations": [
-      "San Carlos, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Electronic-Arts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Zoox",
-    "id": "871d0022-706d-4be6-9a97-4f8f4c54af57",
-    "title": "Enterprise Integration Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542516,
-    "date_posted": 1766542516,
-    "url": "https://jobs.lever.co/zoox/0a53e7a7-bbbf-4834-bcd4-f0372e388dfa/apply",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoox",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Electronic Arts",
-    "id": "80c32176-e521-485e-ac93-eebfd7693156",
-    "title": "Operations Analyst Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766542621,
-    "date_posted": 1766542621,
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Operations-Analyst-Intern/211780",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Electronic-Arts",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Paramount Global",
-    "id": "d3ffec28-f4bd-4878-841d-621ad628df33",
-    "title": "Data Internships - Summer 2026 - In Person-NYC",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542847,
-    "date_posted": 1766542847,
-    "url": "https://careers.paramount.com/job/New-York-Data-Internships-(Summer-2026,-In-Person-NYC)-NY-10036/1351980800/?ats=successfactors",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "DiDi Global",
-    "id": "fb1cb019-64ad-4452-84fa-6bbb3602ff48",
-    "title": "Autonomy System & Safety Engineer",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766544447,
-    "date_posted": 1766544447,
-    "url": "https://job-boards.greenhouse.io/didi/jobs/7495391",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/DiDi-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "DiDi Global",
-    "id": "d0c0efe1-7d9a-4ada-bc04-6c93b30ca1e7",
-    "title": "Motion Planning Engineer – Intern/Full-time - PhD",
-    "active": false,
-    "terms": [
-      "Summer 2025"
-    ],
-    "date_updated": 1766544445,
-    "date_posted": 1766544445,
-    "url": "https://job-boards.greenhouse.io/didi/jobs/7495381",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/DiDi-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Paramount Global",
-    "id": "1c9d8af4-d2b7-4722-a4aa-2ab81f10ac79",
-    "title": "Machine Learning Engineer Intern - Summer 2026 - In Person-LA NY C SF",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766542844,
-    "date_posted": 1766542844,
-    "url": "https://careers.paramount.com/job/Burbank-Machine-Learning-Engineer-Intern-(Summer-2026-In-Person-LA-NYC-SF)-CA-91505/1351984200/?ats=successfactors",
-    "locations": [
-      "SF",
-      "Burbank, CA",
-      "Hollywood, LA",
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Paramount-Global",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Archer",
     "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
@@ -239350,7 +238962,7 @@
     "company_name": "Astranis",
     "id": "60aab1d5-8134-4309-a8b5-e3819f70db56",
     "title": "Software Engineer-Backend Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -283966,7 +283578,7 @@
     "company_name": "Sezzle",
     "id": "136bc4e8-f085-4b75-989c-c73b7f7de779",
     "title": "Product Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -317024,7 +316636,7 @@
     "company_name": "Nokia",
     "id": "a2460719-7c2d-426b-9852-b0d4d526029b",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -317196,7 +316808,7 @@
     "company_name": "State of Nebraska",
     "id": "b74df225-de2e-4317-b24c-f56e01804516",
     "title": "IT Construction Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318292,7 +317904,7 @@
     "company_name": "Axon",
     "id": "6eff9788-f38e-4357-8646-cd6f5984f3cb",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -322657,7 +322269,7 @@
     "company_name": "Warner Bros.",
     "id": "9e97c062-7920-4656-b068-3e199376c3f5",
     "title": "Research & Analytics Internships - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -324341,7 +323953,7 @@
     "company_name": "BowerGroupAsia",
     "id": "dbd42a27-5b9c-4e33-981e-03b350eb0b21",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -327882,7 +327494,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327997,7 +327609,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -328023,7 +327635,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -328072,7 +327684,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -328095,7 +327707,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -329078,7 +328690,7 @@
     "company_name": "Vanguard",
     "id": "a3008ed4-1483-4ec4-9ccf-259ac6b6fd86",
     "title": "Data Analyst Intern - College to Corporate IT",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335648,7 +335260,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -335672,7 +335284,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -335760,7 +335372,7 @@
     "company_name": "Freeform",
     "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
     "title": "Materials Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335853,7 +335465,7 @@
     "company_name": "Centific",
     "id": "2beb3742-f77d-4a70-b6cd-ed3c76034f75",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -336570,6 +336182,360 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Navy Federal",
+    "id": "01693d6f-5d51-4b77-a732-36500a8373e0",
+    "title": "Change Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787275446,
+    "date_posted": 1787275181,
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31728",
+    "locations": [
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Navy-Federal",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "ByteDance",
+    "id": "162be72f-9782-48cc-94af-9e3dcbf2c8de",
+    "title": "Software Engineer Intern - CIS Knowledge Bank",
+    "active": true,
+    "terms": [
+      "Fall 2027"
+    ],
+    "date_updated": 1787275081,
+    "date_posted": 1787274966,
+    "url": "https://jobs.bytedance.com/en/position/7675345626188335365/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Micron Technology",
+    "id": "afa64b8c-e29c-4c0b-bc7d-fbca02771094",
+    "title": "SoC RTL Design Engineer Intern - HBM",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787275280,
+    "date_posted": 1787184000,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
+    "locations": [
+      "Folsom, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Micron Technology",
+    "id": "1117caa7-3295-43c8-a83c-b44e449d40eb",
+    "title": "Physical Failure Analysis Engineer Intern - Yield Enhancement",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787275262,
+    "date_posted": 1787184000,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---YE-Physical-Failure-Analysis-Engineer_JR109154",
+    "locations": [
+      "Boise, ID"
+    ],
+    "company_url": "https://simplify.jobs/c/Micron-Technology",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mosaic",
+    "id": "e9cc1694-7911-45ac-988b-ff64e77ff9af",
+    "title": "Artificial Intelligence Co-op Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1787275213,
+    "date_posted": 1787184000,
+    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Mosaic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vanguard",
+    "id": "74a4f228-ddb1-4953-9597-1c278c491082",
+    "title": "Data Science Intern - College to Corporate IT",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787275158,
+    "date_posted": 1787184000,
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanguard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vanguard",
+    "id": "a8fce259-7cd2-44ea-a7ab-787260c1308e",
+    "title": "Data Science Intern - Information Technology",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787275157,
+    "date_posted": 1787184000,
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
+    "locations": [
+      "Malvern, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanguard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Phoebe",
+    "id": "52a1bad8-5a44-4bf7-a4ef-fe2683e423b5",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026",
+      "Winter 2027"
+    ],
+    "date_updated": 1787275155,
+    "date_posted": 1787274906,
+    "url": "https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca/application?embed=true",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Phoebe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Vanguard",
+    "id": "5de3980e-8b11-479f-b78e-cce6b70957b5",
+    "title": "Data Analyst Intern - College to Corporate IT",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787275146,
+    "date_posted": 1787184000,
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Vanguard",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Auto-Owners Insurance",
+    "id": "52280fbc-05cd-4714-a6fa-72ff9c3d0f9f",
+    "title": "Predictive Modeler Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787275081,
+    "date_posted": 1787274930,
+    "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833",
+    "locations": [
+      "Lansing, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Analog Devices",
+    "id": "f432a8a9-9285-46de-a3f7-3cc4dc1c5e27",
+    "title": "Mixed Signal Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787274901,
+    "date_posted": 1787184000,
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299",
+    "locations": [
+      "Wilmington, MA",
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/Analog-Devices",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Pennsylvania State University",
+    "id": "1ee352d1-8fd4-4ca2-aae0-f1701f85df51",
+    "title": "Graduate Assistant",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787275016,
+    "date_posted": 1787184000,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Wage-Payroll-Graduate-Assistant_REQ_0000080280-2",
+    "locations": [
+      "University Park, State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "IMEG",
+    "id": "cb46e6d8-d6c3-45c2-b159-57a52ab9cf10",
+    "title": "Innovation Services Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787274901,
+    "date_posted": 1787184000,
+    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Innovation-Services-Intern---St-Louis--MO_R-16449-1",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "company_url": "https://simplify.jobs/c/IMEG",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "bf2ef6a4-2b5f-4eed-8e5d-57612263f6b6",
+    "title": "Computational Engineering Graduate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787274631,
+    "date_posted": 1787274408,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990014730886",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "43d2af12-58ef-4a09-9b0c-eca848f6b3ee",
+    "title": "Environment, Safety and Health Undergraduate Intern - Fall 2026",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787274630,
+    "date_posted": 1787274408,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990014730996",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
