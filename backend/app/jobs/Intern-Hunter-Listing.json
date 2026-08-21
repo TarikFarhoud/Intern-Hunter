@@ -2,72 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Archer",
-    "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
-    "title": "IOS Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766562033,
-    "date_posted": 1766562033,
-    "url": "https://job-boards.greenhouse.io/archer56/jobs/7565625003",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Archer",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Archer",
-    "id": "193cba01-84fa-45bd-ab80-8d9b48d7a0b7",
-    "title": "AI Research Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766562031,
-    "date_posted": 1766562031,
-    "url": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Archer",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tencent",
-    "id": "67b29de5-f1d6-4d5c-aafe-081ab1a45d9a",
-    "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1766559950,
-    "date_posted": 1766559950,
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106665-1",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Tencent",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "Northrop Grumman",
     "id": "182476d6-bbc5-4742-b451-45a2bc54ac7e",
     "title": "Software Engineer Intern",
@@ -285285,7 +285219,7 @@
     "company_name": "Figure",
     "id": "84fa7902-5663-4610-8dbc-b43afd8c2691",
     "title": "Special Projects Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -292575,7 +292509,7 @@
     "company_name": "Old Mission",
     "id": "b31743bd-7fcf-42a4-aca1-0e6146dfb105",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -296625,7 +296559,7 @@
     "company_name": "Fluency",
     "id": "9ec02aa1-92f0-4290-9d73-e1fc81c000e6",
     "title": "Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -300015,7 +299949,7 @@
     "company_name": "Warner Bros.",
     "id": "a998ee7a-7f05-482d-82bb-d6e84da94314",
     "title": "Sports Growth Strategy and Data Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -300080,7 +300014,7 @@
     "company_name": "Warner Bros.",
     "id": "faaf208d-f3fb-4acf-90e1-a4498d1cebb6",
     "title": "Research, Analytics & Strategy Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -310293,7 +310227,7 @@
     "company_name": "JP Morgan Chase",
     "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
     "title": "Data Internship - Data & AI Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -316612,7 +316546,7 @@
     "company_name": "Nokia",
     "id": "ec85ad4d-1542-495a-9e2a-0d122af39e86",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -316684,7 +316618,7 @@
     "company_name": "Nokia",
     "id": "15b0b358-43ff-47d0-9761-4c4a4c29bdb4",
     "title": "AI R&D Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318930,7 +318864,7 @@
     "company_name": "Cadence Design Systems",
     "id": "40dbbf5f-d4ad-493a-9644-4f4b0662556c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -326487,7 +326421,7 @@
     "company_name": "RTX",
     "id": "f097b101-bba2-4782-92c8-8b5bf641c43d",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -326511,7 +326445,7 @@
     "company_name": "RTX",
     "id": "cf012f7c-ffe4-475e-ab48-18debac5047e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327188,7 +327122,7 @@
     "company_name": "RTX",
     "id": "dfbe29a3-2c22-426e-9544-2185963e401f",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327212,7 +327146,7 @@
     "company_name": "RTX",
     "id": "d84d3dcb-5e6b-483f-9b73-0653b224ffcd",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327259,7 +327193,7 @@
     "company_name": "RTX",
     "id": "92c2bfc9-3493-46c6-8ec0-69f9b4225fd4",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327283,7 +327217,7 @@
     "company_name": "RTX",
     "id": "8fea2128-ad21-47ad-b431-eb973db4321e",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327331,7 +327265,7 @@
     "company_name": "RTX",
     "id": "44a036f1-8b46-4596-939b-e10b3f0e8761",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327426,7 +327360,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327447,7 +327381,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -327468,7 +327402,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327494,7 +327428,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327517,7 +327451,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327609,7 +327543,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327635,7 +327569,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327661,7 +327595,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327684,7 +327618,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -327707,7 +327641,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -330979,7 +330913,7 @@
     "company_name": "RTX",
     "id": "061db93c-b043-4913-8dc0-2d36b47609e0",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -331027,7 +330961,7 @@
     "company_name": "RTX",
     "id": "df3b11d6-07b6-49f9-a445-97f32c89967e",
     "title": "Software Engineer Intern - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -332313,7 +332247,7 @@
     "company_name": "RTX",
     "id": "8a917451-91ce-4fdb-ab11-e7564dd99c37",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -332337,7 +332271,7 @@
     "company_name": "RTX",
     "id": "eab30610-3197-4ea0-8327-56822940fb1b",
     "title": "Digital Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -334026,7 +333960,7 @@
     "company_name": "RTX",
     "id": "3dc31c45-2bae-4f11-b283-deb7c9854dde",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -334711,7 +334645,7 @@
     "company_name": "StudyFetch",
     "id": "179e11a1-a541-4256-a6c3-e36544663802",
     "title": "AI Research Assistant - Machine Learning & AI",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -335107,7 +335041,7 @@
     "company_name": "Boston Consulting Group",
     "id": "08532603-7472-48a9-a825-fef3a7108472",
     "title": "Forward Deployed AI Scientist",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -335260,7 +335194,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -335284,7 +335218,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -336532,6 +336466,1093 @@
       "Livermore, CA"
     ],
     "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "d56dfd5d-55e2-40d6-8702-5198fabd6208",
+    "title": "Data Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293639,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91183?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AMD",
+    "id": "2057d1a3-289b-49ae-8328-fa3527c533c5",
+    "title": "Software Engineer Intern/Co-op - Masters",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293636,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/91176?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "5ea47a48-bb97-4bea-920e-4f30c64827c8",
+    "title": "Research Engineer Intern/Co-op - AMD Research",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787293629,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90925?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "f7eaba38-fbcf-47fb-88d0-928f5427c0cb",
+    "title": "Machine Learning Intern/Co-op - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293610,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/91170?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "c042921c-cebf-43b2-952d-c5484993695b",
+    "title": "Hardware Design Verification Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293607,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90810?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "e8cedff1-c202-4a0c-82aa-62375733005a",
+    "title": "Data Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293600,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90895?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "aae6d5e2-ef8c-48e8-862e-81029e48a6c7",
+    "title": "Data Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787293600,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91179?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "9bb86009-15b1-4f9e-b9ad-f58d7762aebb",
+    "title": "Hardware Engineer Intern/Co-op - Hardware Engineering",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293609,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91182?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "ec03908e-3e83-4c51-adc1-4f9414e3faef",
+    "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293604,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91177?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "a5a8ff7e-b250-4699-8d5f-b15adf724936",
+    "title": "Firmware Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787293602,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90801?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Massachusetts"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AMD",
+    "id": "3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
+    "title": "Software Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293605,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90891?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "3a7a0552-99e6-49df-a934-5f5f8e97109b",
+    "title": "Firmware Engineering Intern Co-op - Undergrad",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293601,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90807?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "33e514e4-a58b-48dd-a27c-aed4a3391473",
+    "title": "Hardware Engineering Intern/Co-op - Undergrad",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293613,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91173?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AMD",
+    "id": "3142b23d-4dfa-443e-82dd-703b3711394b",
+    "title": "Software Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293604,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/91180?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "b6461f19-ac97-4787-a3e5-e3529e7f1e28",
+    "title": "Product Development Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293608,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91227?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AMD",
+    "id": "944978fc-7eeb-4346-82ad-857bec5239a5",
+    "title": "Software Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293606,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90947?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "859f3772-e32c-49b4-a277-ec18490b63ed",
+    "title": "Hardware Design Verification Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293606,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90811?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "501d315c-b9a3-47c7-b07e-24c99ed76f46",
+    "title": "Hardware Design Verification Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787293607,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90813?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "4a574331-3373-4ace-961c-0a3591039b20",
+    "title": "Data Analyst Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293601,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91175?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "286dabc0-b73b-4fa8-a82a-b2a384f8b1d3",
+    "title": "Field Applications Engineer Intern - Masters",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787293598,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91239?icims=1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "077623be-fd6b-4225-a9ec-9d56b4c17a64",
+    "title": "Product Development Engineering Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293604,
+    "date_posted": 1787293337,
+    "url": "https://careers.amd.com/jobs/91228?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "0446e9d0-fc91-4c78-970a-fe7b5809cd30",
+    "title": "Firmware Engineer Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293600,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90809?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "212a153a-1fd0-4d17-a022-c1db71569fd9",
+    "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787293606,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90892?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Texas Instruments",
+    "id": "2019cb04-1f7e-44e2-b190-7cfbd53661c1",
+    "title": "Layout Design Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787293441,
+    "date_posted": 1787293367,
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Texas-Instruments",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "646c1eeb-a6b8-40f6-95c7-581780504d2e",
+    "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293611,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/91181?icims=1",
+    "locations": [
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "2f20ddf7-c228-470e-9c1f-f35d8a1bfc0a",
+    "title": "Hardware Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293601,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90894?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2",
+    "title": "Firmware Engineer Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787293604,
+    "date_posted": 1787293339,
+    "url": "https://careers.amd.com/jobs/90805?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "16ab9e56-fd38-43a4-a048-7cca73f13c2d",
+    "title": "Hardware Design Verification Engineering Intern/Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787293608,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90820?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Rochester, NY",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+    "id": "17156e64-71de-4381-bb2e-56629af78b66",
+    "title": "Energy Systems Analyst Graduate Intern - Fall 2026",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787292901,
+    "date_posted": 1787292734,
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990014731696",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/LLNL",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
+    "title": "Business Insights and Analytics Intern - Member Services",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787294008,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "c6d37325-22f7-46a7-ab78-d7c0f970628e",
+    "title": "Capital Markets Intern - Quantitative Strategies and Research",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1787294007,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--January-2027---4-months-_7167",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
+    "title": "Finance Intern - Risk Analytics",
+    "active": false,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787294010,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Finance--Risk-Analytics--January-2027--8-months-_7145",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "2cdf6089-4c84-4731-8216-3c7ace960f00",
+    "title": "Capital Markets Intern - Quantitative Strategies and Research",
+    "active": true,
+    "terms": [
+      "Winter 2026"
+    ],
+    "date_updated": 1787294011,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2027---4-months-_7168",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Databricks",
+    "id": "1a0df397-2083-456f-9ecb-137eec7603ef",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787294010,
+    "date_posted": 1787293913,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002",
+    "locations": [
+      "SF",
+      "Bellevue, WA",
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Databricks",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Cubic",
+    "id": "ae5500e9-bf44-4dd7-9a73-6b84de0fb777",
+    "title": "Field Services Apprentice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787306318,
+    "date_posted": 1787270400,
+    "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Greenford-Middlesex/Field-Services-Apprentice_REQ_49744",
+    "locations": [
+      "Greenford, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Cubic",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "892947b6-4cac-464b-941a-7244615e4d0a",
+    "title": "Data Engineer Intern - E-commerce",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787305862,
+    "date_posted": 1787305806,
+    "url": "https://lifeattiktok.com/search/7676250516494436661",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Ontario Teachers' Pension Plan",
+    "id": "563165c9-79ea-427e-a9f7-ac43878f12f6",
+    "title": "Portfolio Engineer Intern - Capital Markets - CMIA",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787305242,
+    "date_posted": 1787270400,
+    "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--January-2027---8-months-_7193",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Crowe",
+    "id": "440a78fd-1099-4f5d-9384-4cda25b60ab3",
+    "title": "AI Functional Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787306045,
+    "date_posted": 1787097600,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015",
+    "locations": [
+      "Lexington, KY",
+      "Boston, MA",
+      "Indianapolis, IN",
+      "Houston, TX",
+      "Louisville, KY",
+      "Knoxville, TN",
+      "Nashville, TN",
+      "Washington, DC",
+      "SF",
+      "Austin, TX",
+      "Cleveland, OH",
+      "LA",
+      "Tampa, FL",
+      "San Jose, CA",
+      "Livingston, NJ",
+      "Grand Rapids, MI",
+      "Miami, FL",
+      "Dallas, TX",
+      "The Woodlands, TX",
+      "Plano, TX",
+      "Chicago, IL",
+      "Tallahassee, FL",
+      "Charlotte, NC",
+      "Fort Lauderdale, FL",
+      "Oakbrook Terrace, IL",
+      "Burlington, VT",
+      "Sacramento, CA",
+      "Columbus, OH",
+      "Hartford, CT",
+      "Springfield, IL",
+      "NYC",
+      "Denver, CO",
+      "Atlanta, GA",
+      "Fort Wayne, IN",
+      "South Bend, IN",
+      "Sarasota, FL",
+      "Costa Mesa, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Crowe",
+    "id": "6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
+    "title": "Power Platform Business Solutions Intern - Consulting Practice",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787308561,
+    "date_posted": 1786665600,
+    "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+    "locations": [
+      "Chicago, IL",
+      "Sacramento, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Crowe",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "RTX",
+    "id": "6eed2e3d-bae2-4bba-82dc-8be571a93b1b",
+    "title": "Chemistry Materials Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787310248,
+    "date_posted": 1787184000,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041",
+    "locations": [
+      "Andover, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
