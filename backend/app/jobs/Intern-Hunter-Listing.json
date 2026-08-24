@@ -1,90 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Metropolitan Transportation Authority",
-    "id": "86e2f6bc-9700-4f76-9b02-9c0f4dc8e9c8",
-    "title": "Data Analyst – Emerging Talent Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766790906,
-    "date_posted": 1766790906,
-    "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oj6czfwU?nl=1&nl=1&fr=false",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Intrinsic",
-    "id": "4318333a-a90a-49a6-bde3-c75a899cd8cf",
-    "title": "Deep Learning Intern - Model Optimization",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766793000,
-    "date_posted": 1766793000,
-    "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5743849004",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/IntrinsicAI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Micron Technology",
-    "id": "5a029fdb-4fd3-4614-bec1-add72109d99d",
-    "title": "Intern Computer Engineer - AI/LLM",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1766791953,
-    "date_posted": 1766791953,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533",
-    "locations": [
-      "Boise, ID"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Aramark",
-    "id": "1c5ce248-5998-4d96-8834-d2bf0c0fc0ff",
-    "title": "Environmental Sustainability Intern - Yosemite",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1766792045,
-    "date_posted": 1766792045,
-    "url": "https://aramarkcareers.com/UnitedStates/job/Yosemite-Environmental-Sustainability-Intern-Yosemite-CA-95389/1346482500/?ats=successfactors",
-    "locations": [
-      "Mammoth Lakes, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Aramark",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Qualcomm",
     "id": "5183e112-7170-4c00-a047-89d2819a4b7d",
@@ -16737,27 +16653,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "Civil & Environmental Consultants",
-    "id": "ae757aa4-f547-43c4-9437-3e3f03016289",
-    "title": "Solid Waste Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768300167,
-    "date_posted": 1766790777,
-    "url": "https://careers-cecinc.icims.com/jobs/5970/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Civil-And-Environmental-Consultants",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Product",
     "company_name": "Sigma Computing",
     "id": "4bafe0b5-f17f-45e2-9cb3-51c529b8c67d",
@@ -22208,29 +22103,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Micron Technology",
-    "id": "39799c33-3126-43c2-a071-b8db9bf764d4",
-    "title": "Design Readiness Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1766792029,
-    "date_posted": 1766792029,
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Readiness-Engineer_JR81940",
-    "locations": [
-      "Boise, ID"
-    ],
-    "company_url": "https://simplify.jobs/c/Micron-Technology",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
   },
   {
     "source": "Simplify",
@@ -264427,7 +264299,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -265278,7 +265150,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -316327,7 +316199,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -316949,7 +316821,7 @@
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -317312,7 +317184,7 @@
     "company_name": "Canva",
     "id": "6a212112-d9f9-4c10-9b56-d8fd10c8fd96",
     "title": "PhD Research Scientist Intern - Edge AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -327320,7 +327192,7 @@
     "company_name": "Smiths Detection Group",
     "id": "58e947f1-9077-412b-ba6c-b7399ec951f9",
     "title": "Commercial Intern - Commercial Tools & Business Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
