@@ -220502,7 +220502,7 @@
     "company_name": "Astranis",
     "id": "358237a9-7866-40f8-98fc-affcbbc15651",
     "title": "Flight Software Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -226270,7 +226270,7 @@
     "company_name": "Astranis",
     "id": "a4f598b7-9523-41bf-a91b-7ef4589ac1ea",
     "title": "Reliability Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -238700,7 +238700,7 @@
     "company_name": "CIBC",
     "id": "6fb305ca-d18b-41e6-9be0-8ac27a99adf2",
     "title": "Software/Application Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -258967,7 +258967,7 @@
     "company_name": "ByteDance",
     "id": "6cf0985b-9f4b-4fbb-9dee-114a376730a2",
     "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -264278,7 +264278,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -265129,7 +265129,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -265725,7 +265725,7 @@
     "company_name": "Block",
     "id": "d61f0f42-99b5-4c9d-a8bf-5561238b3014",
     "title": "Applied Research Intern PhD / Graduate Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -265775,7 +265775,7 @@
     "company_name": "Block",
     "id": "11aaf289-dda4-4297-8b78-8998a2d45e2f",
     "title": "Applied Research Intern Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026",
       "Winter 2027"
@@ -272318,7 +272318,7 @@
     "company_name": "Adaption Labs",
     "id": "9999c788-4faa-43a0-9300-8fef2f45873d",
     "title": "Modelling Resident",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -274737,7 +274737,7 @@
     "company_name": "Astranis",
     "id": "04d272dd-0cea-48e3-ab73-31d3f0c7bf44",
     "title": "Reliability Design Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -278503,7 +278503,7 @@
     "company_name": "PsiQuantum",
     "id": "6b3ff2a0-0ae4-4f6b-8e17-0a87442dd4e8",
     "title": "System Architecture Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -279730,7 +279730,7 @@
     "company_name": "Citadel Securities",
     "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
     "title": "Machine Learning Researcher PhD Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -284588,7 +284588,7 @@
     "company_name": "Astranis",
     "id": "d5cec203-67b4-4970-8718-20bdbbe30e43",
     "title": "Radiation Effects Associate Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -284635,7 +284635,7 @@
     "company_name": "Astranis",
     "id": "691cf244-d5c5-4077-969a-e3f3f9af4bb4",
     "title": "Radiation Effects Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -290601,7 +290601,7 @@
     "company_name": "NewsBreak",
     "id": "8975659b-0873-4463-9888-45451e2e150b",
     "title": "Growth Engineer Intern - Growth Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -291105,7 +291105,7 @@
     "company_name": "Copart",
     "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -291606,7 +291606,7 @@
     "company_name": "The Trade Desk",
     "id": "1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
     "title": "Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -291831,7 +291831,7 @@
     "company_name": "Citadel Securities",
     "id": "a869b3f7-71bd-4b08-9c7e-8c6706e98035",
     "title": "Quantitative Research Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -292090,7 +292090,7 @@
     "company_name": "Optiver",
     "id": "56965bf6-c164-4f90-8d38-c6ccc6fdcd9a",
     "title": "Trading Automation and Operations Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -305051,7 +305051,7 @@
     "company_name": "Formlabs",
     "id": "fbc2121f-6452-434e-a732-904dabe11cd7",
     "title": "Hardware R&D Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -315621,7 +315621,7 @@
     "company_name": "Canva",
     "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
     "title": "PhD Research Scientist Intern - Generative AI",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -315644,7 +315644,7 @@
     "company_name": "Canva",
     "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
     "title": "PhD Research Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -316155,7 +316155,7 @@
     "company_name": "Samsung Research America",
     "id": "398433b0-f2f4-4367-80dd-7f56b0ee3d6b",
     "title": "Digital Health Algorithms Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -316178,7 +316178,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -316800,7 +316800,7 @@
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -320736,7 +320736,7 @@
     "company_name": "RTX",
     "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -325581,7 +325581,7 @@
     "company_name": "Microsoft",
     "id": "b2b93c28-353f-458c-83fe-cd14c4471ac5",
     "title": "Optoelectronics Device Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -325861,7 +325861,7 @@
     "company_name": "RTX",
     "id": "39be2363-aaad-4bf0-9f3a-19906a6a8182",
     "title": "Electrical Computer-Aided Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -326752,7 +326752,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326773,7 +326773,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -326794,7 +326794,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326843,7 +326843,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326935,7 +326935,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326961,7 +326961,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326987,7 +326987,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327010,7 +327010,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -328432,7 +328432,7 @@
     "company_name": "Suncor",
     "id": "9a19ddc0-978b-4f92-832f-f0b96df5af93",
     "title": "Automation Intern - Software or Computer Engineering Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -332933,7 +332933,7 @@
     "company_name": "NVIDIA",
     "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
     "title": "Mixed Signal Design Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -334586,7 +334586,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -334610,7 +334610,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -334698,7 +334698,7 @@
     "company_name": "Freeform",
     "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
     "title": "Materials Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -339763,7 +339763,7 @@
     "company_name": "Google",
     "id": "eb72a87e-f9d7-457b-8448-ae0bcdd0872b",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -339788,7 +339788,7 @@
     "company_name": "Google",
     "id": "e3dc5e7f-9828-4121-8b6f-6d45091a92a4",
     "title": "Research Intern - PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -342425,6 +342425,920 @@
       "Bachelor's",
       "Master's",
       "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Meridian Partners",
+    "id": "2b427c48-848f-4f28-b666-9136b44ba757",
+    "title": "Embedded Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "7a0e26e4-7787-42a2-8128-e496212ae724",
+    "title": "Full Stack Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "eeda0ac4-569c-4d27-927d-56e668f95ffa",
+    "title": "Python Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
+    "title": "Cloud Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "d7b507c0-bb45-40b2-97e2-575198d7b5c7",
+    "title": "Front End Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638972,
+    "date_posted": 1787638784,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meridian Partners",
+    "id": "721b1502-72bd-47a9-91c2-a71011c5fd1c",
+    "title": "Data Scientist Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638972,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003",
+    "locations": [
+      "Cambridge, MA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD",
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "1e31d74f-0f5b-482c-9140-d0be0ff9eeeb",
+    "title": "Python Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638972,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meridian Partners",
+    "id": "bc77c289-ab13-4062-adf6-da8e0aa72034",
+    "title": "Machine Learning Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "850ae44b-e26e-426b-a045-99d7bb70e509",
+    "title": "Full Stack Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638971,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Meridian Partners",
+    "id": "b6132ac2-9368-4e6a-aa27-567060ba3f3f",
+    "title": "Front End Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638784,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Meridian Partners",
+    "id": "279f47da-651d-4b99-be89-f25aaa8768d1",
+    "title": "Data Scientist Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638888,
+    "date_posted": 1787638783,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003",
+    "locations": [
+      "Cambridge, MA",
+      "Seattle, WA",
+      "Arlington County, Arlington, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Meridian Partners",
+    "id": "d4337bc3-9805-4025-bbb6-1871543e465f",
+    "title": "Embedded Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787638968,
+    "date_posted": 1787638784,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "ddae6979-7fcd-4b8d-97c8-36d02bd02f06",
+    "title": "ASIC Package Engineering Intern Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787638840,
+    "date_posted": 1787638564,
+    "url": "https://careers.amd.com/jobs/91466?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "8d8ee1d2-7639-4b3a-a595-6be2478476c4",
+    "title": "ASIC Package Engineer Intern Co-op",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787638845,
+    "date_posted": 1787638570,
+    "url": "https://careers.amd.com/jobs/91469?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "87d12a7b-d741-4dd9-a558-de2b329aa098",
+    "title": "ASIC Package Engineering Intern Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "date_updated": 1787638849,
+    "date_posted": 1787638570,
+    "url": "https://careers.amd.com/jobs/91471?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "AMD",
+    "id": "06673e9a-5d65-4652-9ea8-f673b24c85a5",
+    "title": "ASIC Package Engineering Co-op/Intern",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787638827,
+    "date_posted": 1787638564,
+    "url": "https://careers.amd.com/jobs/91463?icims=1",
+    "locations": [
+      "San Jose, CA",
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Multnomah County",
+    "id": "d3abbe01-5fad-408d-a9d1-083f5c0c09a2",
+    "title": "Immunization & Community Health Intern - Prevention and Health Promotion",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787641023,
+    "date_posted": 1787529600,
+    "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Multnomah-County",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Wex",
+    "id": "90639373-d769-48b3-8ac2-94d63829c638",
+    "title": "Artificial Intelligence Intern - AI/ML/NLP Engineer",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787640076,
+    "date_posted": 1787529600,
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "SF",
+      "Dallas, TX",
+      "Chicago, IL",
+      "Portland, ME"
+    ],
+    "company_url": "https://simplify.jobs/c/Wex",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Apple",
+    "id": "acff4e3e-72e2-4540-80d6-874ced15ab5a",
+    "title": "Design Verification Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1787639618,
+    "date_posted": 1787639465,
+    "url": "https://jobs.apple.com/en-us/details/200679789",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Apple",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kodiak Robotics",
+    "id": "078b686b-ef5b-4803-a291-b3762d2b81b9",
+    "title": "Behavior Planning Intern - Motion Planning",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787647069,
+    "date_posted": 1787603743,
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377721009",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Two Six Technologies",
+    "id": "a4359fda-9a0e-4939-97a9-7a95e02e680e",
+    "title": "SkillBridge Fellow Intern - Multiple Teams",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787648728,
+    "date_posted": 1785190491,
+    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6126995004",
+    "locations": [
+      "Doral, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Solid Power",
+    "id": "3142ece3-66ef-4375-90ee-50e6033cac0a",
+    "title": "R&D Intern - Catholyte",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787649329,
+    "date_posted": 1783042637,
+    "url": "https://job-boards.greenhouse.io/solidpower/jobs/5703080004",
+    "locations": [
+      "Thornton, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/SolidPower",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Concentric",
+    "id": "d509448f-62cd-47bc-9971-4fb9b4f23a31",
+    "title": "AI Workflow Intern - AI Workflow Optimization",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787651489,
+    "date_posted": 1786412275,
+    "url": "https://job-boards.greenhouse.io/concentric/jobs/4703940006",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Concentric",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "8af72864-f555-42d6-8983-01f688580c2c",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787654206,
+    "date_posted": 1787648489,
+    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "b6d77c85-4c5b-4da2-819e-86166d105648",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787654206,
+    "date_posted": 1787648486,
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "e179d914-b70e-45ab-994b-6317583a37d7",
+    "title": "Security Research Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787654211,
+    "date_posted": 1787648485,
+    "url": "https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "b65e3651-3dfc-4e67-a3bc-0a32f8f46d54",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787654206,
+    "date_posted": 1787648487,
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1422837500/?ats=successfactors",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "9779cb97-3712-4e51-9ee6-6c3054eddb59",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787655441,
+    "date_posted": 1787648486,
+    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837800/?ats=successfactors",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "108a515b-4b16-408c-93fe-5932b4f01064",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787654200,
+    "date_posted": 1787648487,
+    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837600/?ats=successfactors",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kodiak Robotics",
+    "id": "66c9d102-1210-44e6-a788-44411b1769f7",
+    "title": "Simulation Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787654181,
+    "date_posted": 1787628179,
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4378662009",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "AMD",
+    "id": "a554688a-fa61-4d32-8d02-a22d0e78ac6a",
+    "title": "Research Engineering Intern/Co-op - AMD Research",
+    "active": true,
+    "terms": [
+      "Winter 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1787654003,
+    "date_posted": 1787293338,
+    "url": "https://careers.amd.com/jobs/90926?icims=1",
+    "locations": [
+      "Secaucus, NJ",
+      "Austin, TX",
+      "Longmont, CO",
+      "Fishkill, NY",
+      "Fort Collins, CO",
+      "Boxborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/AMD",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Kodiak Robotics",
+    "id": "915b30af-2938-4d48-8548-bc6ea6190333",
+    "title": "Controls Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787654149,
+    "date_posted": 1787603743,
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "6a6f09cf-a286-49e6-bce0-4e4dd947034d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787655694,
+    "date_posted": 1787648487,
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1422837400/?ats=successfactors",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
+    "title": "Product Engineering Intern - Electronics Hardware Design",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787655703,
+    "date_posted": 1787616000,
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "2ced41cc-c8cf-41e5-ae1d-1ded73852520",
+    "title": "Product Engineering Intern - Electronics Hardware Design",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787655441,
+    "date_posted": 1787616000,
+    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Cadence Design Systems",
+    "id": "2601d254-0c81-443b-b1ca-3c2293da624a",
+    "title": "Product Engineering Intern - Electronics Hardware Design",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787655441,
+    "date_posted": 1787616000,
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "d4a99db8-8105-449e-a0e7-eb1fe7c6eb35",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787655441,
+    "date_posted": 1787648489,
+    "url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern,-Software-Engineer-CO-80916/1422839500/?ats=successfactors",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
     ]
   }
 ]
