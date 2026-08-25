@@ -97787,7 +97787,7 @@
     "company_name": "X Development",
     "id": "7906ae4b-a2bf-420a-a929-2b11f82819e8",
     "title": "2026 PhD Residency - Earth Scientist AI Resident - Early Stage Project",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -264278,7 +264278,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -265129,7 +265129,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -266132,7 +266132,7 @@
     "company_name": "Meshy",
     "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
     "title": "Fullstack Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -273559,7 +273559,7 @@
     "company_name": "Nelnet",
     "id": "8edbe308-126f-4a6e-aaca-2f7af80c811e",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -279730,7 +279730,7 @@
     "company_name": "Citadel Securities",
     "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
     "title": "Machine Learning Researcher PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -291831,7 +291831,7 @@
     "company_name": "Citadel Securities",
     "id": "a869b3f7-71bd-4b08-9c7e-8c6706e98035",
     "title": "Quantitative Research Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -303138,7 +303138,7 @@
     "company_name": "Field AI",
     "id": "7b204e68-ba55-4d70-8e42-c26b1ba77132",
     "title": "Robotics Controls Intern - Robot Control Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -311669,7 +311669,7 @@
     "company_name": "Uline",
     "id": "447a57f2-3927-462b-b9ad-02970b6def5c",
     "title": "Business Intelligence Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -324788,7 +324788,7 @@
     "company_name": "Pacific Northwest National Laboratory",
     "id": "d28543b7-a7fc-44e5-8170-698ccc27a4f9",
     "title": "Masters Intern - Detection Physics",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -324811,7 +324811,7 @@
     "company_name": "Pacific Northwest National Laboratory",
     "id": "44f2b4fd-9794-4f17-9b94-57b4e1b43ea3",
     "title": "Detection Physics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -329011,7 +329011,7 @@
     "company_name": "General Motors",
     "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
     "title": "Battery & Sustainability Intern - Battery Research and Development",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -332012,7 +332012,7 @@
     "company_name": "Kimley-Horn",
     "id": "debe4648-f107-4b3e-b27c-7b9712fc382b",
     "title": "GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -338499,7 +338499,7 @@
     "company_name": "Elevate Semiconductor",
     "id": "9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
     "title": "Product Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341437,7 +341437,7 @@
     "company_name": "Raymond James Financial",
     "id": "6bfd05cd-2478-4f41-81ae-a4465639dfdc",
     "title": "Marketing Associate - Marketing Data Insights",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -342208,6 +342208,223 @@
       "Bachelor's",
       "Master's",
       "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Meridian Partners",
+    "id": "ce5ce805-2b7c-460d-a010-28c5e413b7f6",
+    "title": "Flight Software Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787619077,
+    "date_posted": 1787618983,
+    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Meridian-Partners",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Multnomah County",
+    "id": "a11f0950-7a8c-4529-aa0d-e295f4aca1fb",
+    "title": "Public Health Tobacco Control and Prevention Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787618052,
+    "date_posted": 1787529600,
+    "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1",
+    "locations": [
+      "Portland, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Multnomah-County",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Fortive",
+    "id": "25d8c265-f1ed-4e2b-9729-18047088e3ff",
+    "title": "Field Service Engineer Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787628101,
+    "date_posted": 1787628040,
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270",
+    "locations": [
+      "United States"
+    ],
+    "company_url": "https://simplify.jobs/c/Fortive",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "fe19db08-c5c8-4451-a135-035a0a2ccdcf",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787627777,
+    "date_posted": 1787627672,
+    "url": "https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "a2be610b-6555-428e-aa97-517ae6f0f746",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787627775,
+    "date_posted": 1787627670,
+    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "L3Harris Technologies",
+    "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
+    "title": "Configuration Management Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787627777,
+    "date_posted": 1787627671,
+    "url": "https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors",
+    "locations": [
+      "Waco, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "L3Harris Technologies",
+    "id": "1a29544e-d5a9-40c7-94b9-491754d227ac",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787627777,
+    "date_posted": 1787627671,
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "BP",
+    "id": "7d27dfe1-c616-4155-8112-ca1cce62b768",
+    "title": "Corporate Asset Development Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787627045,
+    "date_posted": 1787529600,
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/BP",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Genentech",
+    "id": "bdf86aea-50d0-4dc0-a171-8784bc37c4bb",
+    "title": "Machine Learning Intern - OpRegen Machine Learning",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1787634104,
+    "date_posted": 1787529600,
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---OpRegen-Machine-Learning_202608-121800",
+    "locations": [
+      "South SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Genentech",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "Associate's"
     ]
   }
 ]
