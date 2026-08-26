@@ -2,27 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Western Union",
-    "id": "a7da50b5-63f3-4f95-bf8f-111b47e0695b",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766970143,
-    "date_posted": 1766970143,
-    "url": "https://westernunion.wd5.myworkdayjobs.com/en-US/WesternUnionJobs/job/External-Office-Location-Denver-CO-80237-Contractor-Location/Software-Engineer-Intern_JR0128790",
-    "locations": [
-      "Denver, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/Western-Union",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "Intelcom | Dragonfly",
     "id": "7c57c0a8-a2d0-4713-92b5-07904743f6f3",
     "title": "Software Development Intern - Last Mile",
@@ -238700,7 +238679,7 @@
     "company_name": "CIBC",
     "id": "6fb305ca-d18b-41e6-9be0-8ac27a99adf2",
     "title": "Software/Application Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -282230,7 +282209,7 @@
     "company_name": "TikTok",
     "id": "8f92877d-e680-4332-960c-8f9f8242c24d",
     "title": "Product Manager Intern - TikTok Product Content Ecosystem",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -286650,7 +286629,7 @@
     "company_name": "SharkNinja",
     "id": "278bc4d9-086a-49c0-bd73-d6dc29d652f9",
     "title": "Codeshark",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -305097,7 +305076,7 @@
     "company_name": "Aptiv",
     "id": "3e85b72b-71fc-400c-ba5f-6453f85dff12",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -308593,7 +308572,7 @@
     "company_name": "Naver U.Hub INC",
     "id": "4c13d76e-b205-4010-a271-55fb853f5767",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -322578,7 +322557,7 @@
     "company_name": "Heidelberg Materials",
     "id": "fd834b51-eaca-403e-9f81-222731055fd4",
     "title": "Master Data Intern - Service & Support",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -326585,7 +326564,7 @@
     "company_name": "RTX",
     "id": "92c2bfc9-3493-46c6-8ec0-69f9b4225fd4",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -326752,7 +326731,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326773,7 +326752,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -326794,7 +326773,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326820,7 +326799,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326843,7 +326822,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326935,7 +326914,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326961,7 +326940,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -326987,7 +326966,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327010,7 +326989,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327033,7 +327012,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -327633,7 +327612,7 @@
     "company_name": "Canadian Tire",
     "id": "34101c0f-9710-4470-98d2-e87daabec45b",
     "title": "Digital Product Owner Student",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -334586,7 +334565,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -334610,7 +334589,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -340593,7 +340572,7 @@
     "company_name": "Booz Allen",
     "id": "fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341485,7 +341464,7 @@
     "company_name": "Hoffman Construction",
     "id": "8752d1e7-6282-4f74-ad3c-ae9de53e44ed",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -341724,7 +341703,7 @@
     "company_name": "CLEAResult",
     "id": "0cdb99d3-9690-4d7a-8727-bd690d7f51ff",
     "title": "Energy Efficiency Analyst Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -344281,7 +344260,7 @@
     "company_name": "CSL",
     "id": "a1ed0eeb-abf6-4f36-b1e0-18fd23fe6bee",
     "title": "Data Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -345069,6 +345048,241 @@
       "Corning, NY"
     ],
     "company_url": "https://simplify.jobs/c/Corning",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TikTok",
+    "id": "76570b32-69dc-4557-ad0d-dfd2480f1605",
+    "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787704580,
+    "date_posted": 1787704451,
+    "url": "https://lifeattiktok.com/search/7672671220798818613",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "DV Trading",
+    "id": "cca94bc1-ca14-4a30-b4a1-7484452d46f6",
+    "title": "Futures & Options Trading Analyst Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787704201,
+    "date_posted": 1787704197,
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/DV-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Eight Sleep",
+    "id": "39c9d804-8368-400d-a5f8-818159715b67",
+    "title": "Hardware Support & Test Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787704201,
+    "date_posted": 1787704163,
+    "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Eight-Sleep",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "The Browser Company",
+    "id": "120b5dc5-005a-459d-848c-a05d3a0eba5e",
+    "title": "AI Prototyper Resident",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787704303,
+    "date_posted": 1787704137,
+    "url": "https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true",
+    "locations": [
+      "Remote in USA"
+    ],
+    "company_url": "https://simplify.jobs/c/TheBrowserCompany",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Zipline",
+    "id": "a687b7a4-e59f-46fc-81d2-72d37d677ffb",
+    "title": "Embedded Software Engineer Intern - Spring 2027",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1787704201,
+    "date_posted": 1787704032,
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
+    "locations": [
+      "South SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Zipline",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "L3Harris Technologies",
+    "id": "0f01cb2b-2581-4732-869e-88c6354eb358",
+    "title": "Image Science Engineer Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1787704216,
+    "date_posted": 1787703773,
+    "url": "https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Maximor AI",
+    "id": "a9b6e0e0-7d76-45b2-8d3b-c8a40a8342cd",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1787704197,
+    "date_posted": 1787703941,
+    "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application?embed=true",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Maximor-AI",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "date_updated": 1787706974,
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "degrees": [
+      "Bachelor's"
+    ],
+    "url": "https://grnh.se/abfli75k1us",
+    "company_name": "Steven's Capital Management",
+    "title": "Software Engineer",
+    "locations": [
+      "Radnor, PA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "source": "Zaku-Seven",
+    "id": "3350268b-7da8-41ee-bcc6-c85f795975ac",
+    "date_posted": 1787706974,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AbbVie",
+    "id": "8172b446-22d1-4377-b335-6f5fd54371aa",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787706618,
+    "date_posted": 1787706451,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
+    "locations": [
+      "South SF"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "AbbVie",
+    "id": "41047974-7321-45cf-b910-ac9710ae6e39",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787706618,
+    "date_posted": 1787706452,
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/AbbVie",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
