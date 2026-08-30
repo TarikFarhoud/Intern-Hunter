@@ -1,27 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "CME Group",
-    "id": "cbd42822-ead6-49bc-9b85-82eea9f32a0e",
-    "title": "Degree Apprentice - Computing Systems / Software Engineering",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1767320509,
-    "date_posted": 1767320509,
-    "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/Degree-Apprentice---Computing-Systems---Software-Engineering_33678",
-    "locations": [
-      "Belfast, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/CME-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Nokia",
     "id": "6da7e4e6-b7ea-43a7-a78a-849338142df7",
@@ -19054,29 +19033,6 @@
       "Calgary, AB, Canada"
     ],
     "company_url": "https://simplify.jobs/c/Alberta-Investment-Management-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Royal Bank of Canada",
-    "id": "496aaefe-6bb4-41f7-ac02-88c95cfb2471",
-    "title": "Capital Markets QTS",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1767347352,
-    "date_posted": 1767347352,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Capital-Markets-QTS--Software-Developer--Summer-2026--Halifax---4-Months-_R-0000152728",
-    "locations": [
-      "Halifax Regional Municipality, NS, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
@@ -211909,7 +211865,7 @@
     "company_name": "Tencent",
     "id": "6e53b9de-07c4-4545-b612-707fca641b88",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -272174,7 +272130,7 @@
     "source": "Simplify",
     "category": "Software",
     "company_name": "Later",
-    "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
+    "id": "119ba1cb-df5a-4b95-9bed-4d76527e4280",
     "title": "AI Automation Engineer Co-op",
     "active": true,
     "terms": [
@@ -284416,7 +284372,7 @@
     "company_name": "GE Healthcare",
     "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
     "title": "Field Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -323681,7 +323637,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -323702,7 +323658,7 @@
     "company_name": "Goldman Sachs",
     "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
     "title": "Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -323772,7 +323728,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -336198,7 +336154,7 @@
     "company_name": "The Walt Disney Company",
     "id": "10360e05-db49-4c1b-a62d-7e0038f835fd",
     "title": "Geographic Information Systems Intern - GIS",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -336407,7 +336363,7 @@
     "company_name": "The Walt Disney Company",
     "id": "f5178797-4efa-456f-aa5f-fa10203f6b9d",
     "title": "Geographic Information Systems Intern - GIS",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027"
@@ -339216,7 +339172,7 @@
     "company_name": "L3Harris Technologies",
     "id": "fe19db08-c5c8-4451-a135-035a0a2ccdcf",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339241,7 +339197,7 @@
     "company_name": "L3Harris Technologies",
     "id": "a2be610b-6555-428e-aa97-517ae6f0f746",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339266,7 +339222,7 @@
     "company_name": "L3Harris Technologies",
     "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
     "title": "Configuration Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339289,7 +339245,7 @@
     "company_name": "L3Harris Technologies",
     "id": "1a29544e-d5a9-40c7-94b9-491754d227ac",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339822,7 +339778,7 @@
     "company_name": "Apple",
     "id": "acff4e3e-72e2-4540-80d6-874ced15ab5a",
     "title": "Design Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -343827,7 +343783,7 @@
     "company_name": "RTX",
     "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
     "title": "Customer Data Management and Analysis Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -344533,7 +344489,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
