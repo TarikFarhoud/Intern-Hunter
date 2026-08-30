@@ -1,28 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoetis",
-    "id": "7d0d02d8-8858-47ab-8a16-1d14e1f59758",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1767372217,
-    "date_posted": 1767372217,
-    "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data-Science-Intern_JR00019746",
-    "locations": [
-      "Parsippany-Troy Hills, NJ",
-      "Kalamazoo, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoetis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "BMO ",
     "id": "bd2a868d-7127-4125-b10e-22e6b1278e81",
@@ -345745,7 +345723,7 @@
     "company_name": "Marsh",
     "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
     "title": "Summer Analyst - Data and Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -345769,7 +345747,7 @@
     "company_name": "Marsh",
     "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
     "title": "Summer Analyst Intern - Data and Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
