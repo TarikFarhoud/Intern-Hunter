@@ -2,27 +2,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Sigma Computing",
-    "id": "90215abb-2818-4f0d-89a7-1cc60ee6ae26",
-    "title": "Software Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1767310648,
-    "date_posted": 1767310648,
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7575892003",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Sigma-Computing",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "CME Group",
     "id": "cbd42822-ead6-49bc-9b85-82eea9f32a0e",
     "title": "Degree Apprentice - Computing Systems / Software Engineering",
@@ -28306,7 +28285,7 @@
     "company_name": "Citadel",
     "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
     "title": "Machine Learning Researcher – PhD Intern - US",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -276798,7 +276777,7 @@
     "company_name": "Citadel",
     "id": "1f74ca3f-e832-45e6-bc13-b8222034e373",
     "title": "Quantitative Research Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -276824,7 +276803,7 @@
     "company_name": "Citadel",
     "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
     "title": "Quantitative Research Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -280474,7 +280453,7 @@
     "company_name": "Citadel",
     "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
     "title": "Quantitative Research Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -286543,7 +286522,7 @@
     "company_name": "Citadel",
     "id": "bd8719b9-2be8-458c-ad81-df18b03a5ef2",
     "title": "Quantitative Research Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -323983,7 +323962,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -331536,7 +331515,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -331560,7 +331539,7 @@
     "company_name": "Goldman Sachs",
     "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
     "title": "AWM Product Management Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -348463,5 +348442,26 @@
       "Master's",
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Koch Industries",
+    "id": "d7653110-4f3d-4eb3-87d9-02a024571973",
+    "title": "Data Developer Co-op",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1788042445,
+    "date_posted": 1788042402,
+    "url": "https://koch.avature.net/en_US/careers/JobDetail/193377",
+    "locations": [
+      "North Vancouver, BC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/Koch-Industries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
