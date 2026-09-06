@@ -281133,7 +281133,7 @@
     "company_name": "Chicago Trading Company",
     "id": "9ec52711-cf87-406e-83ad-c5bb73c1e65d",
     "title": "Quant Trading Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -292957,7 +292957,7 @@
     "company_name": "Brio Water Technology",
     "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
     "title": "AI Automation & Business Analytics Intern - Rotational Program",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -313766,7 +313766,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -324575,7 +324575,7 @@
     "company_name": "Capacity",
     "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
     "title": "Speech Technology Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -326141,7 +326141,7 @@
     "company_name": "The Walt Disney Company",
     "id": "c0d7d74a-1903-435e-b895-11e9f9f46ac8",
     "title": "Labor Systems Data Analytics & Integration Intern - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -327119,7 +327119,7 @@
     "company_name": "Freddie Mac",
     "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
     "title": "Multifamily Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -348456,7 +348456,7 @@
     "company_name": "General Motors",
     "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
     "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -369480,7 +369480,7 @@
     "company_name": "Goldman Sachs",
     "id": "59064871-3c04-41bf-8676-945ce2cc7648",
     "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -369501,7 +369501,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -369753,7 +369753,7 @@
     "company_name": "Goldman Sachs",
     "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
     "title": "Summer Analyst Intern - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -377000,5 +377000,37 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Marvell",
+    "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
+    "title": "Advanced Packaging Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027",
+      "Fall 2027",
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1788688496,
+    "date_posted": 1788566400,
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Westlake Village, CA",
+      "Burlington, VT",
+      "Chandler, AZ",
+      "Westborough, MA"
+    ],
+    "company_url": "https://simplify.jobs/c/Marvell",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's"
+    ]
   }
 ]
