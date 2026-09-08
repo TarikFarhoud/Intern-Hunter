@@ -311472,7 +311472,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -319238,7 +319238,7 @@
     "company_name": "Goldman Sachs",
     "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
     "title": "Summer Analyst Intern - Americas - AWM Product Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -322329,7 +322329,7 @@
     "company_name": "General Motors",
     "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
     "title": "Lighting Software Development & Test Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -333533,7 +333533,7 @@
     "company_name": "Marsh",
     "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
     "title": "Summer Analyst - Data and Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -333557,7 +333557,7 @@
     "company_name": "Marsh",
     "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
     "title": "Summer Analyst Intern - Data and Analytics",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -342610,7 +342610,7 @@
     "company_name": "JP Morgan Chase",
     "id": "42de6031-4c39-42f7-9f3d-03e6526b3fef",
     "title": "Quantitative Research Markets Analyst Intern - Quantitative Trading & Research Markets",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -357179,7 +357179,7 @@
     "company_name": "Apple",
     "id": "e6cdaee5-3eef-435f-bda6-5a0850011909",
     "title": "Design Verification Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -367578,7 +367578,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -376869,6 +376869,54 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Walmart",
+    "id": "5fb29a7b-45e4-42fd-8b5d-e87ba55aa181",
+    "title": "Transportation Data Analyst 2 Intern - Intern Conversion",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1788819419,
+    "date_posted": 1788739200,
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-Transportation-Data-Analyst-II_R-2630083",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "company_url": "https://simplify.jobs/c/Walmart",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Solidigm",
+    "id": "e6eff538-cd01-4257-8df6-303b16c0cf63",
+    "title": "Memory Core Design Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1788818762,
+    "date_posted": 1788818749,
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000147954459",
+    "locations": [
+      "Rancho Cordova, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Solidigm",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
     ]
   }
 ]
