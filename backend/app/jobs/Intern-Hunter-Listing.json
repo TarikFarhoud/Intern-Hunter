@@ -2,313 +2,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "ByteDance",
-    "id": "2f581eb5-e5d9-4bc0-a9b6-54a4ea8ad53d",
-    "title": "Research Scientist Intern - Security for AI - 2026 Start",
-    "active": true,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768529643,
-    "date_posted": 1768529643,
-    "url": "https://jobs.bytedance.com/en/position/7595676762475415861/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/ByteDance",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Verkada",
-    "id": "853fa03f-ebd8-4e59-bf7e-e406820d2384",
-    "title": "Backend Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768530638,
-    "date_posted": 1768530638,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5026094007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Verkada",
-    "id": "269e38c9-c69c-4e41-9c91-b4076fa7b35d",
-    "title": "Security Embedded Software Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768530654,
-    "date_posted": 1768530654,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5026086007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Cadence Design Systems",
-    "id": "03407faa-1a5b-4d1d-8153-7689f7a5dbf2",
-    "title": "Software Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1768530643,
-    "date_posted": 1768530643,
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R52812-1",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "TikTok",
-    "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
-    "title": "Frontend Engineer Intern",
-    "active": true,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768529851,
-    "date_posted": 1768529851,
-    "url": "https://lifeattiktok.com/search/7595733632086591797",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/TikTok",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Stanley Black & Decker",
-    "id": "8a6a0937-143d-454c-8ec9-dfb8723e05c4",
-    "title": "Intern – Data Analyst & BI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768530856,
-    "date_posted": 1768530856,
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2026_REQ-1000043205",
-    "locations": [
-      "Towson, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Verkada",
-    "id": "40430164-e85f-4c4b-abd9-c769544d5dd5",
-    "title": "Frontend Software Engineering Intern 2026",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1768530641,
-    "date_posted": 1768530641,
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5024322007",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Verkada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Microsoft",
-    "id": "565149ba-5580-4358-95da-27124bb20422",
-    "title": "Research Intern - AI/ML for Electricity Infrastructure Planning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768547870,
-    "date_posted": 1768547870,
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556734896",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Microsoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Genmab",
-    "id": "3189ff40-123b-4cd0-aff2-989d5bc00a49",
-    "title": "Business Operations and Analytics Intern - US Market Commercial",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768548471,
-    "date_posted": 1768548471,
-    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Business-Operations-and-Analytics-Intern---US-Market-Commercial_R15254-1",
-    "locations": [
-      "Princeton, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Genmab",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Prudential Financial",
-    "id": "7c05e7c8-7442-4664-b51c-198bd2a96225",
-    "title": "PGIM: 2027 Public Fixed Income – Summer Investment Analyst Program - Credit Research Group",
-    "active": false,
-    "terms": [
-      "Summer 2027"
-    ],
-    "date_updated": 1768548889,
-    "date_posted": 1768548889,
-    "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Fixed-Income--Summer-Investment-Analyst-Program--Credit-Research-Group-_R-123005-1",
-    "locations": [
-      "Newark, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Prudential-Financial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Prudential Financial",
-    "id": "81cc3587-f271-40e6-908a-ba39add02156",
-    "title": "Public Fixed Income Investment Analyst Intern - Portfolio Analysis Group",
-    "active": false,
-    "terms": [
-      "Summer 2027"
-    ],
-    "date_updated": 1768548897,
-    "date_posted": 1768548897,
-    "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Fixed-Income--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-123004-1",
-    "locations": [
-      "Newark, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Prudential-Financial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AstraZeneca",
-    "id": "aa42c2c8-abd8-4696-87b4-f20eade1c288",
-    "title": "Data & AI Solutions Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768548178,
-    "date_posted": 1768548178,
-    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Data---AI-Solutions-Intern---Summer-2026_R-243839",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/AstraZeneca",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Prudential Financial",
-    "id": "afca5f9b-973f-4f8a-b29f-9193c572ea3d",
-    "title": "Prudential: 2026 Global Technology & Operations – Internship Program",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1768548893,
-    "date_posted": 1768548893,
-    "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-122979",
-    "locations": [
-      "Newark, NJ"
-    ],
-    "company_url": "https://simplify.jobs/c/Prudential-Financial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Thales",
     "id": "2f708367-3ef7-4287-8135-c4cd0d36cd3b",
     "title": "2026 Engineering Student Placement - Digital Industry",
@@ -13713,27 +13406,6 @@
       "Associate's",
       "Certificate"
     ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Reflect Orbital",
-    "id": "0eed90fc-c40c-4569-90f3-6b18251c4e8c",
-    "title": "Electrical Test Engineering Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769160773,
-    "date_posted": 1768547669,
-    "url": "https://jobs.ashbyhq.com/reflect-orbital/2579731f-d075-44a9-b102-7fb4939140f4/application",
-    "locations": [
-      "West Athens, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Reflect-Orbital",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
   },
   {
     "source": "Simplify",
@@ -102969,7 +102641,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -246799,7 +246471,7 @@
     "company_name": "Meta",
     "id": "7d40282a-e5d1-4104-ba34-426064c6790a",
     "title": "Research Scientist Intern - Photorealistic Telepresence",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026",
       "Spring 2026",
@@ -253395,7 +253067,7 @@
     "company_name": "Copart",
     "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -301988,7 +301660,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -302030,7 +301702,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -321043,7 +320715,7 @@
     "company_name": "MKS Instruments",
     "id": "19594723-95da-4b7d-99b1-df2dd9b151f3",
     "title": "Business Intelligence/Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -329078,7 +328750,7 @@
     "company_name": "Mastercard",
     "id": "e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
     "title": "Data Scientist Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -338311,7 +337983,7 @@
     "company_name": "Google",
     "id": "1fa0cf6c-b41d-4a3e-bd89-e3efc8a41a1f",
     "title": "Data Analytics Apprentice - February 2027 Start",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -358004,7 +357676,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -358116,7 +357788,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -358139,7 +357811,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -358303,7 +357975,7 @@
     "company_name": "Goldman Sachs",
     "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -361127,7 +360799,7 @@
     "company_name": "TD Bank",
     "id": "c86d0cd8-688e-4d74-beff-876230e13041",
     "title": "Software Engineer Intern - Software Engineering Rotational Program",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -361950,7 +361622,7 @@
     "company_name": "Ecolab",
     "id": "43ece9f6-c1e3-4082-8e64-b4f88a4df059",
     "title": "Research and Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -363125,7 +362797,7 @@
     "company_name": "Marvell",
     "id": "72a95a86-9b4f-436c-b408-21eafc8a80fb",
     "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -364173,7 +363845,7 @@
     "company_name": "Bank of Montreal",
     "id": "4b60f85d-2a63-44a5-972b-638a7e3dc96a",
     "title": "Junior Software Developer Co-op Intern - Winter 2027 - 4 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -364219,7 +363891,7 @@
     "company_name": "Bank of Montreal",
     "id": "6681501f-5c25-4e5b-8975-493955cc885d",
     "title": "Junior Software Developer Co-op Intern - Winter 2027 - 4 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -365314,7 +364986,7 @@
     "company_name": "Marvell",
     "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
     "title": "Advanced Packaging Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -370057,7 +369729,7 @@
     "company_name": "Bank of Montreal",
     "id": "d54fd8c7-96c2-4371-bb40-83ca571f8449",
     "title": "Junior Software Developer Co-op Intern - Winter 2027 - 4 months",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -371741,7 +371413,7 @@
     "company_name": "RTX",
     "id": "74da0ee7-75ae-4580-86dd-14d8b4f2e8ab",
     "title": "Data Science and Advanced Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -376515,7 +376187,7 @@
     "company_name": "Northrop Grumman",
     "id": "511601b8-7534-4c60-9f27-a8eda1a963bc",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378293,7 +377965,7 @@
     "company_name": "RTX",
     "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -383296,7 +382968,7 @@
     "company_name": "RTX",
     "id": "73822e9d-adcc-479f-b12b-a9bcdd16fed4",
     "title": "Engine Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -388753,6 +388425,53 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "TikTok",
+    "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
+    "title": "Frontend Engineer Project Intern - Tiktok Multimedia Arch - 2026 - BS/MS",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1788505932,
+    "date_posted": 1781503925,
+    "url": "https://lifeattiktok.com/search/7595733632086591797",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/TikTok",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "ByteDance",
+    "id": "2f581eb5-e5d9-4bc0-a9b6-54a4ea8ad53d",
+    "title": "Research Scientist Intern - Security for AI",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1788456622,
+    "date_posted": 1780610911,
+    "url": "https://jobs.bytedance.com/en/position/7595676762475415861/detail",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/ByteDance",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
     ]
   }
 ]
