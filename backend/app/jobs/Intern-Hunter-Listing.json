@@ -246526,7 +246526,7 @@
     "company_name": "Diversified Automation",
     "id": "bdcaf4b4-8b8e-422a-abc8-4c87da4098a9",
     "title": "Hardware Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -391470,7 +391470,7 @@
     "company_name": "RTX",
     "id": "ed3080a8-8993-4f92-b86a-eb78e4087361",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027"
@@ -401038,6 +401038,29 @@
     "degrees": [
       "Bachelor's",
       "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Invesco",
+    "id": "e4d9c09e-06f3-497e-8b1d-d10e4391744c",
+    "title": "ETF Product Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1789738647,
+    "date_posted": 1789603200,
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546",
+    "locations": [
+      "Downers Grove, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Invesco",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
     ]
   }
 ]
