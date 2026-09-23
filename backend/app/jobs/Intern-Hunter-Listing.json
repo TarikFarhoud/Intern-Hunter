@@ -1,329 +1,6 @@
 [
   {
     "source": "Simplify",
-    "category": "Software",
-    "company_name": "United Parcel Service (UPS)",
-    "id": "5efc6313-e171-4649-a024-543d427d61d0",
-    "title": "Research Co-Op",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769442950,
-    "date_posted": 1769442950,
-    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/OR-Research-Co-Op_R26000540",
-    "locations": [
-      "Maryland"
-    ],
-    "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Anglian Water",
-    "id": "a2178bea-cbbd-4999-86b7-ff7da371512b",
-    "title": "Trainee Modeller",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769442453,
-    "date_posted": 1769442453,
-    "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Peterborough/Trainee-Modeller_R35091",
-    "locations": [
-      "Peterborough, UK",
-      "Northamptonshire, UK",
-      "Ipswich, UK",
-      "East Midlands, UK",
-      "Norwich, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Anglian-Water",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Agilent Technologies",
-    "id": "8717f209-f40d-4193-9cc1-bdb26578a437",
-    "title": "Data Scientist Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769442541,
-    "date_posted": 1769442541,
-    "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/Data-Scientist-Internship---12-month-Placement_4032035",
-    "locations": [
-      "Oxford, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Anglian Water",
-    "id": "54d60bbb-723b-4c94-99e8-5bfaa217ec5e",
-    "title": "Trainee Modeller",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1769442452,
-    "date_posted": 1769442452,
-    "url": "https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Peterborough/Trainee-Modeller_R35091-1",
-    "locations": [
-      "Peterborough, UK",
-      "Northamptonshire, UK",
-      "Ipswich, UK",
-      "East Midlands, UK",
-      "Norwich, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Anglian-Water",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Agilent Technologies",
-    "id": "4c9258a1-af00-4e12-98ed-a9b9c8c15b5f",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769442536,
-    "date_posted": 1769442536,
-    "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/Software-Engineer--Internship----12-month-Industrial-Placement_4035148",
-    "locations": [
-      "Oxford, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Bread Financial",
-    "id": "e099cd24-0d58-40dd-93f8-f4d8b390755d",
-    "title": "Intern – Intelligent Automation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769442280,
-    "date_posted": 1769442280,
-    "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Intelligent-Automation_R1012116",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Bread-Financial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Bread Financial",
-    "id": "88385f92-f9fa-444c-af34-00db3b95ccc8",
-    "title": "Intern – Speech Intelligence Analyst",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769442281,
-    "date_posted": 1769442281,
-    "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Speech-Intelligence-Analyst_R1012117",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/Bread-Financial",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Tokio Marine Kiln",
-    "id": "e40f889a-929d-47bd-9b48-20f117c26004",
-    "title": "2026 TMK Actuarial & Analytics Internship Programme",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769441755,
-    "date_posted": 1769441755,
-    "url": "https://tokiomarinekiln.wd3.myworkdayjobs.com/tmk_careers/job/London/XMLNAME-2026-TMK-Actuarial---Analytics-Internship-Programme_R6001385-3",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Tokio-Marine-Kiln",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Nelnet",
-    "id": "ab005b08-6874-44f9-8eaf-8bd1a0c87fc0",
-    "title": "Intern Pathway",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769441761,
-    "date_posted": 1769441761,
-    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Pathway--Workday--Starting-August-2026_R22241",
-    "locations": [
-      "Lincoln, NE"
-    ],
-    "company_url": "https://simplify.jobs/c/Nelnet",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Caterpillar Inc.",
-    "id": "140886bc-fadc-4d64-80f0-a6b8fc95e9b0",
-    "title": "Corporate Intern - Digital and Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769441649,
-    "date_posted": 1769441649,
-    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000345613",
-    "locations": [
-      "Peoria, IL",
-      "Chicago, IL",
-      "Irving, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Copart",
-    "id": "025e9365-ac1f-4785-96b8-85de9f5a0f4e",
-    "title": "Data Science Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769441564,
-    "date_posted": 1769441564,
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Science---Intern_JR106622",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Copart",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Sparksoft",
-    "id": "fac54b08-5d94-43ce-b24f-95c9a000a719",
-    "title": "Intern",
-    "active": false,
-    "terms": [
-      "Spring 2026"
-    ],
-    "date_updated": 1769441515,
-    "date_posted": 1769441515,
-    "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5030475007",
-    "locations": [
-      "Columbia, MD"
-    ],
-    "company_url": "https://simplify.jobs/c/Sparksoft",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Royal Bank of Canada",
-    "id": "d1866541-eed2-4f02-8a91-cf9ba384b22f",
-    "title": "2026 Summer – Associate Product Manager Intern - Rbcx - 4 Months",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769443123,
-    "date_posted": 1769443123,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---RBCx--Associate-Product-Manager-Intern--4-Months-_R-0000156960-1",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Royal Bank of Canada",
-    "id": "c826440d-99f3-4d6d-9627-4b5b1352b8aa",
-    "title": "Junior Developer Intern - Rbcx",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769443125,
-    "date_posted": 1769443125,
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---RBCx--Junior-Developer-Intern--4-Months-_R-0000156487",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Expeditors",
     "id": "e13872c0-0cd4-4970-94d2-328f2d7a655f",
@@ -180047,7 +179724,7 @@
     "company_name": "Apptronik",
     "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
     "title": "Robotics Software Intern - Real-Time Controls",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -207057,7 +206734,7 @@
     "company_name": "EV Realty",
     "id": "be6493df-d454-4e77-b102-3eef5e546c99",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -221959,7 +221636,7 @@
     "company_name": "Tesla",
     "id": "6093e680-0285-45a2-8e38-1f6ae4e9f4cc",
     "title": "Electronic Design Engineer Intern - Optimus",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -268942,7 +268619,7 @@
     "company_name": "SRI International",
     "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
     "title": "Embedded Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -304760,7 +304437,7 @@
     "company_name": "L3Harris Technologies",
     "id": "83c30d71-5029-4a20-87e9-15ae1661b155",
     "title": "Integration and Test Engineer Intern - Non-Automation",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -308709,7 +308386,7 @@
     "company_name": "Mastercard",
     "id": "f72cae66-cd1d-43f5-899c-f4bf16fd4709",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -308732,7 +308409,7 @@
     "company_name": "Mastercard",
     "id": "466b932d-3cf0-4669-af9f-fa3d799a5a18",
     "title": "Data Scientist Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -317904,7 +317581,7 @@
     "company_name": "AMD",
     "id": "03a692be-c92c-46ec-92a0-4dc48f6487c1",
     "title": "Software Engineer Intern/Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Summer 2027",
@@ -323952,7 +323629,7 @@
     "company_name": "Rockwell Automation",
     "id": "6dd8231b-af5b-412e-bbe4-d94af163d8f7",
     "title": "Content Software Development Intern - Lifecycle Services",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -337213,7 +336890,7 @@
     "company_name": "Nucor",
     "id": "61d8432d-5d66-44d0-8b65-b4da6cd371ab",
     "title": "Commodity Markets Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -338857,7 +338534,7 @@
     "company_name": "Clinton Foundation",
     "id": "d982ee30-b711-41a7-a5ff-d71ae2b98f18",
     "title": "Communications Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -340317,7 +339994,7 @@
     "company_name": "Clorox",
     "id": "792f87e9-1d41-4264-903e-c5bb92833f87",
     "title": "Sales & Customer Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -355974,7 +355651,7 @@
     "company_name": "Geotab",
     "id": "0f1f0fa3-634f-42bc-b180-b5ea31d82a1a",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -366223,7 +365900,7 @@
     "company_name": "Procter & Gamble",
     "id": "44c2aa20-8092-459f-8710-f180c50636b0",
     "title": "Research and Development PhD Intern - Life Cycle Assessment - Data Science",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -376771,7 +376448,7 @@
     "company_name": "Wex",
     "id": "3f5cab3c-532c-4b28-ab03-48e5cd935bb0",
     "title": "Software Engineer Intern - AI & Cloud",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -379594,7 +379271,7 @@
     "company_name": "Micron Technology",
     "id": "732402ac-f881-41b0-ba07-73a97342ee5f",
     "title": "Design Engineer Intern - HBM",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -380361,7 +380038,7 @@
     "company_name": "Microsoft",
     "id": "fe3438ed-3bcb-4b2c-8c82-956e0c204732",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -386410,7 +386087,7 @@
     "company_name": "Garmin",
     "id": "2f7f0d05-4984-4739-ad90-66a2e6cb8c2c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -390334,7 +390011,7 @@
     "company_name": "Watts Water",
     "id": "fe51fb9a-73cc-4b16-993a-f6d8191eeaf0",
     "title": "Product Specialist Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -396429,7 +396106,7 @@
     "company_name": "Athene",
     "id": "548a25ac-0c5d-42d4-ac4b-08d7a25340c3",
     "title": "Operations Reporting & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
