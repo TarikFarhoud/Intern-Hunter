@@ -245883,7 +245883,7 @@
     "company_name": "Capital One",
     "id": "c630373c-97e1-47cf-a4b8-5348a77da451",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -246980,7 +246980,7 @@
     "company_name": "Junior AI",
     "id": "6409dda3-9704-4933-a226-3ae46b43d171",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -269199,7 +269199,7 @@
     "company_name": "Epic Games",
     "id": "9d04080d-0ad1-42fe-b047-599eef0c1fd7",
     "title": "Machine Learning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026",
       "Summer 2027"
@@ -280721,7 +280721,7 @@
     "company_name": "American Fidelity",
     "id": "d10a9d0d-62b5-4eb6-8218-d01baa84b887",
     "title": "Agentic AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -280766,7 +280766,7 @@
     "company_name": "American Fidelity",
     "id": "69582230-5dee-4f0d-88be-bcd518c6edd5",
     "title": "Software Mobile Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -290178,7 +290178,7 @@
     "company_name": "Weave",
     "id": "3a9d445d-6bcb-43b3-8183-0437d5b6c332",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -292784,7 +292784,7 @@
     "company_name": "Kodiak Robotics",
     "id": "21abe7e3-285d-4817-a48a-557228cb2228",
     "title": "AI/ML Intern - Artificial Intelligence/Machine Learning",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -297160,7 +297160,7 @@
     "company_name": "AbbVie",
     "id": "41047974-7321-45cf-b910-ac9710ae6e39",
     "title": "Business Technology Solutions Intern - Data & Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -309964,7 +309964,7 @@
     "company_name": "JP Morgan Chase",
     "id": "9be8af81-1b7f-4387-a589-ca5bc165280f",
     "title": "Quantitative Research Intern - Asset Management - Off-Cycle",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -313962,7 +313962,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "ecc2c90c-04f4-47ed-9368-45700dfe66c6",
     "title": "Software Development Intern - Multi-Mission Planning Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -317999,7 +317999,7 @@
     "company_name": "Voltus",
     "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
     "title": "Energy Markets Intern - Miso",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -318624,7 +318624,7 @@
     "company_name": "Eight Sleep",
     "id": "842ded34-df38-49e4-8d21-4a85f457c148",
     "title": "Prototype & Test Engineer Intern - New Product Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -339414,7 +339414,7 @@
     "company_name": "Micron Technology",
     "id": "366373d7-0ede-413a-8466-27171c7abc8a",
     "title": "Photomask Yield Enhancement Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -356615,7 +356615,7 @@
     "company_name": "L3Harris Technologies",
     "id": "607013f4-3235-4510-ab8d-d3638fc67e53",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -356940,7 +356940,7 @@
     "company_name": "L3Harris Technologies",
     "id": "462036ea-eff2-4ded-93ae-893bcaa080a0",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -360913,7 +360913,7 @@
     "company_name": "The Toro Company",
     "id": "689f3f86-89fe-46b9-8d8f-72346df3b0ae",
     "title": "Embedded Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378612,7 +378612,7 @@
     "company_name": "Persona",
     "id": "b3b5a172-409f-4e54-9248-583177d1ac17",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -381117,7 +381117,7 @@
     "company_name": "Visa",
     "id": "16eda482-7528-44a9-a9ea-c4c30b42b339",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -381188,7 +381188,7 @@
     "company_name": "Visa",
     "id": "72070ff6-860b-4d13-b865-5f6091f53196",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -381235,7 +381235,7 @@
     "company_name": "Visa",
     "id": "d3cb9fdb-6b20-49e1-9f4e-9525acbcd327",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -388547,7 +388547,7 @@
     "company_name": "Lazard",
     "id": "cd9a9dea-bbcd-4793-b6b4-a65c46522966",
     "title": "AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389316,7 +389316,7 @@
     "company_name": "Booz Allen",
     "id": "c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389362,7 +389362,7 @@
     "company_name": "Booz Allen",
     "id": "82a9b6d4-6ab6-499d-a373-79b618b18010",
     "title": "Systems Engineer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389408,7 +389408,7 @@
     "company_name": "Booz Allen",
     "id": "09ae562f-b803-436b-bc40-fa95dde013fd",
     "title": "Systems Engineer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389502,7 +389502,7 @@
     "company_name": "Booz Allen",
     "id": "1c8c6bac-3c43-4f37-aef3-01425709c4e3",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389571,7 +389571,7 @@
     "company_name": "Booz Allen",
     "id": "d1ab33ae-00ef-4a5c-9f42-af71a13f9f68",
     "title": "Software Developer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -389594,7 +389594,7 @@
     "company_name": "Booz Allen",
     "id": "6c19dbb0-d334-4197-a3b2-1a2b7952b5f0",
     "title": "Software Developer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -391887,7 +391887,7 @@
     "company_name": "Booz Allen",
     "id": "4c9dd806-b8fb-45f1-902c-57dd9eea449b",
     "title": "Software Developer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -391979,7 +391979,7 @@
     "company_name": "Booz Allen",
     "id": "f5a57f30-b133-43ba-b8f8-1de07dc17078",
     "title": "Software Developer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -392053,7 +392053,7 @@
     "company_name": "Booz Allen",
     "id": "6dd0e33a-c6c2-49ff-9275-1db9cd952dcd",
     "title": "Software Developer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -392099,7 +392099,7 @@
     "company_name": "Booz Allen",
     "id": "ead230c6-9b31-4e9f-b251-81f5b95992c0",
     "title": "Systems Engineer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -392214,7 +392214,7 @@
     "company_name": "Booz Allen",
     "id": "64b4e84b-a833-403e-81dc-0e503d734f8c",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -392260,7 +392260,7 @@
     "company_name": "Booz Allen",
     "id": "10cac31b-231b-4800-b840-58f61912fea4",
     "title": "Systems Engineer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -399135,7 +399135,7 @@
     "company_name": "Atlassian",
     "id": "9db8fac1-1656-4db7-ad48-26ccb11ca2a8",
     "title": "Data Scientist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -400490,7 +400490,7 @@
     "company_name": "AccuWeather",
     "id": "d9b609ef-0a1c-4b6c-909e-3156ff77bdaa",
     "title": "Hardware Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -400867,7 +400867,7 @@
     "company_name": "NCR Voyix",
     "id": "b02fcae4-ac36-4769-8a28-85242403362c",
     "title": "Software Engineer Fellow",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
