@@ -209425,7 +209425,7 @@
     "company_name": "Valeo",
     "id": "c744757a-3327-4052-bc7a-62b0e22f6dce",
     "title": "Systems Engineering Co-op - Software",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -256059,7 +256059,7 @@
     "company_name": "Rho",
     "id": "2fe0230d-4428-4408-9d8b-91d6274a06b6",
     "title": "Quantitative Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -294373,7 +294373,7 @@
     "company_name": "Qorvo",
     "id": "8c53032c-d29b-4077-82e5-835b75a70990",
     "title": "Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -312959,7 +312959,7 @@
     "company_name": "Allied Solutions",
     "id": "9b1b26ff-b7e0-4bb3-9295-ca054fdf0a44",
     "title": "Data Science Intern - Data Intelligence",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -313101,7 +313101,7 @@
     "company_name": "Allied Solutions",
     "id": "af4ae6bb-f0fe-41f1-af62-5ea8c2bc515f",
     "title": "Data Governance Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -313124,7 +313124,7 @@
     "company_name": "Allied Solutions",
     "id": "837e72ab-fcb7-41aa-b35b-6a804c4f5954",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -313147,7 +313147,7 @@
     "company_name": "Allied Solutions",
     "id": "20930d88-f7dd-4419-8030-471b614af90e",
     "title": "IT Performance Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -317084,7 +317084,7 @@
     "company_name": "Toyota Research Institute",
     "id": "e5f8a85e-932c-4e67-b965-44c9946b5a23",
     "title": "Robotics Research Intern - Post-Training",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -330122,7 +330122,7 @@
     "company_name": "Allied Solutions",
     "id": "92416bd1-1305-45ff-8558-9427fd6cc2bb",
     "title": "Sales Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -334529,7 +334529,7 @@
     "company_name": "Merck",
     "id": "2504c78d-986a-40de-b1e5-49135a5f9043",
     "title": "Optical Imaging Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -345367,7 +345367,7 @@
     "company_name": "Entegris",
     "id": "a3b700b5-11b3-48ae-92cf-a4cd8017c1f6",
     "title": "Lab Automation & AI Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -345590,7 +345590,7 @@
     "company_name": "L3Harris Technologies",
     "id": "e0dcbc43-33a2-4fab-a165-d3a89c549a89",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -345889,7 +345889,7 @@
     "company_name": "L3Harris Technologies",
     "id": "1c48f600-06bd-47c6-b7a6-720bdbab01ea",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -381440,7 +381440,7 @@
     "company_name": "Booz Allen",
     "id": "69a94e8f-fc98-4b1e-a293-67e9d1853c9a",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -384483,7 +384483,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "2afac2d3-8bf0-45b0-8af5-fc0db09951ba",
     "title": "Ridership Analysis & Modeling – Emerging Talent Intern - Fall",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -387517,7 +387517,7 @@
     "company_name": "L3Harris Technologies",
     "id": "09c94917-70f6-40c1-b1e4-ad10b54d98ee",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -388361,7 +388361,7 @@
     "company_name": "Sierra Nevada Corporation",
     "id": "4a1157a6-d353-457f-b894-9deb47f6d3d5",
     "title": "Software Engineer 1",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -389626,7 +389626,7 @@
     "company_name": "Major League Baseball",
     "id": "e4654e28-bb64-4c28-b1f3-c86baeabe85a",
     "title": "Software Engineer Intern - Baseball Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -393418,7 +393418,7 @@
     "company_name": "GlobalFoundries",
     "id": "30aaecc3-d600-4c24-bde5-386b4056f2ee",
     "title": "Design Application Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -394279,7 +394279,7 @@
     "company_name": "Renesas Electronics",
     "id": "5b45c51f-8025-4c1f-9845-28a30c387ae0",
     "title": "Design Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -396436,7 +396436,7 @@
     "company_name": "Texas A&M International University",
     "id": "9f7a8ad3-d41e-4a2f-90e0-cdc666f82723",
     "title": "Undergraduate Research Assistant - Wiseman",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -397160,7 +397160,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "e8fda496-e9f1-4644-a3fb-c4b72895a3dc",
     "title": "Capital Markets AidenEdge Program Winter Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
