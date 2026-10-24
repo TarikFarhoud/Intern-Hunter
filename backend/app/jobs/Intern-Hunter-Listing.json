@@ -2,327 +2,6 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
-    "company_name": "Applied Materials",
-    "id": "c2c4d339-62ef-4ea9-a45e-1e7dc58d85f2",
-    "title": "2026 AI Engineer/Data Scientist Intern-Bachelor's - Santa Clara - CA",
-    "active": false,
-    "terms": [
-      "Winter 2026"
-    ],
-    "date_updated": 1772074479,
-    "date_posted": 1772074479,
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-AI-Engineer-Data-Scientist-Intern--Bachelor-s--Santa-Clara--CA-_R2612962-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Applied-Materials",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Eikon Therapeutics",
-    "id": "befd18c9-9905-42f0-8f74-13f2f82b6667",
-    "title": "Intern Software Engineer - Machine Learning",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772073572,
-    "date_posted": 1772073572,
-    "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5052818007",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Eikon-Therapeutics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Eikon Therapeutics",
-    "id": "8317ea28-0c9b-4c58-92ca-66ef5cf27c7b",
-    "title": "Intern – Software Engineering - Computational Modeling",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772073576,
-    "date_posted": 1772073576,
-    "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5052856007",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Eikon-Therapeutics",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "VSP Vision",
-    "id": "5fce2534-de42-4f2b-b234-6c2b8f55c372",
-    "title": "Data Analytics Intern - Data Analytics",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772072964,
-    "date_posted": 1772072964,
-    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180",
-    "locations": [
-      "Lewisville, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/VSP-Vision",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "SA Technologies",
-    "id": "a9f5d23f-ff43-4ef0-a2a8-8a5fe0d54297",
-    "title": "GIS Analyst",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772090261,
-    "date_posted": 1772090261,
-    "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/116019182",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "company_url": "https://simplify.jobs/c/SA-Technologies",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Sajix",
-    "id": "ddf53d2b-54a9-409e-a0c4-16b535b95685",
-    "title": "Python Developer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772089448,
-    "date_posted": 1772089448,
-    "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603750",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sajix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sajix",
-    "id": "89b5d725-a59f-4eb3-9e08-476905ff182c",
-    "title": "Machine Learning Engineer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772089462,
-    "date_posted": 1772089462,
-    "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603021",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sajix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sajix",
-    "id": "76576561-4ea2-4ced-8208-659e9c8d5c16",
-    "title": "Business Intelligence Analyst",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772089443,
-    "date_posted": 1772089443,
-    "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058602446",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sajix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sajix",
-    "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
-    "title": "Data Analyst",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772089446,
-    "date_posted": 1772089446,
-    "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603050",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sajix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sajix",
-    "id": "2ee71f7d-72b1-4059-8bac-ab051417fc0f",
-    "title": "Data Scientist",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1772089448,
-    "date_posted": 1772089448,
-    "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603525",
-    "locations": [
-      "Pleasanton, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sajix",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Edwards Lifesciences",
-    "id": "46a810ec-2ce5-41f0-8acd-6a0940ccead9",
-    "title": "Environmental Health and Safety Intern - Environmental Health and Safety",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772090766,
-    "date_posted": 1772090766,
-    "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Environmental-Health-and-Safety--EHS--Internship--Summer-2026_Req-45935",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Edwards Lifesciences",
-    "id": "8b499351-7a4d-4c21-adc5-d182ba2d176a",
-    "title": "Artificial Intelligence Biostatistics Intern - AI",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772090765,
-    "date_posted": 1772090765,
-    "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Artificial-Intelligence--AI--Biostatistics-Internship--Summer-2026_Req-45653",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Skyward",
-    "id": "ac7e650d-18e4-4697-9b3d-af017ac49f70",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772090174,
-    "date_posted": 1772090174,
-    "url": "https://jobs.smartrecruiters.com/Skyward1/744000107535692",
-    "locations": [
-      "Plover, WI"
-    ],
-    "company_url": "https://simplify.jobs/c/Skyward",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Société Générale de Surveillance (SGS)",
-    "id": "43aa69a0-6862-409a-8f80-c01cf5a5c54f",
-    "title": "Project Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772090770,
-    "date_posted": 1772090770,
-    "url": "https://jobs.smartrecruiters.com/SGS/744000098083705",
-    "locations": [
-      "Suwanee, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/SGS",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
     "company_name": "Kaiser Permanente",
     "id": "61155f11-cdf7-49e8-bc5b-c3b1c34b3102",
     "title": "Consulting and Data Analytics Master's Intern",
@@ -24258,29 +23937,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "PG&E",
-    "id": "205c0f68-3684-4255-828d-0210cb0254d0",
-    "title": "Grid Innovation Delivery Intern - Grid Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1773097309,
-    "date_posted": 1772089679,
-    "url": "https://careers.pge.com/job/Oakland-Grid-Innovation-Delivery-Intern-Remote-Grid-Engineering-CA-94612/1368170200/?ats=successfactors",
-    "locations": [
-      "Oakland, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/PGE",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
   },
   {
     "source": "Simplify",
@@ -64513,29 +64169,6 @@
       "Longmont, CO"
     ],
     "company_url": "https://simplify.jobs/c/Sandisk",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "SA Technologies",
-    "id": "40b3806c-fa11-45ec-b641-43558f1402ee",
-    "title": "Python Developer",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1774975681,
-    "date_posted": 1772090307,
-    "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/84631481",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/SA-Technologies",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
@@ -166641,7 +166274,7 @@
     "company_name": "Copart",
     "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
     "title": "Database Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -299125,7 +298758,7 @@
     "company_name": "Amgen",
     "id": "811210da-553e-4d37-b262-9897450dc43d",
     "title": "Data Scientist Intern - Amgen’s Technology & Medical Organizations",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -301092,7 +300725,7 @@
     "company_name": "Guardian Life",
     "id": "8155c07e-de11-481a-ba23-c42178f1189c",
     "title": "Application Development Intern - Digital & Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -310146,7 +309779,7 @@
     "company_name": "APEX Analytix",
     "id": "00026218-6b9b-420f-a490-b3b29742cf17",
     "title": "Data Analyst Intern - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -319926,7 +319559,7 @@
     "company_name": "Rundoo",
     "id": "377f631c-ef18-4036-bcee-57777abb2135",
     "title": "Product Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -320541,7 +320174,7 @@
     "company_name": "Corning",
     "id": "d21d8f49-d63f-4ba3-9e67-9ef75902a5ba",
     "title": "Imaging Sciences Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -330966,7 +330599,7 @@
     "company_name": "William Blair",
     "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
     "title": "Application Development Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -331111,7 +330744,7 @@
     "company_name": "Dominion Energy",
     "id": "d0ed0c99-e192-4c3d-88e7-f0f4d4109f3b",
     "title": "GIS Development Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -332788,7 +332421,7 @@
     "company_name": "Advanced Energy",
     "id": "720a793e-c47a-4855-ba94-f7a3b6ca695f",
     "title": "Firmware Engineer Intern - Undergraduate",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -348690,7 +348323,7 @@
     "company_name": "Veeam Software",
     "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
     "title": "Competitive Intelligence AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -349319,7 +348952,7 @@
     "company_name": "Stripe",
     "id": "d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -353526,7 +353159,7 @@
     "company_name": "Intel",
     "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
     "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -357290,7 +356923,7 @@
     "company_name": "Intel",
     "id": "196825af-df08-45d5-a8e9-0d053f272e7b",
     "title": "AI Solution Architect Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -358169,7 +357802,7 @@
     "company_name": "LexisNexis Risk Solutions",
     "id": "425c8e2d-cf78-47d2-91a0-5aeca4485643",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -361671,7 +361304,7 @@
     "company_name": "Boston Scientific",
     "id": "532045a4-58bc-4fef-8105-cae7f1bdcccc",
     "title": "Equipment Engineering Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -362464,7 +362097,7 @@
     "company_name": "Microsoft",
     "id": "b2350562-d38a-4b24-ad67-edf1158b6fb1",
     "title": "Applied Scientist PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -365536,7 +365169,7 @@
     "company_name": "Bonsai Robotics",
     "id": "168cd0cf-a72e-492c-bd84-2eaa9607997a",
     "title": "Field Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -365603,7 +365236,7 @@
     "company_name": "NewYork-Presbyterian",
     "id": "157c3d24-c5e0-4535-9ed2-0627c925c4cc",
     "title": "Finance Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -366209,7 +365842,7 @@
     "company_name": "Micron Technology",
     "id": "63e48584-3893-451e-bc5e-108fdf626cb9",
     "title": "Advanced DRAM Process Integration Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -366443,7 +366076,7 @@
     "company_name": "HCSC",
     "id": "118adc1e-4c91-45e1-8654-5297c47e9a9c",
     "title": "Systems Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -373250,7 +372883,7 @@
     "company_name": "Intel",
     "id": "827e615a-db98-431b-849f-68a2ee50ad9e",
     "title": "AI-Driven Physical Design Engineering PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -378610,7 +378243,7 @@
     "company_name": "Rhombus",
     "id": "e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -378842,7 +378475,7 @@
     "company_name": "H&R Block",
     "id": "cb062e22-3c1a-451f-a4b8-bcb8167ea270",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -380373,7 +380006,7 @@
     "company_name": "Aon",
     "id": "6af5e7e9-0fa2-4fbf-a037-ce3ebedd3daf",
     "title": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -391126,7 +390759,7 @@
     "company_name": "GM financial",
     "id": "44c023e1-517d-40b7-8441-9b2c99ca6b4d",
     "title": "Oracle Application Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -393001,7 +392634,7 @@
     "company_name": "Verizon Communications",
     "id": "069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
     "title": "Call Routing Optimization Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -393071,7 +392704,7 @@
     "company_name": "Verizon Communications",
     "id": "47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -393094,7 +392727,7 @@
     "company_name": "Verizon Communications",
     "id": "cb08255f-ab56-485d-a46a-26e0cb2ada69",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -393117,7 +392750,7 @@
     "company_name": "Verizon Communications",
     "id": "10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d",
     "title": "Call Routing Optimization Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -393161,7 +392794,7 @@
     "company_name": "RTX",
     "id": "d6b959d0-3774-41d6-bc89-d62b84ca38bf",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -404275,7 +403908,7 @@
     "company_name": "RTX",
     "id": "dec37e89-bc3d-4681-a0e6-f9485ecdd6e2",
     "title": "Test Engineering Specialist Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -405554,7 +405187,7 @@
     "company_name": "L3Harris Technologies",
     "id": "c977c519-0e77-41fa-bc32-6ae73ce0cf85",
     "title": "Associate Integration & Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -408505,7 +408138,7 @@
     "company_name": "Aptiv",
     "id": "19189a03-be12-41d8-85ab-ff66a343ee22",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -408587,5 +408220,70 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KRAFTON",
+    "id": "5bb4ece4-430e-448a-b283-4429b6fa0aa5",
+    "title": "UI Programming Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792831373,
+    "date_posted": 1792679825,
+    "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/KRAFTON",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "StudyFetch",
+    "id": "560fbfa2-951c-4d72-adc2-93abc85d1a5b",
+    "title": "Robotics Intern - Learning Kits & Curriculum",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792831187,
+    "date_posted": 1791422612,
+    "url": "https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5",
+    "locations": [
+      "Beverly Hills, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/StudyFetch",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Microsoft",
+    "id": "a6a45fbf-b6a2-4f6b-8387-744c60b29d18",
+    "title": "Research Intern - Extended Perception, Interaction & Cognition",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792833003,
+    "date_posted": 1792449470,
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "company_url": "https://simplify.jobs/c/Microsoft",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ]
   }
 ]
