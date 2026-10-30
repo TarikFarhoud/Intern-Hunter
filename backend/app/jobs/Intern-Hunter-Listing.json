@@ -6615,7 +6615,7 @@
     "company_name": "Tilde Research",
     "id": "e61e91ef-e618-467a-8ce3-391dc8487535",
     "title": "ML Researcher – Intern and Full-time",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -6636,7 +6636,7 @@
     "company_name": "Tilde Research",
     "id": "c90fd52e-24ef-4129-b1c4-1af34d7b997b",
     "title": "ML Engineer",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -139987,7 +139987,7 @@
     "company_name": "Walleye Capital",
     "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
     "title": "PhD Quantitative Researcher Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -194069,7 +194069,7 @@
     "company_name": "Quantbot Technologies",
     "id": "d6fad79e-96ae-48cc-b352-313e695d5e0f",
     "title": "Data Trading Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -222831,7 +222831,7 @@
     "company_name": "Booz Allen",
     "id": "596a789f-9d3f-4275-91f3-da77d86fc246",
     "title": "Data Scientist Intern - University - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -225303,7 +225303,7 @@
     "company_name": "Qorvo",
     "id": "d5c68adb-84dd-4079-a377-d44a05b66a90",
     "title": "Electrical Engineer Intern - Physical Verification",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -225378,7 +225378,7 @@
     "company_name": "Qorvo",
     "id": "b875eded-292c-4e53-b3ed-4fbb1d957ae5",
     "title": "Software Engineer Intern - SWR",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -225401,7 +225401,7 @@
     "company_name": "Qorvo",
     "id": "b4076972-d2bd-46b3-9238-b44ff84af6b4",
     "title": "Research Engineer Intern - High Performance Analog",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -225448,7 +225448,7 @@
     "company_name": "Qorvo",
     "id": "a23842cc-13e8-4c72-a5e2-972b101f7ad8",
     "title": "Analog Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -225616,7 +225616,7 @@
     "company_name": "Qorvo",
     "id": "70024d90-f585-47e3-a34d-e44315206f2d",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -226613,7 +226613,7 @@
     "company_name": "Qorvo",
     "id": "ffbfdb0a-160a-44a5-90b1-76d8bdfccee7",
     "title": "IC Layout Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -234461,7 +234461,7 @@
     "company_name": "Booz Allen",
     "id": "097e5358-9e45-41e0-86bc-5289976e1828",
     "title": "Systems Engineer Intern - Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -234599,7 +234599,7 @@
     "company_name": "Booz Allen",
     "id": "7637b476-395a-4c53-bc72-f6e375758876",
     "title": "Systems Engineer Intern - University",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -237548,7 +237548,7 @@
     "company_name": "Ragle Inc",
     "id": "af103bac-eb95-46b7-94e6-06439a9bd98c",
     "title": "Data Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -241022,7 +241022,7 @@
     "company_name": "Qorvo",
     "id": "fbfa277c-e07d-4122-a980-c9364dbe899d",
     "title": "Database Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -241096,7 +241096,7 @@
     "company_name": "Qorvo",
     "id": "98621c93-f516-46e0-8eda-22230c879010",
     "title": "Product Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -241707,7 +241707,7 @@
     "company_name": "Booz Allen",
     "id": "6aedf2d9-49ab-471f-8cb3-45c3813875b0",
     "title": "Systems Engineer Intern - University - 2027 Summer Games",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -244378,7 +244378,7 @@
     "company_name": "Qorvo",
     "id": "a73fee63-a9d2-4b2c-b209-412569ebdf95",
     "title": "RFIC Design Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -244497,7 +244497,7 @@
     "company_name": "Qorvo",
     "id": "fd36acbc-a038-4f2d-8091-7e1afdcfedf0",
     "title": "SOI Design Engineer Intern - High Performance Analog - Advanced Cellular",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -244545,7 +244545,7 @@
     "company_name": "Qorvo",
     "id": "5945028e-6da9-4848-94a7-8683f2573886",
     "title": "Device Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -259979,7 +259979,7 @@
     "company_name": "Ragle Inc",
     "id": "915593c6-e773-4ccd-9039-fc0ec4968ae5",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -266626,7 +266626,7 @@
     "company_name": "Micron Technology",
     "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
     "title": "DRAM Customer Enablement Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -282131,7 +282131,7 @@
     "company_name": "Wellmark",
     "id": "81596e8a-9d9f-41c9-aac6-a983293dedc1",
     "title": "Data Analytics & Governance Internship",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -299573,7 +299573,7 @@
     "company_name": "Sun Life",
     "id": "5a8903ad-99db-44a3-9d28-ce841606a837",
     "title": "Reporting Analyst Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -300644,7 +300644,7 @@
     "company_name": "Ragle Inc",
     "id": "7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -301141,7 +301141,7 @@
     "company_name": "Emerson Electric",
     "id": "717a9235-d891-49bf-845f-ebea0388bfe1",
     "title": "Electrical Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -303614,7 +303614,7 @@
     "company_name": "Marvell",
     "id": "5aa227fb-8db0-4113-81ec-a0441660db19",
     "title": "SRAM Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027",
       "Summer 2028"
@@ -307601,7 +307601,7 @@
     "company_name": "Qorvo",
     "id": "5dcadcb1-d4a0-4b60-9f0c-7ffcb4745416",
     "title": "Data Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -314356,7 +314356,7 @@
     "company_name": "Marvell",
     "id": "9cb80a43-fcfd-473d-8145-5aba8bb71782",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -316697,7 +316697,7 @@
     "company_name": "Qorvo",
     "id": "97bafc91-6965-4190-9aca-eb19889919f9",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -325511,7 +325511,7 @@
     "company_name": "Qorvo",
     "id": "9c4ef67f-3b4e-4b21-ad86-71ccdeca4645",
     "title": "Electrical Design Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -334735,7 +334735,7 @@
     "company_name": "PNC Financial Services",
     "id": "b8feae1a-90b4-43dd-ab49-8d200bb1cb49",
     "title": "Economics Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -335318,7 +335318,7 @@
     "company_name": "PNC Financial Services",
     "id": "87b9405b-3271-401d-80f0-e9af8c004479",
     "title": "Modeling Graduate Intern - Modeling - Chief Investment Office",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -374995,7 +374995,7 @@
     "company_name": "HCSC",
     "id": "c02d9734-d615-4259-8106-5100b09f6352",
     "title": "Finance Data & Analytics Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -375019,7 +375019,7 @@
     "company_name": "HCSC",
     "id": "19c1720c-cfad-48e9-a226-cf3675ab78d2",
     "title": "Finance Application Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -380627,7 +380627,7 @@
     "company_name": "Schweitzer Engineering Laboratories",
     "id": "7a73e6f4-b7ad-4f5e-990c-f6638569032e",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -382090,7 +382090,7 @@
     "company_name": "Robert Bosch Venture Capital",
     "id": "3e95934a-d25a-49d5-af4b-1a2eeb4b3eef",
     "title": "Calibration Process Optimization Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027"
@@ -382396,7 +382396,7 @@
     "company_name": "NVIDIA",
     "id": "a31a7c17-501a-4eb8-a17b-39bf87ed4403",
     "title": "Software Intern - Embedded Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -386148,7 +386148,7 @@
     "company_name": "Brookhaven Lab",
     "id": "7ca05d58-84bd-46f5-a7fd-18ff83187dc1",
     "title": "Data Engineering Student Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -386882,7 +386882,7 @@
     "company_name": "Walmart",
     "id": "92d82ca0-59d0-4c94-948f-12722e49c262",
     "title": "Automation Product Manager Intern - Product Manager",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -390530,7 +390530,7 @@
     "company_name": "Qorvo",
     "id": "ba651fee-6104-46f7-820b-85c639594cb3",
     "title": "Digital Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -402055,7 +402055,7 @@
     "company_name": "Sonos",
     "id": "0d2ca455-3d54-4b58-b8ec-00f32efcc930",
     "title": "Data Quality Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -404153,7 +404153,7 @@
     "company_name": "Autodesk",
     "id": "b79d2299-e52a-40c5-91ec-6001bb790237",
     "title": "Software Engineer Intern - Javascript",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -405383,7 +405383,7 @@
     "company_name": "Autodesk",
     "id": "d4c0c38c-926b-42df-9d00-d4571c9d812b",
     "title": "Software Engineer Intern - C++/.Net",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -408668,7 +408668,7 @@
     "company_name": "Datasite",
     "id": "af544dc0-7957-4ee1-8aa7-c8c161d3648e",
     "title": "Product Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -409731,7 +409731,7 @@
     "company_name": "Valeris",
     "id": "92a79dc2-c024-4a1f-ae05-1e5cc44e524f",
     "title": "IT Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -410333,7 +410333,7 @@
     "company_name": "Blackberry",
     "id": "c3ab4f77-d094-4084-bb94-7d744ca3e728",
     "title": "Application Engineering Student Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -410868,7 +410868,7 @@
     "company_name": "Synopsys",
     "id": "ae05080d-5298-4731-9bce-6c0748537d01",
     "title": "Technical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -411536,7 +411536,7 @@
     "company_name": "Ncino",
     "id": "b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
